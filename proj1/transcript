@@ -1,0 +1,366 @@
+What is your desired prec@10? (Enter a value in [0, 1]) What is your desired query? Parameters:
+Client key  = AIzaSyBOskhE799tyaHkMxJc08i3YLZiJj6vubw
+Engine key  = 10e635b85174848d2
+Query       = per se
+Precision   = 0.9
+Google Search Results:
+======================
+Result 1
+[
+ URL: https://www.thomaskeller.com/perseny
+ Title: Per Se | Thomas Keller Restaurant Group
+ Summary: Per Se. Per Se Front Door. center. About. About; Restaurant · Team · Info & Directions · Gift Experiences · Reservations; Menus & Stories. Menus & Stories
+]
+Relevant (Y/N)? Result 2
+[
+ URL: https://www.merriam-webster.com/dictionary/perse
+ Title: Perse Definition & Meaning - Merriam-Webster
+ Summary: The meaning of PERSE is of a dark grayish blue resembling indigo. How to use perse in a sentence. Did you know?
+]
+Relevant (Y/N)? Result 3
+[
+ URL: https://www.exploretock.com/perse
+ Title: Per Se - New York, NY | Tock
+ Summary: Opened in 2004, Per Se is Thomas Keller's acclaimed interpretation of The French Laundry in the Deutsche Bank Center at Columbus Circle.
+]
+Relevant (Y/N)? Result 4
+[
+ URL: https://guide.michelin.com/us/en/new-york-state/new-york/.../per-se
+ Title: Per Se – New York - a MICHELIN Guide Restaurant
+ Summary: Per Se – a Three Stars: Exceptional cuisine restaurant in the 2023 MICHELIN Guide USA. The MICHELIN inspectors' point of view, information on prices, ...
+]
+Relevant (Y/N)? Result 5
+[
+ URL: https://www.instagram.com/perseny/
+ Title: Per Se (@perseny) • Instagram photos and videos
+ Summary: 269K Followers, 199 Following, 943 Posts - See Instagram photos and videos from Per Se (@perseny)
+]
+Relevant (Y/N)? Result 6
+[
+ URL: https://en.wikipedia.org/wiki/wikt:per_se
+ Title: per se - Wiktionary, the free dictionary
+ Summary: From Latin per sē (“by itself”), from per (“by, through”) and sē (“itself, himself, herself, themselves”).
+]
+Relevant (Y/N)? Result 7
+[
+ URL: https://dictionary.cambridge.org/us/dictionary/english/per-se
+ Title: PER SE | definition in the Cambridge English Dictionary
+ Summary: PER SE meaning: 1. by or of itself: 2. by or of itself: 3. by or of itself: . Learn more.
+]
+Relevant (Y/N)? Result 8
+[
+ URL: https://en.wikipedia.org/wiki/Per_Se_(restaurant)
+ Title: Per Se (restaurant) - Wikipedia
+ Summary: Per Se (restaurant) ... Per Se is a New American and French restaurant located at The Shops at Columbus Circle, on the fourth floor of the Deutsche Bank Center at ...
+]
+Relevant (Y/N)? Result 9
+[
+ URL: https://www.jamesperse.com/
+ Title: James Perse Los Angeles
+ Summary: James Perse. Women. Women; Apparel. Apparel Main Menu; New Arrivals · At Home Essentials · Classics · Dresses/Jumpsuits · Sweaters/Cashmere · T-shirts.
+]
+Relevant (Y/N)? Result 10
+[
+ URL: https://www.law.cornell.edu/wex/per_se
+ Title: per se | Wex | US Law | LII / Legal Information Institute
+ Summary: Primary tabs. Latin for “by itself,” in other words, inherently. For example, in tort law, a statutory violation is negligence per se. One of the elements a ...
+]
+Relevant (Y/N)? ======================
+FEEDBACK SUMMARY
+Query per se
+Precision 0.5
+Still below the desired precision of 0.9
+Augmenting query by restaurant
+Augmenting query by center
+Computed best order: ['per', 'se', 'restaurant', 'center']
+Parameters:
+Client key  = AIzaSyBOskhE799tyaHkMxJc08i3YLZiJj6vubw
+Engine key  = 10e635b85174848d2
+Query       = per se restaurant center 
+Precision   = 0.9
+Google Search Results:
+======================
+Result 1
+[
+ URL: https://www.thomaskeller.com/perseny
+ Title: Per Se | Thomas Keller Restaurant Group
+ Summary: Private Dining & Events · Per Se. Per Se Front Door. center. About. About; Restaurant · Team · Info & Directions · Gift Experiences · Reservations; Menus & ...
+]
+Relevant (Y/N)? Result 2
+[
+ URL: https://en.wikipedia.org/wiki/Per_Se_(restaurant)
+ Title: Per Se (restaurant) - Wikipedia
+ Summary: Per Se is a New American and French restaurant located at The Shops at Columbus Circle, on the fourth floor of the Deutsche Bank Center at 10 Columbus ...
+]
+Relevant (Y/N)? Result 3
+[
+ URL: https://www.thomaskeller.com/new-york-new-york/per-se/restaurant
+ Title: Opened in 2004, Per Se is Thomas Keller's acclaimed New York ...
+ Summary: Restaurant Opened in 2004, Per Se is Thomas Keller's acclaimed New York interpretation of The French Laundry in the Deutsche Bank Center at Columbus Circle.
+]
+Relevant (Y/N)? Result 4
+[
+ URL: https://www.tripadvisor.com/Restaurant_Review-g60763-d425628-Reviews...
+ Title: PER SE, New York City - Hell's Kitchen - Menu, Prices & Restaurant ...
+ Summary: Per Se, New York City: See 1875 unbiased reviews of Per Se, rated 4.5 of 5 on Tripadvisor and ranked #85 of 13137 restaurants in New York City.
+]
+Relevant (Y/N)? Result 5
+[
+ URL: https://www.exploretock.com/perse
+ Title: Per Se - New York, NY | Tock
+ Summary: ... Per Se. New York, NY · Fine Dining · $$$$. Opened in 2004, Per Se is Thomas Keller's acclaimed interpretation of The French Laundry in the Deutsche Bank Center ...
+]
+Relevant (Y/N)? Result 6
+[
+ URL: https://www.nytimes.com/2011/10/12/.../per-se-nyc-restaurant-review.html
+ Title: Per Se — NYC — Restaurant Review - The New York Times
+ Summary: Oct 11, 2011 ... Per Se, in the Time Warner Center, is the best restaurant in New York City.
+]
+Relevant (Y/N)? Result 7
+[
+ URL: https://www.instagram.com/perseny/
+ Title: Per Se (@perseny) • Instagram photos and videos
+ Summary: Per Se. रेस्टुरेन्ट. Chef Thomas Keller's 3-Star Michelin restaurant overlooking Columbus Circle & Central Park located in New York City. 10 ...
+]
+Relevant (Y/N)? Result 8
+[
+ URL: https://www.grubstreet.com/2009/09/jonathan_benno_will_leave_per.html
+ Title: Jonathan Benno Will Leave Per Se for Lincoln Center Project
+ Summary: Sep 11, 2009 ... Per Se's sous-chef, Eli Kaimeh, will now become chef de cuisine. Jonathan Benno Leaving Per Se For New Lincoln Center Restaurant [NYT/Diner's ...
+]
+Relevant (Y/N)? Result 9
+[
+ URL: https://www.nytimes.com/2004/.../the-magic-of-napa-with-urban-polish.ht...
+ Title: The Magic of Napa With Urban Polish - The New York Times
+ Summary: Sep 8, 2004 ... Frank Bruni reviews Per Se, Thomas Keller's restaurant at Time Warner Center; photos (L)
+]
+Relevant (Y/N)? Result 10
+[
+ URL: https://dinersjournal.blogs.nytimes.com/.../jonathan-benno-leaving-per-se-f...
+ Title: Jonathan Benno Leaving Per Se For New Lincoln Center Restaurant
+ Summary: Sep 11, 2009 ... Jonathan Benno, the chef de cuisine at Per Se, will leave to become executive chef of The Patina Group's new restaurant in Lincoln Center, ...
+]
+Relevant (Y/N)? ======================
+FEEDBACK SUMMARY
+Query per se restaurant center 
+Precision 1.0
+Desired precision reached. Done.
+What is your desired prec@10? (Enter a value in [0, 1]) What is your desired query? Parameters:
+Client key  = AIzaSyBOskhE799tyaHkMxJc08i3YLZiJj6vubw
+Engine key  = 10e635b85174848d2
+Query       = wojcicki
+Precision   = 0.7
+Google Search Results:
+======================
+Result 1
+[
+ URL: https://en.wikipedia.org/wiki/Susan_Wojcicki
+ Title: Susan Wojcicki - Wikipedia
+ Summary: Susan Wojcicki ... Susan Diane Wojcicki (/wʊˈtʃɪtski/ woo-CHITS-kee; born July 5, 1968) is an American business executive who was the chief executive officer (CEO) ...
+]
+Relevant (Y/N)? Result 2
+[
+ URL: https://twitter.com/susanwojcicki?lang=en
+ Title: Susan Wojcicki (@SusanWojcicki) / X
+ Summary: Susan Wojcicki's posts ... 's team and innovative solutions in sustainability and security to enable transparency and accountability for countries, communities ...
+]
+Relevant (Y/N)? Result 3
+[
+ URL: https://www.instagram.com/susanwojcicki/?hl=en
+ Title: Susan Wojcicki (@susanwojcicki) • Instagram photos and videos
+ Summary: 55K Followers, 124 Following, 40 Posts - See Instagram photos and videos from Susan Wojcicki (@susanwojcicki)
+]
+Relevant (Y/N)? Result 4
+[
+ URL: https://www.facebook.com/esther.wojcicki/
+ Title: Esther Wojcicki
+ Summary: Psi and was thriving academically. At home, he would tell us endless stories of his life and friends at Berkeley. Marco's life was cut too short. And we are all
+]
+Relevant (Y/N)? Result 5
+[
+ URL: https://www.instagram.com/heywoj/?hl=en
+ Title: Esther Wojcicki (@heywoj) • Instagram photos and videos
+ Summary: 7661 Followers, 1578 Following, 1870 Posts - See Instagram photos and videos from Esther Wojcicki (@heywoj)
+]
+Relevant (Y/N)? Result 6
+[
+ URL: https://www.linkedin.com/in/susan-wojcicki-b136a99
+ Title: Susan Wojcicki - YouTube | LinkedIn
+ Summary: View Susan Wojcicki's profile on LinkedIn, the world's largest professional community. Susan has 2 jobs listed on their profile. See the complete profile on ...
+]
+Relevant (Y/N)? Result 7
+[
+ URL: https://people.com/son-of-susan-wojcicki-found-dead-at-uc-berkeley-8584...
+ Title: Son of Former YouTube CEO Susan Wojcicki Found Dead at UC ...
+ Summary: 2 days ago ... Marco Troper, a UC Berkeley student who was the 19-year-old son of former YouTube CEO Susan Wojcicki, was found dead on his college campus ...
+]
+Relevant (Y/N)? Result 8
+[
+ URL: https://www.linkedin.com/in/ed-wojcicki-bb02abb
+ Title: Ed Wojcicki - Retired... but Consulting and Writing - Retired | LinkedIn
+ Summary: Author/co-author of three books, freelance writer and editor, author of a wide range of articles on topics ranging from Illinois government to Henri Nouwen to ...
+]
+Relevant (Y/N)? Result 9
+[
+ URL: https://abc7chicago.com/marco-troper-former...wojcicki.../14441325/
+ Title: Former YouTube CEO Susan Wojcicki's son dies at UC Berkeley ...
+ Summary: 21 hours ago ... Troper was later pronounced dead by emergency responders from the Berkeley Fire Department, the university said. YouTube CEO Susan Wojcicki ...
+]
+Relevant (Y/N)? Result 10
+[
+ URL: https://www.forbes.com/profile/susan-wojcicki/
+ Title: Susan Wojcicki
+ Summary: 32 Susan Wojcicki on the 2023 America's Self-Made Women - Susan Wojcicki was CEO of Alphabet subsidiary YouTube from 2014 until February 2023. She now.
+]
+Relevant (Y/N)? ======================
+FEEDBACK SUMMARY
+Query wojcicki
+Precision 0.0
+Precision was 0! Done.
+What is your desired prec@10? (Enter a value in [0, 1]) What is your desired query? Parameters:
+Client key  = AIzaSyBOskhE799tyaHkMxJc08i3YLZiJj6vubw
+Engine key  = 10e635b85174848d2
+Query       = cases
+Precision   = 0.9
+Google Search Results:
+======================
+Result 1
+[
+ URL: https://www.cases.org/
+ Title: CASES: Home
+ Summary: From court and program offices in the Bronx, Brooklyn, and Manhattan, CASES provides community-based alternatives to jail and prison. These programs address ...
+]
+Relevant (Y/N)? Result 2
+[
+ URL: https://www.icc-cpi.int/cases
+ Title: cases | International Criminal Court
+ Summary: Banda. At large. Case also involved Saleh Mohammed Jerbo Jamus but proceedings against him were terminated on 4 October 2013 following his passing. On 7 March ...
+]
+Relevant (Y/N)? Result 3
+[
+ URL: https://www.icj-cij.org/cases
+ Title: Cases | INTERNATIONAL COURT OF JUSTICE
+ Summary: Main navigation ... The Court has a twofold role: to settle, in accordance with international law, legal disputes submitted to it by States (contentious cases) ...
+]
+Relevant (Y/N)? Result 4
+[
+ URL: https://www.worldometers.info/coronavirus/
+ Title: COVID - Coronavirus Statistics - Worldometer
+ Summary: Daily and weekly updated statistics tracking the number of COVID-19 cases, recovered, and deaths. Historical data with cumulative charts, graphs, ...
+]
+Relevant (Y/N)? Result 5
+[
+ URL: https://www.casetify.com/
+ Title: CASETiFY: Show Your Colors
+ Summary: CASETiFY - We make the most sustainable yet protective phone cases for iPhone 15 / iPhone 15 Pro / iPhone 15 Plus / iPhone 15 Pro Max and tech accessories.
+]
+Relevant (Y/N)? Result 6
+[
+ URL: https://casesearch.courts.state.md.us/
+ Title: Maryland Judiciary Case Search
+ Summary: Confidential records and information will not be returned in your search results. The information displayed on this Web Site is generated from computerized ...
+]
+Relevant (Y/N)? Result 7
+[
+ URL: https://www.oyez.org/cases
+ Title: 2023-2024 Term | Oyez
+ Summary: US Supreme Court cases from the 2023-2024 term.
+]
+Relevant (Y/N)? Result 8
+[
+ URL: https://acis.eoir.justice.gov/en/
+ Title: Automated Case Information
+ Summary: Case information from this automated resource is provided for convenience only. Documents the immigration court or Board of Immigration Appeals issue to you or ...
+]
+Relevant (Y/N)? Result 9
+[
+ URL: https://www.cdc.gov/measles/cases-outbreaks.html
+ Title: Measles Cases and Outbreaks | CDC
+ Summary: Measles cases in 2019 · From January 1 to December 31, 2019, 1,274* individual cases of measles were confirmed in 31 states. · This is the greatest number of ...
+]
+Relevant (Y/N)? Result 10
+[
+ URL: https://pacer.uscourts.gov/
+ Title: Public Access to Court Electronic Records | PACER: Federal Court ...
+ Summary: Search for a case in the federal court where the case was filed, or; Search a nationwide index of federal court cases. The PACER Service Center can assist you ...
+]
+Relevant (Y/N)? ======================
+FEEDBACK SUMMARY
+Query cases
+Precision 0.1
+Still below the desired precision of 0.9
+Augmenting query by statistics
+Augmenting query by covid
+Computed best order: ['cases', 'statistics', 'covid']
+Parameters:
+Client key  = AIzaSyBOskhE799tyaHkMxJc08i3YLZiJj6vubw
+Engine key  = 10e635b85174848d2
+Query       = cases statistics covid 
+Precision   = 0.9
+Google Search Results:
+======================
+Result 1
+[
+ URL: https://covid.cdc.gov/
+ Title: CDC COVID Data Tracker: Home
+ Summary: CDC's home for COVID-19 data. Visualizations, graphs, and data in one easy-to-use website.
+]
+Relevant (Y/N)? Result 2
+[
+ URL: https://www.worldometers.info/coronavirus/
+ Title: COVID - Coronavirus Statistics - Worldometer
+ Summary: Coronavirus Cases: 703,471,314. view by country. Deaths: 6,984,533. Recovered: 674,227,426. Active Cases. 22,259,355. Currently Infected Patients. 22,223,644 ( ...
+]
+Relevant (Y/N)? Result 3
+[
+ URL: https://www.nyc.gov/site/doh/covid/covid-19-data.page
+ Title: COVID-19: Latest Data - NYC Health
+ Summary: Cases, Hospitalizations and Deaths. The data below show daily numbers of cases, hospitalizations and deaths over the past three months. Due to delays in ...
+]
+Relevant (Y/N)? Result 4
+[
+ URL: https://covid19.who.int/
+ Title: WHO COVID-19 dashboard: COVID-19 cases
+ Summary: The latest data for coronavirus (COVID-19) cases from the WHO COVID-19 dashboard.
+]
+Relevant (Y/N)? Result 5
+[
+ URL: https://coronavirus.jhu.edu/map.html
+ Title: COVID-19 Map - Johns Hopkins Coronavirus Resource Center
+ Summary: Coronavirus COVID-19 Global Cases by the Center for Systems Science and ... Attribute the data to the "COVID-19 Data Repository by the Center for Systems ...
+]
+Relevant (Y/N)? Result 6
+[
+ URL: http://publichealth.lacounty.gov/media/coronavirus/data/
+ Title: LA County Daily COVID-19 Data - LA County Department of Public ...
+ Summary: Updated once per week on Thursdays. Overview Graphs. Overview Table. Cases/Deaths. TK-12 Schools.
+]
+Relevant (Y/N)? Result 7
+[
+ URL: https://www.mass.gov/info-details/covid-19-reporting
+ Title: COVID-19 Reporting | Mass.gov
+ Summary: The COVID-19 Dashboard includes data on city/town COVID-19 activity, confirmed and probable cases of COVID-19, confirmed and probable deaths related to ...
+]
+Relevant (Y/N)? Result 8
+[
+ URL: https://www.vdh.virginia.gov/coronavirus/see-the.../covid-19-in-virginia/
+ Title: COVID-19 Data In Virginia - Coronavirus
+ Summary: COVID-19 in Virginia (past 6 months). Case Data Demographics. Demographic data is an important indicator used to understand ...
+]
+Relevant (Y/N)? Result 9
+[
+ URL: https://www.azdhs.gov/covid19/data/index.php
+ Title: COVID-19 Surveillance data dashboard
+ Summary: COVID-19 Deaths; Cases by Zip Code; COVID-19 Cases by Week; Hospitalization; Hospital COVID-like & Influenza-like illness Surveillance; Laboratory Testing ...
+]
+Relevant (Y/N)? Result 10
+[
+ URL: https://www.health.pa.gov/topics/disease/coronavirus/pages/cases.aspx
+ Title: COVID-19 Data for Pennsylvania
+ Summary: ... COVID-19 case data is no longer required to be reported to the Department of Health, making the case data less relevant for disease tracking purposes.
+]
+Relevant (Y/N)? ======================
+FEEDBACK SUMMARY
+Query cases statistics covid 
+Precision 1.0
+Desired precision reached. Done.
