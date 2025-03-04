@@ -1,0 +1,273 @@
+ ========== Frequent itemsets (min_sup=1.0%) ============================================================ 
+[Foraging], 43.558282208588956%
+[Indifferent], 39.263803680981596%
+[Running], 39.263803680981596%
+[Climbing], 35.58282208588957%
+[Eating], 35.2760736196319%
+[Runs from], 34.355828220858896%
+[Tail twitches], 33.12883435582822%
+[Chasing], 23.006134969325153%
+[Tail flags], 21.779141104294478%
+[Foraging,Indifferent], 19.938650306748464%
+[Approaches], 17.484662576687114%
+[Kuks], 17.484662576687114%
+[Eating,Foraging], 16.87116564417178%
+[Foraging,Tail twitches], 16.56441717791411%
+[Foraging,Running], 15.950920245398773%
+[Eating,Indifferent], 15.644171779141105%
+[Foraging,Runs from], 15.337423312883436%
+[Running,Tail twitches], 15.030674846625766%
+[Indifferent,Running], 14.723926380368098%
+[Climbing,Running], 14.417177914110429%
+[Climbing,Runs from], 14.417177914110429%
+[Running,Runs from], 14.417177914110429%
+[Climbing,Indifferent], 13.190184049079754%
+[Eating,Running], 12.883435582822086%
+[Eating,Runs from], 12.269938650306749%
+[Eating,Tail twitches], 12.269938650306749%
+[Indifferent,Tail twitches], 11.96319018404908%
+[Climbing,Foraging], 11.65644171779141%
+[Climbing,Eating], 11.349693251533742%
+[Quaas], 10.122699386503067%
+[Indifferent,Tail flags], 10.122699386503067%
+[Runs from,Tail twitches], 10.122699386503067%
+[Chasing,Indifferent], 9.815950920245399%
+[Chasing,Running], 9.202453987730062%
+[Climbing,Tail twitches], 9.202453987730062%
+[Foraging,Tail flags], 8.588957055214724%
+[Eating,Foraging,Indifferent], 8.588957055214724%
+[Approaches,Foraging], 8.282208588957054%
+[Chasing,Tail twitches], 8.282208588957054%
+[Chasing,Foraging], 7.975460122699387%
+[Eating,Tail flags], 7.668711656441718%
+[Foraging,Kuks], 7.361963190184049%
+[Approaches,Tail twitches], 6.748466257668712%
+[Indifferent,Kuks], 6.748466257668712%
+[Indifferent,Runs from], 6.748466257668712%
+[Running,Tail flags], 6.748466257668712%
+[Eating,Foraging,Tail twitches], 6.748466257668712%
+[Foraging,Indifferent,Running], 6.748466257668712%
+[Foraging,Indifferent,Tail twitches], 6.748466257668712%
+[Foraging,Running,Tail twitches], 6.748466257668712%
+[Approaches,Running], 6.441717791411043%
+[Kuks,Runs from], 6.441717791411043%
+[Runs from,Tail flags], 6.441717791411043%
+[Climbing,Running,Runs from], 6.441717791411043%
+[Approaches,Eating], 6.134969325153374%
+[Climbing,Kuks], 6.134969325153374%
+[Climbing,Tail flags], 6.134969325153374%
+[Eating,Foraging,Running], 6.134969325153374%
+[Kuks,Running], 5.828220858895705%
+[Eating,Foraging,Runs from], 5.828220858895705%
+[Eating,Indifferent,Running], 5.828220858895705%
+[Climbing,Foraging,Indifferent], 5.521472392638037%
+[Foraging,Running,Runs from], 5.521472392638037%
+[Indifferent,Running,Tail twitches], 5.521472392638037%
+[Chasing,Climbing], 5.214723926380368%
+[Eating,Indifferent,Tail twitches], 5.214723926380368%
+[Eating,Running,Runs from], 5.214723926380368%
+[Eating,Running,Tail twitches], 5.214723926380368%
+[Foraging,Runs from,Tail twitches], 5.214723926380368%
+[Running,Runs from,Tail twitches], 5.214723926380368%
+[Approaches,Climbing], 4.9079754601226995%
+[Chasing,Runs from], 4.9079754601226995%
+[Climbing,Eating,Indifferent], 4.9079754601226995%
+[Climbing,Eating,Runs from], 4.9079754601226995%
+[Climbing,Foraging,Running], 4.9079754601226995%
+[Climbing,Indifferent,Running], 4.9079754601226995%
+[Foraging,Indifferent,Tail flags], 4.9079754601226995%
+[Approaches,Runs from], 4.601226993865031%
+[Chasing,Eating], 4.601226993865031%
+[Foraging,Quaas], 4.601226993865031%
+[Chasing,Foraging,Indifferent], 4.601226993865031%
+[Chasing,Indifferent,Running], 4.601226993865031%
+[Climbing,Running,Tail twitches], 4.601226993865031%
+[Chasing,Tail flags], 4.294478527607362%
+[Indifferent,Quaas], 4.294478527607362%
+[Tail flags,Tail twitches], 4.294478527607362%
+[Climbing,Eating,Foraging], 4.294478527607362%
+[Climbing,Foraging,Runs from], 4.294478527607362%
+[Eating,Kuks], 3.9877300613496933%
+[Climbing,Eating,Running], 3.9877300613496933%
+[Approaches,Indifferent], 3.6809815950920246%
+[Chasing,Kuks], 3.6809815950920246%
+[Kuks,Tail twitches], 3.6809815950920246%
+[Approaches,Foraging,Tail twitches], 3.6809815950920246%
+[Chasing,Indifferent,Tail twitches], 3.6809815950920246%
+[Chasing,Running,Tail twitches], 3.6809815950920246%
+[Climbing,Runs from,Tail twitches], 3.6809815950920246%
+[Foraging,Runs from,Tail flags], 3.6809815950920246%
+[Chasing,Quaas], 3.374233128834356%
+[Kuks,Tail flags], 3.374233128834356%
+[Approaches,Running,Tail twitches], 3.374233128834356%
+[Chasing,Foraging,Running], 3.374233128834356%
+[Climbing,Kuks,Runs from], 3.374233128834356%
+[Eating,Foraging,Tail flags], 3.374233128834356%
+[Eating,Indifferent,Runs from], 3.374233128834356%
+[Eating,Runs from,Tail twitches], 3.374233128834356%
+[Foraging,Indifferent,Runs from], 3.374233128834356%
+[Eating,Foraging,Indifferent,Tail twitches], 3.374233128834356%
+[Kuks,Quaas], 3.067484662576687%
+[Chasing,Foraging,Tail twitches], 3.067484662576687%
+[Climbing,Foraging,Tail twitches], 3.067484662576687%
+[Climbing,Indifferent,Tail twitches], 3.067484662576687%
+[Eating,Indifferent,Tail flags], 3.067484662576687%
+[Foraging,Indifferent,Kuks], 3.067484662576687%
+[Foraging,Kuks,Running], 3.067484662576687%
+[Indifferent,Running,Tail flags], 3.067484662576687%
+[Kuks,Running,Runs from], 3.067484662576687%
+[Eating,Foraging,Indifferent,Running], 3.067484662576687%
+[Approaches,Tail flags], 2.7607361963190185%
+[Climbing,Quaas], 2.7607361963190185%
+[Quaas,Running], 2.7607361963190185%
+[Approaches,Eating,Foraging], 2.7607361963190185%
+[Approaches,Foraging,Indifferent], 2.7607361963190185%
+[Chasing,Indifferent,Tail flags], 2.7607361963190185%
+[Climbing,Eating,Tail twitches], 2.7607361963190185%
+[Climbing,Indifferent,Runs from], 2.7607361963190185%
+[Eating,Runs from,Tail flags], 2.7607361963190185%
+[Foraging,Indifferent,Quaas], 2.7607361963190185%
+[Foraging,Kuks,Runs from], 2.7607361963190185%
+[Foraging,Kuks,Tail twitches], 2.7607361963190185%
+[Eating,Foraging,Running,Tail twitches], 2.7607361963190185%
+[Approaches,Foraging,Runs from], 2.4539877300613497%
+[Chasing,Climbing,Running], 2.4539877300613497%
+[Chasing,Eating,Indifferent], 2.4539877300613497%
+[Climbing,Indifferent,Kuks], 2.4539877300613497%
+[Climbing,Running,Tail flags], 2.4539877300613497%
+[Foraging,Running,Tail flags], 2.4539877300613497%
+[Indifferent,Running,Runs from], 2.4539877300613497%
+[Climbing,Eating,Foraging,Indifferent], 2.4539877300613497%
+[Climbing,Running,Runs from,Tail twitches], 2.4539877300613497%
+[Eating,Foraging,Running,Runs from], 2.4539877300613497%
+[Foraging,Indifferent,Running,Tail twitches], 2.4539877300613497%
+[Approaches,Climbing,Running], 2.147239263803681%
+[Approaches,Foraging,Running], 2.147239263803681%
+[Approaches,Running,Runs from], 2.147239263803681%
+[Chasing,Eating,Foraging], 2.147239263803681%
+[Chasing,Eating,Tail twitches], 2.147239263803681%
+[Climbing,Kuks,Running], 2.147239263803681%
+[Climbing,Runs from,Tail flags], 2.147239263803681%
+[Eating,Foraging,Kuks], 2.147239263803681%
+[Eating,Running,Tail flags], 2.147239263803681%
+[Foraging,Tail flags,Tail twitches], 2.147239263803681%
+[Running,Runs from,Tail flags], 2.147239263803681%
+[Chasing,Foraging,Indifferent,Running], 2.147239263803681%
+[Climbing,Eating,Running,Runs from], 2.147239263803681%
+[Climbing,Foraging,Indifferent,Running], 2.147239263803681%
+[Eating,Indifferent,Running,Tail twitches], 2.147239263803681%
+[Foraging,Running,Runs from,Tail twitches], 2.147239263803681%
+[Approaches,Chasing], 1.8404907975460123%
+[Quaas,Runs from], 1.8404907975460123%
+[Quaas,Tail flags], 1.8404907975460123%
+[Quaas,Tail twitches], 1.8404907975460123%
+[Approaches,Eating,Indifferent], 1.8404907975460123%
+[Approaches,Eating,Running], 1.8404907975460123%
+[Approaches,Eating,Tail twitches], 1.8404907975460123%
+[Chasing,Climbing,Indifferent], 1.8404907975460123%
+[Chasing,Indifferent,Kuks], 1.8404907975460123%
+[Chasing,Runs from,Tail twitches], 1.8404907975460123%
+[Climbing,Eating,Tail flags], 1.8404907975460123%
+[Climbing,Foraging,Kuks], 1.8404907975460123%
+[Climbing,Indifferent,Tail flags], 1.8404907975460123%
+[Indifferent,Kuks,Quaas], 1.8404907975460123%
+[Indifferent,Kuks,Tail flags], 1.8404907975460123%
+[Indifferent,Tail flags,Tail twitches], 1.8404907975460123%
+[Kuks,Running,Tail twitches], 1.8404907975460123%
+[Chasing,Foraging,Indifferent,Tail twitches], 1.8404907975460123%
+[Chasing,Indifferent,Running,Tail twitches], 1.8404907975460123%
+[Climbing,Eating,Indifferent,Running], 1.8404907975460123%
+[Climbing,Foraging,Running,Runs from], 1.8404907975460123%
+[Eating,Foraging,Indifferent,Runs from], 1.8404907975460123%
+[Eating,Foraging,Runs from,Tail flags], 1.8404907975460123%
+[Eating,Indifferent,Running,Runs from], 1.8404907975460123%
+[Eating,Running,Runs from,Tail twitches], 1.8404907975460123%
+[Eating,Quaas], 1.5337423312883436%
+[Approaches,Climbing,Eating], 1.5337423312883436%
+[Approaches,Runs from,Tail twitches], 1.5337423312883436%
+[Chasing,Climbing,Tail twitches], 1.5337423312883436%
+[Chasing,Eating,Running], 1.5337423312883436%
+[Chasing,Foraging,Quaas], 1.5337423312883436%
+[Chasing,Foraging,Tail flags], 1.5337423312883436%
+[Chasing,Kuks,Tail twitches], 1.5337423312883436%
+[Chasing,Running,Runs from], 1.5337423312883436%
+[Climbing,Eating,Kuks], 1.5337423312883436%
+[Climbing,Foraging,Tail flags], 1.5337423312883436%
+[Eating,Indifferent,Kuks], 1.5337423312883436%
+[Eating,Tail flags,Tail twitches], 1.5337423312883436%
+[Foraging,Kuks,Quaas], 1.5337423312883436%
+[Foraging,Quaas,Running], 1.5337423312883436%
+[Indifferent,Kuks,Running], 1.5337423312883436%
+[Indifferent,Quaas,Tail flags], 1.5337423312883436%
+[Running,Tail flags,Tail twitches], 1.5337423312883436%
+[Approaches,Foraging,Running,Tail twitches], 1.5337423312883436%
+[Chasing,Eating,Foraging,Indifferent], 1.5337423312883436%
+[Chasing,Foraging,Indifferent,Tail flags], 1.5337423312883436%
+[Climbing,Eating,Foraging,Running], 1.5337423312883436%
+[Climbing,Eating,Foraging,Runs from], 1.5337423312883436%
+[Climbing,Foraging,Running,Tail twitches], 1.5337423312883436%
+[Climbing,Indifferent,Running,Tail twitches], 1.5337423312883436%
+[Climbing,Kuks,Running,Runs from], 1.5337423312883436%
+[Eating,Foraging,Indifferent,Tail flags], 1.5337423312883436%
+[Eating,Foraging,Runs from,Tail twitches], 1.5337423312883436%
+[Foraging,Indifferent,Running,Tail flags], 1.5337423312883436%
+[Foraging,Kuks,Running,Runs from], 1.5337423312883436%
+[Foraging,Kuks,Running,Tail twitches], 1.5337423312883436%
+[Approaches,Kuks], 1.2269938650306749%
+[Approaches,Chasing,Running], 1.2269938650306749%
+[Approaches,Chasing,Tail twitches], 1.2269938650306749%
+[Approaches,Climbing,Runs from], 1.2269938650306749%
+[Approaches,Eating,Tail flags], 1.2269938650306749%
+[Approaches,Foraging,Tail flags], 1.2269938650306749%
+[Approaches,Indifferent,Tail twitches], 1.2269938650306749%
+[Chasing,Climbing,Runs from], 1.2269938650306749%
+[Chasing,Foraging,Kuks], 1.2269938650306749%
+[Chasing,Foraging,Runs from], 1.2269938650306749%
+[Chasing,Indifferent,Quaas], 1.2269938650306749%
+[Chasing,Quaas,Running], 1.2269938650306749%
+[Chasing,Quaas,Tail flags], 1.2269938650306749%
+[Chasing,Running,Tail flags], 1.2269938650306749%
+[Climbing,Quaas,Runs from], 1.2269938650306749%
+[Eating,Foraging,Quaas], 1.2269938650306749%
+[Eating,Kuks,Runs from], 1.2269938650306749%
+[Eating,Kuks,Tail twitches], 1.2269938650306749%
+[Foraging,Kuks,Tail flags], 1.2269938650306749%
+[Foraging,Quaas,Tail twitches], 1.2269938650306749%
+[Indifferent,Quaas,Running], 1.2269938650306749%
+[Indifferent,Quaas,Tail twitches], 1.2269938650306749%
+[Indifferent,Runs from,Tail twitches], 1.2269938650306749%
+[Kuks,Runs from,Tail flags], 1.2269938650306749%
+[Kuks,Runs from,Tail twitches], 1.2269938650306749%
+[Approaches,Chasing,Running,Tail twitches], 1.2269938650306749%
+[Approaches,Foraging,Indifferent,Tail twitches], 1.2269938650306749%
+[Chasing,Climbing,Indifferent,Running], 1.2269938650306749%
+[Chasing,Eating,Foraging,Tail twitches], 1.2269938650306749%
+[Chasing,Eating,Indifferent,Running], 1.2269938650306749%
+[Chasing,Foraging,Kuks,Tail twitches], 1.2269938650306749%
+[Chasing,Indifferent,Running,Tail flags], 1.2269938650306749%
+[Climbing,Eating,Indifferent,Runs from], 1.2269938650306749%
+[Climbing,Eating,Indifferent,Tail twitches], 1.2269938650306749%
+[Climbing,Eating,Running,Tail twitches], 1.2269938650306749%
+[Climbing,Eating,Runs from,Tail twitches], 1.2269938650306749%
+[Climbing,Foraging,Indifferent,Tail twitches], 1.2269938650306749%
+[Foraging,Indifferent,Kuks,Quaas], 1.2269938650306749%
+[Eating,Foraging,Indifferent,Running,Tail twitches], 1.2269938650306749%
+ ========== High-confidence association rules (min_conf=70.0%) ================================================== 
+[Approaches,Chasing,Tail twitches] => [Running] (Conf: 100.0%  Supp: 1.2269938650306749%)
+[Approaches,Chasing,Running] => [Tail twitches] (Conf: 100.0%  Supp: 1.2269938650306749%)
+[Approaches,Indifferent,Tail twitches] => [Foraging] (Conf: 100.0%  Supp: 1.2269938650306749%)
+[Chasing,Foraging,Tail flags] => [Indifferent] (Conf: 100.0%  Supp: 1.5337423312883436%)
+[Chasing,Foraging,Kuks] => [Tail twitches] (Conf: 100.0%  Supp: 1.2269938650306749%)
+[Chasing,Running,Tail flags] => [Indifferent] (Conf: 100.0%  Supp: 1.2269938650306749%)
+[Quaas,Tail flags] => [Indifferent] (Conf: 83.33333333333333%  Supp: 1.5337423312883436%)
+[Kuks,Running,Tail twitches] => [Foraging] (Conf: 83.33333333333333%  Supp: 1.5337423312883436%)
+[Eating,Quaas] => [Foraging] (Conf: 80.0%  Supp: 1.2269938650306749%)
+[Chasing,Eating,Running] => [Indifferent] (Conf: 80.0%  Supp: 1.2269938650306749%)
+[Chasing,Kuks,Tail twitches] => [Foraging] (Conf: 80.0%  Supp: 1.2269938650306749%)
+[Foraging,Kuks,Quaas] => [Indifferent] (Conf: 80.0%  Supp: 1.2269938650306749%)
+[Approaches,Indifferent] => [Foraging] (Conf: 75.0%  Supp: 2.7607361963190185%)
+[Kuks,Tail twitches] => [Foraging] (Conf: 75.0%  Supp: 2.7607361963190185%)
+[Indifferent,Running,Runs from] => [Eating] (Conf: 75.0%  Supp: 1.8404907975460123%)
+[Approaches,Foraging,Running] => [Tail twitches] (Conf: 71.42857142857143%  Supp: 1.5337423312883436%)
+[Chasing,Eating,Foraging] => [Indifferent] (Conf: 71.42857142857143%  Supp: 1.5337423312883436%)
+[Climbing,Kuks,Running] => [Runs from] (Conf: 71.42857142857143%  Supp: 1.5337423312883436%)

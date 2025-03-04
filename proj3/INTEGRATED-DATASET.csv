@@ -1,0 +1,2865 @@
+PM,South East,Eating,Approaches
+AM,North East,Foraging,Indifferent
+PM,North West,Climbing,Indifferent
+PM,South East,Running,Climbing,Eating,Runs from
+PM,North West,Running,Foraging,Runs from
+PM,North West,Climbing,Eating,Tail flags
+AM,South East,Foraging
+AM,South East,Eating,Foraging,Runs from
+PM,South East,Running,Climbing
+AM,South East,Climbing,Runs from
+AM,North East,Climbing
+PM,North West,Climbing
+AM,South East,Foraging,Indifferent
+AM,North East,Foraging,Indifferent
+PM,North East,Running,Indifferent
+PM,South West,Foraging,Tail twitches,Indifferent
+AM,South East,Climbing,Runs from
+AM,South East,Chasing,Indifferent
+AM,South East,Climbing,Indifferent
+PM,North West,Eating,Foraging,Tail flags,Approaches,Runs from
+PM,North East,Foraging
+PM,North West,Chasing
+AM,North West,Eating,Indifferent
+AM,South East,Running,Tail twitches,Indifferent
+PM,South East,Climbing
+AM,South East,Foraging,Quaas,Tail flags,Indifferent
+AM,South East,Foraging,Indifferent
+PM,South West,Running,Climbing,Tail twitches,Runs from
+PM,South West,Foraging,Indifferent
+AM,South East,Running,Climbing,Quaas,Runs from
+PM,South West,Foraging
+PM,North West,Foraging,Indifferent
+AM,South East,Foraging,Tail twitches,Approaches
+AM,North East,Eating,Foraging,Indifferent
+PM,North East,Climbing,Tail twitches,Indifferent
+AM,South East,Foraging
+PM,South East,Foraging,Runs from
+AM,North West,Running,Climbing,Indifferent
+PM,North West,Indifferent
+AM,South East,Running,Eating,Indifferent
+PM,South East,Eating,Foraging,Runs from
+AM,North West,Eating,Runs from
+PM,North West,Chasing
+PM,North West,Eating,Tail twitches
+PM,South East,Running,Eating,Runs from
+PM,South East,Eating,Tail twitches,Runs from
+PM,South East,Approaches,Runs from
+PM,South West,Eating,Foraging,Tail twitches,Indifferent
+PM,South West,Foraging,Runs from
+AM,South East,Running,Indifferent
+AM,South East,Eating,Indifferent
+PM,North East,Running,Climbing
+PM,South East,Foraging,Runs from
+AM,South East,Climbing
+PM,South East,Climbing
+AM,North West,Chasing,Foraging,Approaches
+PM,North East,Running,Chasing,Foraging,Kuks,Quaas,Tail flags,Tail twitches,Indifferent
+AM,South East,Foraging,Indifferent
+AM,North West,Climbing
+AM,South West,Running
+PM,North West,Eating,Indifferent
+AM,South East,Climbing,Foraging,Tail twitches,Indifferent
+PM,South West
+AM,North West,Eating,Tail twitches
+PM,North West,Running,Foraging,Runs from
+AM,South East,Foraging,Indifferent
+AM,South East,Climbing,Kuks,Quaas,Runs from
+PM,North West,Climbing,Indifferent
+PM,North West,Eating,Indifferent
+AM,North East,Foraging,Approaches
+AM,North West,Foraging
+PM,North West,Eating,Indifferent
+PM,North East,Running,Foraging,Runs from
+AM,North West,Chasing,Foraging,Tail twitches,Indifferent
+AM,North West,Foraging,Indifferent,Runs from
+AM,South East,Running
+AM,North West,Foraging,Indifferent
+AM,North West,Eating,Tail flags,Tail twitches,Indifferent
+AM,South East,Climbing,Tail twitches,Runs from
+PM,North West,Foraging,Tail twitches,Runs from
+AM,South East,Running,Tail flags,Runs from
+PM,North West,Eating
+PM,North West,Climbing,Tail twitches
+AM,South East,Indifferent
+PM,North West,Eating,Foraging,Indifferent
+PM,North West,Running
+PM,North West,Foraging,Indifferent
+PM,South East,Foraging,Indifferent
+AM,South East,Foraging
+AM,South East,Climbing,Kuks,Quaas,Indifferent,Runs from
+AM,North West,Running,Indifferent
+AM,South East,Running,Indifferent
+AM,South East,Foraging,Indifferent
+PM,South East,Foraging,Runs from
+PM,North East,Eating,Runs from
+PM,South East,Running,Runs from
+AM,South East,Running,Runs from
+AM,South East,Runs from
+PM,North West,Running,Climbing,Runs from
+AM,North East,Running,Foraging,Tail twitches,Indifferent
+AM,North West,Foraging,Tail twitches,Indifferent
+PM,North East,Running
+AM,North West,Foraging,Tail twitches,Indifferent
+AM,North West,Tail twitches,Runs from
+PM,South East,Running,Foraging,Tail twitches,Runs from
+AM,North East,Running,Approaches
+PM,North East,Foraging,Tail twitches,Indifferent
+AM,North West,Eating,Foraging,Indifferent
+AM,South East,Running,Eating,Foraging,Tail twitches,Approaches
+PM,South East,Running,Runs from
+PM,South East,Running,Foraging,Runs from
+AM,South East,Foraging,Runs from
+AM,South West,Running,Foraging
+PM,North West,Running,Foraging
+PM,North East
+PM,North East,Chasing,Kuks,Tail flags,Runs from
+AM,North West,Eating
+PM,North West,Eating,Foraging,Tail twitches,Indifferent
+AM,South West,Climbing,Indifferent
+AM,South East,Kuks,Tail flags,Approaches
+PM,North East,Foraging,Tail flags,Indifferent
+AM,North East,Running,Climbing,Eating,Indifferent
+AM,South East,Eating,Foraging,Runs from
+AM,North East,Eating,Foraging,Approaches
+PM,North East,Foraging,Tail twitches,Indifferent
+PM,South West,Running,Runs from
+PM,South East,Foraging
+PM,North West,Foraging,Indifferent
+PM,North East,Foraging,Indifferent
+AM,North East,Eating
+AM,North East,Chasing,Climbing,Indifferent
+AM,North East,Running,Climbing,Approaches
+AM,South West,Climbing,Foraging,Tail flags,Indifferent
+PM,North East,Foraging,Indifferent
+PM,North East,Eating,Foraging,Indifferent
+AM,North West,Climbing,Foraging,Runs from
+PM,South East,Eating,Foraging,Indifferent
+PM,South East,Tail twitches,Approaches
+PM,North East,Climbing,Eating,Foraging,Runs from
+AM,North West,Eating,Indifferent
+PM,North East,Running,Foraging,Approaches
+PM,South West,Foraging
+AM,North West,Eating,Foraging
+AM,North West,Foraging,Indifferent
+PM,North East,Running,Indifferent
+PM,North East,Eating,Foraging,Tail twitches,Runs from
+AM,North East,Running,Indifferent
+AM,South East,Climbing,Foraging,Kuks,Tail flags,Runs from
+AM,North East,Running,Indifferent
+PM,North East,Eating,Indifferent
+AM,North East,Running,Foraging,Tail twitches,Indifferent
+PM,North East,Foraging
+PM,North East,Foraging,Tail twitches,Indifferent
+PM,North East,Foraging,Indifferent
+PM,North East,Foraging,Tail twitches,Indifferent
+AM,North East,Running,Indifferent
+PM,North West,Indifferent
+PM,North West,Climbing,Eating,Tail twitches
+AM,South East,Running,Runs from
+AM,South East,Climbing,Foraging,Runs from
+AM,North West,Running
+AM,North West,Foraging,Tail twitches,Indifferent
+PM,North East,Running,Foraging
+AM,North East,Running,Runs from
+PM,North East,Eating,Indifferent
+AM,North West,Climbing,Tail twitches,Runs from
+PM,North East,Climbing,Runs from
+PM,North East,Running,Chasing,Foraging,Quaas
+AM,South West,Running,Climbing,Indifferent
+AM,South East,Running,Climbing,Tail twitches,Runs from
+PM,North East,Eating,Indifferent
+AM,North West,Climbing,Runs from
+AM,North East,Foraging,Indifferent
+AM,South West,Climbing,Tail twitches
+PM,North East,Foraging
+PM,North East,Chasing
+PM,North West,Running,Climbing,Tail twitches,Indifferent
+PM,North East,Climbing,Foraging
+PM,North East,Eating,Foraging,Indifferent
+PM,North East,Chasing,Foraging,Indifferent
+PM,North East,Foraging,Approaches
+AM,South West,Eating,Indifferent
+AM,South East,Climbing,Runs from
+PM,North East,Eating,Foraging,Approaches
+PM,North West,Running,Chasing,Eating,Foraging,Indifferent
+AM,North West,Foraging,Indifferent
+PM,North West,Climbing,Indifferent
+AM,South West,Eating,Foraging
+PM,North East,Foraging,Indifferent
+PM,North West,Eating,Foraging,Approaches
+AM,North West,Foraging,Indifferent
+PM,North West,Foraging,Tail twitches,Indifferent
+PM,South East,Eating
+AM,North West,Climbing,Indifferent
+PM,South East,Climbing
+PM,South West,Eating,Indifferent
+AM,North West,Foraging,Indifferent
+PM,North East,Running,Indifferent
+PM,North East,Eating,Runs from
+PM,North West,Climbing
+AM,South West,Climbing,Eating,Approaches
+AM,South East,Running,Climbing,Approaches,Runs from
+PM,North East,Foraging,Indifferent
+AM,North East,Climbing,Indifferent
+AM,North East,Foraging,Indifferent
+AM,North West,Climbing,Indifferent
+PM,North West,Foraging
+PM,North East,Running,Foraging,Tail twitches
+PM,North East,Eating,Runs from
+AM,North West,Running,Eating,Tail flags,Indifferent
+PM,North East,Climbing,Foraging
+PM,North West,Running,Climbing,Indifferent
+PM,North East,Eating,Indifferent
+PM,North West,Running,Approaches
+AM,North West,Eating,Foraging
+PM,South West,Running
+AM,North West,Climbing,Foraging,Indifferent
+PM,North West,Foraging,Runs from
+PM,North East,Foraging,Indifferent
+AM,North West,Foraging,Tail twitches,Approaches
+AM,North West,Running,Tail twitches,Runs from
+AM,North East,Eating,Foraging,Indifferent
+AM,North East,Eating,Indifferent
+AM,North West
+AM,North West,Running
+AM,South West,Climbing,Foraging,Tail flags,Indifferent
+PM,South East,Indifferent
+AM,South East,Chasing,Tail flags
+PM,South East,Foraging
+AM,South East,Foraging,Approaches
+AM,North East,Foraging,Indifferent
+PM,North West,Climbing,Eating,Foraging,Indifferent
+AM,North West,Running,Approaches,Runs from
+PM,South West,Foraging,Quaas,Runs from
+AM,North West,Running,Climbing,Runs from
+AM,North East,Foraging
+AM,South East,Foraging,Runs from
+AM,South West,Indifferent
+PM,North West,Eating,Foraging,Runs from
+AM,North West,Foraging,Tail twitches,Indifferent
+PM,North East,Foraging
+PM,North East,Eating,Indifferent
+PM,North East,Foraging,Approaches
+PM,North West,Chasing,Quaas,Tail flags
+AM,South West,Eating,Tail flags,Tail twitches,Approaches
+AM,South East,Climbing,Indifferent
+PM,North East,Running,Chasing,Indifferent
+AM,South East,Climbing,Indifferent
+PM,North East,Foraging
+PM,North West,Foraging,Runs from
+PM,North East,Eating,Foraging
+PM,North West,Running,Eating
+PM,North East,Foraging,Indifferent
+PM,North East,Foraging
+PM,North East,Foraging,Tail flags,Indifferent
+PM,North East,Running,Foraging,Indifferent
+AM,South West,Foraging,Indifferent
+AM,North East,Running,Indifferent
+AM,North West,Climbing,Eating,Approaches
+PM,North East,Eating,Foraging
+PM,North East,Chasing
+AM,North East,Climbing,Eating,Tail flags,Runs from
+AM,North West,Eating,Indifferent
+AM,South East,Foraging,Indifferent
+AM,South West,Climbing,Indifferent
+AM,North East,Running,Chasing
+AM,North West,Running,Foraging,Indifferent
+PM,North East,Running,Approaches,Runs from
+AM,North West,Foraging,Indifferent
+PM,North East,Foraging,Approaches
+PM,North East,Foraging
+PM,North East,Chasing,Eating,Indifferent
+PM,North East,Running,Kuks,Runs from
+PM,North East,Eating,Foraging,Approaches
+AM,North West,Eating,Runs from
+AM,South East,Running,Tail twitches,Approaches,Runs from
+AM,North East,Chasing,Indifferent
+PM,South West,Foraging,Runs from
+AM,South East,Climbing,Indifferent
+AM,North West,Eating,Indifferent
+AM,North East,Climbing,Eating,Runs from
+AM,North West,Foraging,Indifferent
+PM,North West,Eating
+PM,North East,Foraging
+AM,South East,Eating,Foraging,Indifferent
+PM,North East,Indifferent
+AM,South West,Running,Climbing,Foraging,Tail twitches,Indifferent
+AM,South East,Running,Eating,Foraging,Runs from
+PM,North East,Chasing,Tail flags
+PM,North East,Running,Eating,Foraging
+AM,North West,Running,Indifferent
+PM,North West,Foraging,Indifferent
+PM,North East,Chasing,Foraging,Indifferent
+AM,North West,Eating,Foraging,Indifferent
+AM,North East,Eating,Foraging,Tail twitches,Indifferent
+PM,North West,Eating,Foraging,Indifferent
+PM,South East,Chasing,Eating,Foraging,Indifferent
+PM,North East,Foraging,Indifferent
+PM,North East,Climbing,Runs from
+PM,North East,Running,Chasing,Climbing
+AM,South East,Foraging,Indifferent
+AM,South West,Climbing,Eating,Runs from
+PM,South East,Eating
+PM,South East,Foraging
+PM,North West,Foraging,Runs from
+PM,South East,Chasing,Foraging,Indifferent
+PM,North West,Eating,Foraging,Indifferent
+AM,North West,Foraging,Runs from
+PM,North East,Foraging,Runs from
+PM,South West,Climbing,Runs from
+PM,North West,Running,Eating,Tail flags
+AM,South West,Climbing,Indifferent,Runs from
+AM,North East,Eating,Approaches
+PM,South West,Running,Runs from
+PM,North West,Climbing
+PM,North East,Climbing,Foraging,Approaches
+PM,North East,Foraging
+AM,North East,Running,Foraging,Indifferent
+PM,North West,Eating,Foraging,Tail twitches,Approaches
+AM,North West,Running,Climbing,Eating,Indifferent
+AM,South East,Running
+PM,North East,Running,Foraging,Indifferent
+PM,North East,Running,Foraging
+PM,North West,Running,Chasing,Eating,Foraging,Indifferent
+PM,South West,Eating,Indifferent,Runs from
+AM,North East,Chasing,Kuks,Quaas,Tail twitches
+AM,North East,Foraging,Tail flags,Tail twitches,Approaches
+AM,North East,Foraging,Tail twitches,Indifferent
+PM,North East,Running,Chasing
+PM,North East,Chasing
+AM,North West,Foraging,Indifferent
+PM,North West,Eating,Indifferent
+AM,North East,Eating,Foraging,Indifferent
+PM,North East,Running,Runs from
+PM,North East,Running
+AM,North West,Climbing,Eating,Runs from
+PM,North East,Running,Foraging,Indifferent
+PM,North East,Chasing,Quaas
+PM,South East,Running,Runs from
+AM,South West,Climbing,Tail twitches,Runs from
+PM,North East,Running,Foraging,Approaches
+PM,South East,Running,Foraging,Tail twitches,Indifferent
+PM,North East,Foraging,Tail flags,Indifferent
+AM,South West,Eating,Foraging
+AM,North East,Climbing,Eating,Kuks,Approaches
+AM,North West,Chasing,Tail twitches,Indifferent
+PM,South West,Foraging,Indifferent
+PM,South East,Climbing,Eating,Foraging,Tail twitches,Indifferent
+AM,North East,Indifferent
+PM,South West,Kuks,Tail flags,Indifferent
+PM,North West,Eating,Tail twitches,Approaches
+AM,South West,Running,Tail twitches
+AM,North West,Runs from
+AM,North East,Running,Climbing,Tail flags,Approaches
+PM,South East,Running,Runs from
+PM,North West,Foraging,Indifferent
+AM,North West,Climbing,Indifferent
+PM,North East,Foraging,Tail twitches,Indifferent
+PM,South East,Eating,Foraging,Runs from
+PM,North West,Approaches
+PM,North East,Foraging
+PM,North West,Running,Foraging,Runs from
+PM,North East,Climbing,Tail twitches
+AM,North West,Foraging,Tail twitches
+PM,North East,Eating,Approaches
+PM,North East,Climbing,Tail twitches,Indifferent
+AM,North West,Climbing,Eating,Foraging,Indifferent
+PM,North West,Eating,Foraging,Indifferent
+AM,North West,Eating,Indifferent
+PM,South East,Climbing
+AM,South West,Running,Chasing,Eating,Tail twitches,Approaches
+AM,South East,Foraging,Tail twitches,Runs from
+PM,North West,Foraging,Runs from
+AM,South West,Foraging,Tail twitches,Indifferent
+PM,South West,Tail twitches,Runs from
+AM,North East,Running,Runs from
+AM,South West,Climbing,Indifferent
+AM,North West,Eating,Foraging,Tail twitches,Indifferent
+AM,South East,Running,Indifferent
+PM,North West,Eating,Tail twitches,Runs from
+PM,North West,Running,Foraging,Tail twitches,Runs from
+AM,North East,Running,Climbing,Indifferent
+AM,North East,Foraging,Indifferent
+AM,North East,Climbing,Eating,Foraging,Kuks,Indifferent
+PM,North West,Eating,Indifferent
+PM,North East,Climbing,Eating,Foraging,Indifferent
+AM,North East,Foraging,Tail twitches,Runs from
+AM,North East,Eating,Tail twitches
+AM,North West,Foraging,Tail twitches,Indifferent
+PM,North East,Chasing,Tail twitches
+AM,North West,Foraging,Indifferent
+AM,North West,Climbing,Indifferent
+AM,South East,Foraging,Indifferent
+PM,North East,Eating,Foraging,Indifferent
+AM,North East,Foraging,Approaches
+PM,South East,Running,Tail twitches,Runs from
+AM,South East,Climbing,Eating,Approaches
+AM,South East,Foraging,Indifferent
+AM,North East,Running,Indifferent
+AM,North West,Foraging
+AM,North West,Eating,Kuks,Indifferent
+PM,South East,Running,Eating,Foraging,Tail twitches,Indifferent,Runs from
+AM,South West,Running,Chasing,Tail flags,Tail twitches,Indifferent
+PM,North East,Foraging,Tail twitches,Runs from
+AM,North East,Foraging,Indifferent
+PM,South East,Foraging,Indifferent
+AM,North West,Climbing
+PM,South East,Foraging,Approaches,Indifferent
+PM,North East,Foraging,Tail flags,Indifferent
+AM,South East,Running
+AM,North West,Climbing,Indifferent
+AM,North East,Tail flags,Indifferent
+PM,South East,Foraging,Approaches
+AM,North East,Foraging,Tail twitches,Indifferent
+AM,North West,Foraging,Tail flags,Indifferent
+AM,North West
+PM,North West,Climbing
+AM,North East,Runs from
+PM,North East,Running,Climbing,Foraging,Tail twitches,Runs from
+AM,North East,Running,Climbing,Eating,Foraging,Tail flags,Runs from
+PM,North East,Eating,Foraging,Tail twitches
+PM,North West,Climbing,Eating,Foraging,Runs from
+PM,North East,Foraging,Indifferent
+AM,South West,Foraging,Runs from
+PM,North East,Foraging,Tail twitches,Indifferent
+PM,North East,Running,Runs from
+PM,North West,Eating,Approaches
+AM,North East,Running,Climbing,Eating,Approaches
+AM,South West,Running,Runs from
+AM,North West,Eating,Runs from
+PM,South East,Running,Tail flags,Runs from
+PM,North East,Foraging
+PM,South West,Climbing,Tail twitches,Indifferent
+PM,North West,Eating,Indifferent
+PM,North East,Running,Climbing,Foraging,Tail twitches,Runs from
+AM,North East,Running,Foraging,Indifferent
+PM,North East,Running
+AM,South East,Eating,Runs from
+PM,North West,Climbing,Tail twitches,Runs from
+AM,South East,Foraging,Tail twitches,Indifferent
+PM,North West,Foraging,Indifferent
+PM,South East,Foraging,Indifferent
+AM,North West,Foraging,Tail twitches,Runs from
+AM,North West,Foraging,Indifferent
+PM,North East,Eating
+PM,North East,Climbing,Runs from
+PM,North East,Foraging,Indifferent
+AM,North West,Running,Tail twitches,Runs from
+PM,North East,Running,Climbing,Kuks,Tail flags,Runs from
+AM,North West,Running
+PM,North East,Eating,Tail twitches,Indifferent
+AM,South West,Eating,Foraging,Indifferent
+PM,North East,Running,Climbing,Indifferent
+PM,North East,Foraging,Indifferent
+AM,South West,Running,Foraging,Indifferent
+AM,North West,Running,Eating,Tail twitches
+AM,South West
+AM,North East,Running,Runs from
+PM,North West,Foraging,Indifferent
+PM,North East,Climbing
+PM,North East,Running,Indifferent
+AM,South East,Running,Foraging,Tail twitches
+PM,South East,Eating
+PM,South East,Running
+PM,North West,Eating,Foraging,Indifferent
+AM,North East,Running,Chasing,Indifferent
+PM,North West,Climbing,Runs from
+AM,North West,Foraging,Tail twitches,Indifferent
+AM,South East,Eating,Indifferent
+PM,South West,Foraging,Indifferent
+PM,North East,Chasing,Eating,Indifferent
+PM,North East,Foraging,Indifferent
+AM,North East,Chasing,Foraging,Indifferent
+PM,North East,Climbing,Foraging,Approaches
+PM,North West,Runs from
+AM,North East,Eating,Foraging,Approaches
+PM,North East,Eating,Foraging,Indifferent
+PM,South East,Foraging,Tail twitches
+PM,North West,Foraging,Tail flags,Runs from
+AM,North East,Running,Tail twitches,Approaches
+PM,North West,Running,Foraging,Indifferent
+PM,South West,Eating,Tail twitches,Indifferent
+PM,North West,Foraging,Runs from
+PM,North East,Eating,Foraging,Approaches
+PM,South East,Eating,Foraging,Runs from
+AM,North East,Foraging
+AM,South West,Foraging
+AM,South West,Foraging,Indifferent
+PM,North East,Tail flags,Tail twitches
+AM,North East,Climbing,Indifferent
+PM,North East,Foraging,Indifferent
+PM,South West,Running,Tail twitches,Indifferent
+PM,South West,Foraging,Indifferent
+AM,North West,Chasing,Indifferent
+PM,North East,Running,Eating,Foraging,Indifferent
+AM,North East,Foraging,Indifferent
+PM,South East,Eating,Indifferent
+AM,South West,Indifferent
+AM,North West,Running,Tail flags,Indifferent
+PM,South West,Running,Chasing,Foraging,Indifferent
+AM,North East,Running,Foraging
+PM,South West,Running
+AM,North East,Eating
+PM,North East,Eating,Indifferent
+PM,North East,Foraging,Tail twitches,Indifferent
+PM,South West
+AM,North East,Chasing,Tail flags,Indifferent
+PM,North East,Climbing
+AM,South West
+PM,South West,Foraging,Indifferent
+AM,South East,Running,Runs from
+PM,South West,Running,Climbing,Tail twitches,Indifferent
+AM,North West,Chasing,Eating,Indifferent
+AM,South West,Running,Climbing,Runs from
+PM,North West,Foraging,Indifferent
+AM,South East,Climbing
+AM,South East,Climbing
+PM,North East,Running
+AM,North East,Climbing,Eating
+AM,South East,Running,Chasing,Tail twitches,Approaches
+PM,North East,Eating,Foraging,Indifferent
+PM,South East,Running,Foraging,Indifferent
+AM,North West,Foraging,Indifferent
+AM,North West,Eating,Indifferent
+PM,North West,Tail twitches
+PM,North West,Foraging,Indifferent
+PM,North East,Foraging,Runs from
+PM,North East,Foraging,Runs from
+AM,South West,Foraging,Indifferent
+PM,South East,Eating,Foraging,Indifferent
+PM,North West,Tail twitches,Indifferent
+PM,North East,Foraging,Indifferent
+PM,North East,Foraging,Indifferent
+PM,North East,Foraging
+PM,South West,Climbing,Indifferent
+PM,South East,Chasing
+PM,South East,Foraging,Tail twitches,Indifferent
+PM,South West,Eating,Foraging,Tail flags,Indifferent
+PM,North West,Foraging,Indifferent
+PM,South West,Foraging,Indifferent
+AM,South East,Foraging,Indifferent
+PM,South East,Tail flags,Runs from
+AM,South East,Eating,Tail flags,Runs from
+PM,South East,Running,Indifferent
+PM,North East,Running,Chasing,Eating,Tail twitches,Indifferent
+AM,North East,Running,Chasing,Kuks,Runs from
+PM,North West,Climbing
+AM,North West,Climbing
+PM,North West,Foraging,Indifferent
+AM,North East,Foraging,Tail flags,Runs from
+AM,South East,Foraging,Indifferent
+PM,North West,Eating,Tail flags,Indifferent
+AM,North East,Running,Foraging,Runs from
+PM,North West,Indifferent
+AM,South West,Climbing,Foraging,Indifferent
+AM,North West,Runs from
+AM,North East,Tail twitches
+PM,South West,Foraging,Kuks,Quaas
+PM,South East,Climbing,Runs from
+AM,North East,Foraging,Indifferent
+PM,South East,Eating,Indifferent
+PM,South East,Eating,Foraging
+AM,South West,Running,Runs from
+PM,South East,Chasing,Foraging,Runs from
+PM,South East,Running,Runs from
+AM,North West,Running,Tail twitches,Runs from
+PM,North East,Climbing
+AM,North West,Climbing,Eating,Indifferent
+PM,North East,Running
+PM,North East,Foraging,Tail twitches,Indifferent
+PM,South West,Eating,Indifferent
+AM,South East,Climbing
+AM,South East,Indifferent
+PM,South East,Running
+PM,South East,Foraging
+AM,North East,Foraging,Indifferent
+AM,North East,Foraging,Runs from
+AM,North West,Foraging,Kuks,Runs from
+AM,South East,Eating,Foraging,Tail flags,Indifferent,Runs from
+PM,North East,Climbing
+AM,North East,Foraging,Tail twitches,Indifferent
+PM,North East,Eating,Foraging,Tail twitches
+PM,North East,Eating,Foraging,Indifferent
+AM,North West,Foraging
+AM,North East,Foraging,Indifferent
+PM,South East,Climbing,Tail flags
+PM,South East,Foraging,Indifferent,Runs from
+PM,North West,Climbing,Foraging,Runs from
+PM,South West,Eating,Tail twitches,Approaches
+AM,North East,Foraging,Quaas,Tail twitches
+PM,North West,Foraging
+AM,North East,Climbing,Indifferent
+PM,South East,Foraging,Indifferent
+PM,North West,Running,Indifferent
+PM,North West,Eating,Foraging,Runs from
+PM,North West,Chasing
+AM,North West,Foraging
+AM,South East,Foraging,Indifferent
+AM,South West,Climbing,Indifferent,Runs from
+AM,South West
+PM,South West,Foraging,Indifferent
+AM,North East,Running,Indifferent
+PM,North East,Foraging,Indifferent
+AM,North East,Eating,Foraging,Approaches
+PM,South West,Foraging,Tail twitches,Indifferent
+PM,South East,Climbing
+AM,South East,Foraging,Tail twitches
+PM,North West,Eating,Indifferent
+PM,North West,Eating,Tail flags,Runs from
+AM,North West,Foraging,Tail twitches,Indifferent
+PM,North West,Eating,Foraging,Tail twitches,Indifferent
+PM,South East,Foraging,Approaches
+AM,North West,Indifferent
+PM,North East,Foraging,Indifferent
+PM,South East,Chasing
+PM,North East,Climbing,Runs from
+AM,North East,Climbing,Indifferent
+AM,South East,Running,Runs from
+PM,North West,Eating
+AM,South East,Running,Chasing,Tail twitches
+PM,South East
+PM,North West,Chasing,Indifferent
+AM,North East,Foraging,Tail twitches,Indifferent
+PM,South East,Running,Foraging,Tail twitches,Approaches
+PM,South East,Eating,Indifferent
+PM,North West,Foraging
+PM,North East,Foraging
+AM,North East,Foraging,Indifferent
+AM,South East,Running,Foraging,Tail twitches,Indifferent
+AM,South East,Climbing,Quaas
+AM,North East,Foraging,Runs from
+AM,North East,Running,Eating,Indifferent,Runs from
+PM,North West,Foraging,Indifferent
+AM,North East,Climbing,Indifferent
+PM,North West,Foraging,Tail flags,Indifferent
+PM,South West,Running,Tail flags,Runs from
+PM,North West,Foraging,Runs from
+PM,North West,Indifferent
+PM,North West,Climbing
+AM,South West,Foraging,Indifferent
+PM,South East,Climbing,Indifferent
+PM,North West,Foraging
+AM,South East,Eating,Foraging,Tail flags,Tail twitches,Indifferent
+PM,South West,Foraging,Runs from
+AM,North East,Climbing,Indifferent
+PM,North West,Foraging,Indifferent
+PM,North West,Running,Tail twitches,Runs from
+PM,North East,Foraging,Indifferent
+AM,North West,Chasing,Climbing
+AM,South West,Foraging,Indifferent
+PM,North East,Foraging,Indifferent
+PM,North East,Eating
+PM,North East,Foraging,Runs from
+PM,North West,Climbing,Eating
+PM,South East,Foraging,Indifferent
+AM,North East,Eating
+PM,South East,Running,Runs from
+AM,North East,Climbing
+AM,North East,Foraging,Indifferent
+PM,North West
+AM,North West,Chasing,Climbing,Approaches
+AM,South West,Eating,Foraging,Runs from
+AM,South East,Foraging,Tail twitches,Approaches,Indifferent,Runs from
+AM,North East,Chasing,Tail flags,Indifferent
+PM,North East,Climbing,Runs from
+PM,North East,Climbing,Runs from
+PM,North West,Running,Runs from
+PM,North East,Foraging,Tail twitches,Indifferent
+PM,North East,Foraging,Tail flags,Indifferent
+PM,North East,Running,Chasing,Foraging
+AM,North East,Climbing,Foraging
+AM,South East,Foraging,Tail flags,Indifferent,Runs from
+AM,North East,Climbing,Indifferent
+AM,South East,Eating,Runs from
+PM,South East,Eating,Foraging,Runs from
+PM,North East,Eating,Foraging,Approaches
+PM,North East,Foraging,Tail twitches
+AM,North West,Running,Runs from
+AM,North East,Foraging,Indifferent
+AM,South East,Indifferent
+PM,North West,Running,Chasing,Indifferent
+PM,South West,Foraging,Tail twitches,Indifferent
+AM,South West,Eating,Quaas,Runs from
+AM,North West,Climbing,Indifferent
+AM,North East,Climbing,Kuks
+PM,North West,Running,Climbing,Eating,Foraging,Indifferent
+AM,North West,Running
+AM,North East,Eating,Runs from
+PM,North East,Eating,Approaches
+PM,South West,Indifferent
+PM,North East,Foraging,Runs from
+AM,South East,Climbing,Approaches
+PM,South West,Eating,Indifferent
+AM,South East,Foraging,Kuks,Quaas,Indifferent
+PM,South East,Climbing,Eating,Foraging,Runs from
+PM,North West,Eating,Foraging,Indifferent
+PM,North East,Eating,Indifferent
+AM,South East,Running,Runs from
+PM,North East,Foraging,Tail twitches
+AM,South West,Climbing,Indifferent
+PM,South East,Foraging,Indifferent
+PM,South East
+PM,North West,Foraging,Indifferent
+AM,South West,Foraging,Runs from
+PM,South West,Running,Runs from
+AM,North West,Running,Indifferent
+PM,North East,Climbing,Kuks,Indifferent
+AM,North East,Foraging,Indifferent
+PM,North East,Climbing,Eating,Indifferent
+AM,North East,Eating,Foraging,Approaches
+AM,South East
+PM,North West,Foraging,Runs from
+AM,North West,Eating,Indifferent
+PM,North West,Climbing,Eating,Tail flags,Indifferent
+PM,North East,Foraging,Indifferent
+AM,South East,Foraging
+PM,North West,Foraging,Indifferent
+PM,South East,Eating,Indifferent
+AM,South West,Running,Climbing,Indifferent
+PM,North West,Foraging,Indifferent
+AM,South West,Eating,Foraging,Tail twitches,Indifferent
+PM,North East,Quaas
+AM,North West,Foraging,Indifferent
+AM,South West,Foraging,Tail flags,Indifferent
+PM,North East,Eating,Indifferent
+PM,North East,Foraging,Tail twitches
+PM,South East,Foraging
+AM,South East,Running,Foraging,Tail twitches,Runs from
+AM,North West,Eating,Foraging,Runs from
+PM,South East,Eating,Tail twitches,Approaches
+PM,South West,Chasing,Eating
+PM,South West,Running,Tail flags,Runs from
+PM,South West,Eating
+PM,South East,Climbing
+PM,South West,Running,Runs from
+AM,South East,Foraging,Indifferent
+AM,North West,Climbing,Tail twitches,Indifferent
+PM,South West,Foraging,Indifferent
+PM,North East,Eating,Indifferent
+PM,North East,Running,Indifferent
+AM,North East,Eating,Foraging,Indifferent
+PM,South West,Eating,Runs from
+PM,North West,Foraging,Runs from
+PM,South East,Eating,Foraging,Indifferent
+AM,North East,Foraging
+AM,North East,Chasing,Eating,Tail flags,Tail twitches
+PM,North East,Running,Chasing,Climbing,Indifferent
+PM,South West,Running,Runs from
+PM,North East,Running,Runs from
+PM,North West,Climbing,Eating,Tail twitches,Indifferent
+AM,North West,Foraging,Approaches,Runs from
+PM,North West,Climbing,Runs from
+AM,South East,Foraging,Tail twitches,Runs from
+PM,North East,Foraging,Tail twitches,Indifferent
+PM,North East,Eating,Foraging,Indifferent
+PM,North West,Foraging,Indifferent
+AM,North East,Eating,Foraging,Indifferent
+AM,South West,Climbing,Indifferent
+AM,North East,Foraging
+AM,North East,Foraging,Indifferent
+AM,North West,Chasing,Indifferent
+PM,North West,Eating,Foraging,Indifferent
+PM,South East,Climbing
+PM,South East,Eating,Foraging,Indifferent
+PM,North East,Chasing,Tail twitches,Runs from
+PM,North East,Eating,Foraging,Indifferent
+PM,North East,Climbing,Indifferent
+PM,South East,Chasing,Tail twitches
+PM,South East,Chasing,Tail twitches
+PM,South East,Foraging,Approaches
+PM,North East
+AM,South East,Climbing,Runs from
+AM,South East,Running,Runs from
+PM,North West,Climbing
+PM,North West,Foraging,Indifferent
+PM,North West,Eating,Indifferent
+AM,South West,Foraging,Indifferent
+AM,South East,Running
+AM,North East,Climbing,Runs from
+AM,North East,Running,Climbing,Eating,Tail flags
+AM,South West,Climbing
+PM,South East,Climbing,Indifferent
+PM,South East,Eating,Tail flags,Indifferent
+AM,North West,Climbing,Tail twitches,Indifferent
+PM,North East,Eating,Approaches
+PM,South East,Eating,Foraging,Runs from
+PM,North East
+AM,South East,Running,Runs from
+PM,South West,Tail twitches
+PM,North East,Foraging
+PM,North East
+PM,South East,Eating,Foraging,Indifferent
+PM,North West
+PM,South East,Running
+PM,North West,Eating,Indifferent
+AM,South East,Foraging,Indifferent
+PM,South East,Running,Foraging
+PM,South East,Climbing,Kuks
+PM,North West,Running,Climbing,Foraging,Runs from
+PM,South East,Running,Foraging,Tail twitches,Runs from
+PM,North West,Running,Eating,Foraging,Indifferent
+AM,North East,Running,Eating,Indifferent
+PM,North East,Eating,Indifferent
+PM,South West,Running,Indifferent
+PM,South West,Running,Eating,Runs from
+PM,South West,Foraging,Indifferent,Runs from
+PM,South East,Running,Quaas
+PM,North West,Running,Foraging
+AM,North East,Climbing,Indifferent
+PM,South East,Climbing,Kuks,Indifferent,Runs from
+PM,North West,Eating,Tail flags
+AM,South East,Eating,Tail twitches,Runs from
+PM,South East,Eating,Foraging,Indifferent
+AM,North East,Running,Tail twitches
+PM,North West,Running,Eating,Approaches
+AM,North West,Chasing,Runs from
+PM,North West,Foraging,Indifferent
+AM,North West,Climbing,Runs from
+PM,North East,Running,Indifferent
+PM,South West,Foraging,Tail flags,Runs from
+AM,North West,Climbing,Indifferent
+PM,North East,Foraging,Tail twitches
+AM,South West,Kuks,Quaas
+PM,North West,Running,Runs from
+AM,North West,Foraging,Approaches
+PM,North East,Eating,Foraging
+PM,North East,Eating,Foraging,Indifferent
+PM,South West,Running,Indifferent
+AM,South East,Foraging,Indifferent
+AM,South West,Climbing,Indifferent
+AM,North West,Eating,Foraging
+AM,South West,Running,Foraging
+PM,North East,Foraging,Indifferent
+PM,North West,Climbing,Indifferent
+PM,North West,Foraging,Indifferent
+PM,North West,Running,Tail twitches
+PM,North East,Foraging,Indifferent
+AM,North West,Chasing,Quaas
+AM,North West,Eating,Tail twitches,Indifferent
+AM,North East,Running,Indifferent
+PM,South East,Eating,Foraging,Quaas,Indifferent
+PM,South West,Eating,Foraging,Indifferent
+PM,North West,Climbing,Indifferent
+AM,South East,Foraging,Indifferent
+PM,South East,Eating,Indifferent
+PM,North West,Running,Climbing,Indifferent
+PM,South East,Eating,Foraging,Runs from
+AM,South East,Running
+AM,North East,Foraging,Indifferent
+AM,South East,Foraging,Indifferent
+PM,North East,Foraging,Indifferent
+PM,North East,Running,Indifferent
+AM,North West,Chasing,Kuks
+AM,North West,Foraging,Indifferent
+PM,South West,Chasing,Foraging
+PM,North West,Eating,Foraging,Indifferent
+AM,North West,Kuks,Quaas
+PM,South East,Foraging,Approaches,Indifferent
+PM,South East,Running
+AM,South East,Running
+PM,North East,Foraging,Tail twitches,Approaches
+AM,North East,Climbing,Indifferent
+AM,North West,Indifferent
+AM,North West,Foraging,Indifferent
+PM,South East,Running,Foraging
+AM,South East,Eating,Indifferent
+AM,North East,Eating,Foraging,Indifferent
+AM,South East,Foraging,Runs from
+PM,North West,Foraging,Indifferent
+PM,South East,Running
+AM,South East,Climbing,Foraging
+AM,North West,Eating,Indifferent
+PM,North West,Running,Indifferent
+PM,South East
+AM,North East,Running,Eating,Runs from
+PM,North East,Foraging
+PM,South West,Running,Climbing,Foraging,Kuks,Runs from
+PM,North West,Climbing,Eating,Indifferent
+AM,North East,Foraging,Tail flags,Runs from
+AM,North West,Climbing,Foraging,Tail twitches,Indifferent
+AM,North West,Climbing,Tail twitches,Runs from
+AM,North West,Climbing,Eating,Runs from
+AM,South East,Running,Foraging,Tail twitches,Runs from
+PM,South East,Eating,Foraging,Indifferent
+PM,South East,Running
+AM,North East,Climbing,Indifferent
+PM,North West,Eating,Foraging
+PM,North East,Running
+PM,North West,Foraging,Indifferent
+PM,North East,Eating,Tail twitches,Runs from
+PM,North East,Foraging
+AM,North East,Eating,Indifferent
+AM,North East,Foraging,Indifferent
+AM,South West,Foraging,Indifferent
+PM,South East,Running,Runs from
+AM,South West,Running,Climbing,Kuks,Runs from
+PM,North East,Climbing,Eating,Indifferent
+AM,North East,Climbing,Indifferent
+AM,North West,Chasing,Indifferent
+PM,North West,Chasing,Climbing,Tail twitches,Runs from
+AM,North East,Running,Eating,Indifferent
+PM,South East,Running,Runs from
+AM,South East,Foraging,Indifferent
+PM,North East,Eating,Foraging,Runs from
+AM,South East,Foraging,Indifferent
+AM,North East,Foraging,Indifferent
+AM,North East,Foraging,Runs from
+AM,South East,Running,Chasing,Tail twitches,Runs from
+PM,South East,Eating,Foraging,Indifferent
+PM,South West
+PM,North East,Foraging,Tail twitches,Runs from
+PM,North West,Foraging
+AM,South West,Indifferent
+PM,North West,Foraging,Runs from
+AM,North West,Running,Climbing,Runs from
+PM,North East,Running,Foraging,Indifferent
+PM,South East,Foraging,Runs from
+AM,North East,Foraging,Indifferent
+PM,South East,Foraging,Indifferent
+PM,South East,Running,Climbing,Tail twitches
+PM,North West,Running,Indifferent
+PM,North East,Running,Foraging
+PM,South East,Foraging,Indifferent
+AM,South East,Chasing,Climbing,Indifferent
+AM,North West,Climbing,Tail flags
+PM,North East,Climbing,Tail twitches,Indifferent
+AM,North East,Running,Tail flags,Runs from
+PM,North West,Running,Climbing,Tail flags,Indifferent
+AM,North West,Foraging,Indifferent
+PM,South East,Eating,Indifferent
+PM,North East,Eating,Approaches
+AM,North East,Running,Indifferent
+PM,North West,Eating,Runs from
+PM,North East,Chasing,Indifferent
+AM,South East,Chasing,Indifferent
+PM,South East,Eating
+PM,North East,Eating,Approaches
+PM,North East,Eating,Foraging
+PM,South East,Eating,Runs from
+PM,South East,Running,Tail flags,Runs from
+AM,North West,Foraging,Indifferent
+PM,North East,Eating,Indifferent
+PM,North East,Approaches
+AM,North East,Eating,Indifferent
+AM,North East,Chasing,Foraging,Tail twitches
+PM,South West,Eating
+PM,North East,Foraging,Indifferent
+PM,North East,Approaches
+PM,North East,Eating,Foraging,Tail twitches,Indifferent
+AM,North East,Running,Chasing,Indifferent
+AM,North East,Eating,Foraging,Indifferent
+PM,North East,Running,Chasing,Runs from
+PM,South West,Foraging,Tail twitches,Indifferent
+PM,South West,Climbing,Foraging,Moans,Runs from
+PM,North West,Running,Runs from
+AM,North East,Chasing,Kuks,Indifferent
+AM,South East,Foraging,Indifferent
+PM,North West,Eating
+PM,North East,Climbing,Runs from
+PM,South West,Foraging,Tail twitches
+PM,North East,Chasing,Kuks,Indifferent
+AM,North West,Running,Indifferent
+PM,North West,Foraging,Indifferent
+AM,South East,Running,Runs from
+PM,North West,Foraging,Tail flags,Indifferent
+AM,North West,Eating,Runs from
+AM,South East,Indifferent
+AM,South East,Eating,Runs from
+PM,North East,Running,Eating,Indifferent
+PM,South East,Foraging,Runs from
+PM,North East,Tail twitches,Indifferent
+AM,South East,Running,Runs from
+AM,South East,Foraging,Runs from
+AM,North East,Foraging,Indifferent
+PM,North East,Chasing,Runs from
+PM,South East,Running,Chasing,Tail twitches,Runs from
+AM,South East,Chasing,Eating,Runs from
+AM,South West,Runs from
+AM,South West,Climbing
+AM,North West,Eating,Indifferent
+PM,North West,Eating
+AM,North East,Foraging,Indifferent
+PM,South West,Foraging,Indifferent
+AM,North East,Running,Climbing,Foraging,Tail twitches,Runs from
+AM,South East,Foraging,Indifferent
+PM,North East,Climbing,Eating,Kuks,Runs from
+PM,North East,Eating,Foraging,Tail twitches,Approaches,Indifferent
+PM,North East,Chasing
+PM,South East,Eating
+AM,North West,Climbing,Tail twitches
+AM,South East,Foraging,Runs from
+AM,South East,Climbing,Foraging,Indifferent
+PM,South West,Running,Tail flags,Runs from
+PM,North East,Foraging,Runs from
+AM,North East,Eating
+PM,North East,Foraging,Tail twitches,Indifferent
+AM,South East,Indifferent
+AM,South East,Foraging
+AM,North West,Running,Indifferent
+AM,North East,Foraging,Indifferent
+AM,North East,Foraging,Tail flags,Runs from
+PM,North West,Foraging,Indifferent
+AM,South East,Climbing
+AM,North West,Climbing,Foraging
+AM,North West,Eating,Tail twitches,Indifferent
+AM,North East,Eating,Foraging,Approaches
+PM,South East,Eating,Tail twitches,Indifferent
+AM,North West,Running,Runs from
+PM,South West,Foraging,Indifferent
+PM,South East,Indifferent
+AM,North East,Running,Climbing
+AM,North East,Foraging,Runs from
+AM,North West,Eating,Tail twitches,Indifferent
+PM,North East,Running,Eating
+PM,South East,Eating,Indifferent
+AM,South East,Climbing
+AM,South West,Foraging,Tail flags,Indifferent
+PM,North West,Running,Chasing,Climbing,Tail twitches,Approaches
+AM,North East,Running,Runs from
+PM,North West,Running,Runs from
+PM,South East,Eating,Foraging,Indifferent
+PM,North East,Foraging,Indifferent
+PM,South West,Eating,Foraging,Approaches
+AM,North East,Foraging,Indifferent
+AM,North East,Foraging,Indifferent
+AM,North West,Climbing,Runs from
+PM,North West,Running,Eating,Foraging,Tail twitches,Runs from
+AM,South West,Climbing
+AM,North West,Climbing,Indifferent
+PM,South West,Eating
+AM,North West,Foraging,Tail twitches,Indifferent
+AM,South East,Running,Eating,Runs from
+AM,North East,Eating,Foraging
+PM,North East,Foraging
+PM,South West,Running,Eating,Foraging,Tail flags,Indifferent,Runs from
+AM,South East,Foraging,Indifferent
+PM,South West,Running
+PM,North West,Indifferent
+AM,North East,Running,Approaches
+AM,South East,Running,Runs from
+AM,North West,Foraging,Indifferent
+AM,North East,Running,Foraging
+PM,South East,Running,Runs from
+PM,North West,Eating,Foraging,Indifferent
+AM,South East,Eating,Foraging,Tail twitches,Indifferent
+PM,North East,Running,Tail twitches,Runs from
+AM,North East,Eating
+AM,South West,Chasing,Tail twitches,Runs from
+AM,North West,Chasing,Indifferent
+PM,North East,Climbing,Runs from
+PM,South East,Eating,Tail twitches,Indifferent
+PM,North East,Chasing,Indifferent
+PM,South East,Eating,Foraging,Tail flags,Runs from
+AM,North East,Chasing,Runs from
+AM,North East,Climbing,Tail twitches,Indifferent
+AM,North East,Foraging,Indifferent
+PM,North West,Foraging,Indifferent
+AM,North West,Eating,Foraging,Indifferent
+PM,North West,Climbing,Indifferent
+AM,North West,Climbing,Approaches,Runs from
+PM,South East,Foraging,Kuks
+PM,South West,Chasing,Eating,Foraging,Kuks,Tail twitches
+PM,North East,Eating,Indifferent
+PM,North East,Indifferent
+AM,South West,Running,Eating,Foraging,Kuks,Approaches,Runs from
+PM,North East
+AM,North East,Chasing,Indifferent
+PM,North East,Running,Eating,Foraging,Indifferent
+AM,North East,Chasing,Foraging,Indifferent
+PM,North East,Running,Chasing
+AM,North West,Foraging,Indifferent
+PM,South West,Climbing,Indifferent
+AM,North East,Running,Eating,Foraging,Tail twitches,Indifferent
+AM,North East,Running,Climbing,Indifferent
+AM,North East,Eating,Indifferent
+AM,North East,Eating,Foraging,Indifferent
+AM,North East,Climbing,Eating,Foraging,Tail flags,Runs from
+PM,South East,Chasing,Foraging,Tail twitches,Runs from
+PM,North East,Running,Chasing,Foraging
+AM,North East,Climbing,Indifferent
+PM,South East,Chasing,Climbing,Indifferent
+AM,North East,Indifferent
+AM,North West,Climbing,Kuks
+AM,North East,Climbing,Eating,Foraging,Runs from
+AM,North East,Foraging,Kuks,Runs from
+AM,North West,Running,Climbing,Kuks
+PM,South East,Running,Chasing
+PM,South West,Climbing,Indifferent
+PM,South East,Foraging,Runs from
+PM,South East,Foraging,Quaas,Indifferent
+PM,North West,Climbing,Eating,Indifferent
+AM,North West,Foraging,Runs from
+AM,North East,Climbing
+PM,North East,Eating,Foraging,Tail twitches,Indifferent,Runs from
+AM,South West,Climbing,Indifferent
+PM,North East,Climbing
+PM,North East,Running,Eating,Foraging,Indifferent
+PM,South West,Foraging,Tail flags,Indifferent
+PM,South East,Foraging,Runs from
+AM,South West,Running,Eating,Foraging,Indifferent
+PM,North West,Running,Eating,Foraging,Indifferent
+PM,North East,Foraging,Indifferent
+PM,North East,Foraging,Runs from
+AM,North East,Climbing,Eating
+PM,North East,Foraging,Runs from
+PM,South East,Running,Climbing,Runs from
+AM,North East,Eating,Indifferent
+AM,North East,Running,Climbing,Approaches
+AM,North East,Climbing,Eating,Foraging,Indifferent
+AM,North East
+AM,South East,Running,Indifferent
+PM,North West,Foraging,Indifferent
+AM,North East,Running,Eating,Indifferent,Runs from
+AM,North East,Foraging,Approaches
+PM,North East,Foraging,Runs from
+PM,North East,Climbing,Runs from
+PM,South East,Foraging,Indifferent
+AM,North West,Foraging,Indifferent
+AM,North East,Chasing,Indifferent
+PM,North East,Eating,Indifferent
+PM,North East,Foraging,Tail flags,Indifferent
+AM,North East,Eating,Foraging,Tail twitches,Indifferent
+AM,South East,Foraging,Indifferent
+AM,South East,Eating,Indifferent
+AM,North East,Climbing,Tail twitches,Runs from
+AM,South East,Chasing,Indifferent
+AM,South West,Foraging,Indifferent
+PM,South East,Running,Runs from
+PM,South East,Foraging,Runs from
+PM,South West,Eating,Foraging,Indifferent
+AM,North East,Eating,Foraging,Indifferent
+PM,South West,Running,Foraging
+AM,North East,Foraging,Approaches
+PM,South East,Eating,Foraging,Indifferent
+PM,South East,Foraging,Approaches,Indifferent
+PM,South East,Foraging,Tail twitches,Indifferent
+PM,North East,Climbing,Foraging,Runs from
+PM,North West,Indifferent
+AM,North East,Climbing,Indifferent
+AM,North West,Foraging,Indifferent
+AM,North West,Climbing
+PM,South East,Foraging,Tail twitches,Runs from
+PM,South East,Chasing,Indifferent
+PM,North East,Eating,Runs from
+AM,North West,Eating,Foraging,Approaches,Indifferent
+AM,North East,Eating,Foraging,Approaches
+AM,South East,Foraging,Indifferent
+PM,South East,Eating,Foraging,Indifferent
+AM,South East,Foraging,Tail twitches,Indifferent
+AM,North East,Foraging,Tail twitches,Indifferent
+AM,North West,Foraging,Indifferent
+AM,North East,Chasing
+AM,South West,Foraging,Indifferent
+AM,South West,Chasing,Foraging,Kuks,Tail twitches,Indifferent
+PM,North East,Tail flags,Runs from
+PM,South East,Climbing,Tail twitches,Indifferent
+PM,North West,Foraging,Indifferent
+PM,South East,Running,Climbing,Tail twitches,Approaches,Runs from
+AM,North East,Eating,Tail twitches,Indifferent
+AM,South East,Running,Foraging,Tail twitches,Indifferent
+PM,North East,Eating,Foraging,Indifferent
+PM,North East,Climbing,Runs from
+PM,North East,Approaches
+PM,North East,Running,Eating,Foraging,Tail twitches
+PM,South East,Running,Climbing,Runs from
+PM,North West,Foraging
+PM,South East,Foraging,Indifferent
+AM,North East,Chasing,Indifferent
+PM,South East,Chasing,Eating,Foraging,Tail twitches,Indifferent
+PM,North East,Eating,Foraging
+PM,South East
+PM,North West,Foraging,Indifferent
+PM,North West,Eating,Indifferent
+PM,North East,Chasing,Climbing
+PM,South West,Foraging,Indifferent
+PM,North East,Foraging
+PM,North East,Eating,Approaches
+PM,South East,Running
+PM,North East,Running,Tail twitches,Indifferent
+PM,North West,Running,Indifferent
+AM,North East,Foraging,Indifferent
+PM,South East,Foraging,Tail flags,Runs from
+PM,North West,Running,Runs from
+PM,North West,Running,Climbing,Foraging
+PM,North West,Chasing,Climbing,Runs from
+AM,South West,Running,Foraging,Indifferent
+AM,North East,Running,Eating,Foraging,Tail twitches,Indifferent
+AM,North East
+AM,South West,Running,Runs from
+AM,North East,Climbing
+AM,South East,Eating,Indifferent
+PM,North West,Foraging,Indifferent
+PM,North East,Running,Runs from
+AM,North West,Running,Foraging
+PM,South West,Chasing,Foraging
+AM,South East,Chasing,Runs from
+AM,South West,Running
+PM,South West,Climbing,Foraging,Indifferent
+PM,North East,Foraging
+AM,North West,Chasing,Eating,Foraging,Indifferent
+PM,South East,Eating,Foraging,Indifferent
+AM,South West,Foraging,Approaches,Runs from
+AM,North East,Foraging,Runs from
+AM,North East,Foraging,Indifferent
+AM,South East,Running,Climbing,Tail flags,Runs from
+AM,North West,Climbing,Approaches
+PM,North West,Indifferent
+AM,South East,Climbing
+PM,South East,Climbing
+AM,North West,Eating,Foraging,Indifferent
+PM,North West,Running,Eating,Foraging,Tail twitches,Indifferent
+AM,South West,Climbing,Eating,Tail twitches,Runs from
+PM,South East,Foraging,Indifferent
+PM,South West
+PM,South East,Foraging
+AM,North East,Foraging,Kuks,Tail twitches,Runs from
+AM,South East,Running,Foraging,Runs from
+PM,North East,Running,Runs from
+PM,South East,Foraging,Indifferent
+PM,North East,Foraging
+PM,South East,Climbing,Kuks
+PM,South East,Running,Indifferent
+PM,North West,Foraging,Indifferent
+PM,North East,Eating,Runs from
+AM,North East,Foraging,Approaches
+AM,North East,Running,Chasing,Foraging,Runs from
+AM,South West,Climbing,Eating,Indifferent
+AM,North East,Running,Runs from
+AM,North East,Eating
+AM,South West,Foraging,Indifferent
+AM,North West,Running
+AM,South West,Foraging,Indifferent
+PM,North West,Foraging,Indifferent
+AM,South East,Running
+PM,North East,Running,Foraging,Runs from
+PM,North East,Eating,Foraging,Indifferent
+PM,South West,Running,Climbing,Foraging,Kuks,Quaas,Indifferent
+PM,South East,Foraging,Runs from
+PM,South West,Running,Chasing,Foraging,Indifferent
+AM,South East,Chasing,Climbing
+AM,North West,Running,Indifferent
+PM,North West,Eating,Foraging,Runs from
+AM,South East,Running,Eating,Foraging,Runs from
+PM,South East,Running,Climbing,Eating,Foraging,Runs from
+PM,North East,Foraging,Indifferent
+AM,South East
+AM,North East,Running,Indifferent
+PM,North West,Eating,Foraging
+AM,North West,Running,Foraging,Runs from
+AM,North East,Foraging
+PM,North West,Foraging,Indifferent
+AM,North West,Eating,Indifferent
+PM,North East,Eating,Runs from
+PM,North West,Climbing
+AM,South East,Running
+PM,North West,Climbing,Runs from
+PM,South East,Tail twitches,Indifferent
+PM,North East,Eating
+AM,North East,Indifferent,Runs from
+PM,South East,Foraging
+PM,South East,Foraging,Indifferent
+PM,South East,Climbing
+PM,North East,Eating,Foraging,Indifferent
+AM,North East,Running,Runs from
+AM,North East,Eating,Foraging,Indifferent
+PM,North East,Running,Foraging
+AM,North East,Climbing,Eating,Runs from
+AM,South East,Foraging,Approaches,Indifferent
+PM,North East,Running,Indifferent
+AM,North East,Running,Foraging,Tail twitches
+PM,South East,Running,Quaas
+PM,South East,Running,Chasing,Quaas
+PM,South East,Foraging,Runs from
+AM,South West,Chasing,Kuks,Tail flags,Indifferent
+PM,South East,Chasing,Eating,Foraging,Tail twitches,Runs from
+AM,North West,Climbing,Indifferent
+AM,North East,Tail flags,Runs from
+AM,North West,Climbing
+PM,North West,Foraging
+PM,North West,Foraging,Indifferent
+PM,North East,Foraging,Tail twitches,Indifferent
+AM,North West,Chasing,Indifferent
+PM,North West,Eating,Foraging,Indifferent
+AM,North West,Running,Tail flags,Runs from
+AM,North West,Running,Eating,Foraging,Indifferent
+AM,North East,Running,Eating,Foraging,Indifferent
+PM,South East,Climbing
+PM,North East,Eating,Indifferent
+PM,South West,Foraging,Approaches,Indifferent,Runs from
+PM,North East,Eating
+PM,South East,Foraging
+PM,North East,Foraging,Indifferent
+PM,North East,Foraging,Runs from
+PM,North East,Foraging,Indifferent
+AM,South East,Climbing
+PM,North East,Foraging,Runs from
+AM,North East,Climbing,Foraging,Tail twitches,Indifferent
+AM,North East,Foraging,Approaches
+PM,South East,Foraging,Indifferent
+AM,South East,Climbing,Indifferent
+AM,North East,Foraging,Tail twitches
+AM,North West,Climbing,Indifferent
+AM,North East,Climbing,Foraging
+AM,South East,Running,Tail flags
+PM,South West,Running
+AM,North East,Climbing,Tail flags,Tail twitches
+PM,South West,Running,Indifferent,Runs from
+PM,South East,Running,Climbing,Runs from
+PM,North East,Eating,Foraging
+AM,South East,Climbing,Runs from
+AM,South East,Running,Runs from
+PM,South East,Chasing,Climbing,Runs from
+PM,North East,Foraging,Tail flags,Tail twitches,Indifferent
+PM,North West,Running,Tail flags,Runs from
+PM,North West,Eating,Runs from
+AM,South West,Indifferent
+AM,South East,Eating,Tail twitches,Indifferent
+PM,North West,Foraging,Indifferent
+PM,South East,Running,Climbing,Indifferent,Runs from
+AM,North East,Running,Indifferent
+AM,North West,Chasing,Indifferent
+PM,South West
+AM,North East,Running,Runs from
+AM,North West,Climbing
+AM,North East,Foraging,Indifferent
+PM,North West,Running,Indifferent
+PM,South East
+PM,South West,Foraging,Indifferent
+AM,North West,Running,Climbing,Tail twitches,Runs from
+AM,North West,Eating,Runs from
+PM,South East,Running
+PM,North East,Foraging
+PM,North East,Running,Kuks,Indifferent
+PM,North West,Eating,Indifferent
+PM,North East,Climbing
+PM,South East,Running,Tail twitches,Runs from
+AM,North West,Eating,Tail twitches,Indifferent
+PM,North East,Foraging,Indifferent
+PM,South West,Climbing,Eating,Foraging,Indifferent
+AM,North East,Running,Eating,Foraging,Indifferent
+AM,North East,Climbing,Indifferent
+AM,South East,Running,Runs from
+PM,North East,Eating,Foraging,Tail twitches,Indifferent
+AM,North East,Climbing
+AM,North East,Running,Runs from
+AM,South East,Climbing,Indifferent
+PM,North East,Foraging,Indifferent
+PM,North West,Foraging,Tail twitches,Approaches,Runs from
+PM,South West,Eating,Foraging,Runs from
+PM,South West,Running,Eating,Foraging,Quaas,Tail twitches,Indifferent
+PM,North West,Eating
+PM,South East,Climbing
+PM,North West,Tail twitches,Approaches
+AM,North East,Foraging
+PM,South East,Foraging
+PM,South West,Eating,Foraging,Runs from
+AM,North East,Climbing
+AM,North East,Running,Climbing,Foraging,Tail twitches,Runs from
+AM,South East,Foraging,Runs from
+AM,South West,Eating,Foraging,Indifferent
+PM,North West,Eating,Indifferent
+PM,North West,Running,Eating,Foraging,Indifferent
+PM,South East,Running,Foraging,Runs from
+PM,North East,Running,Climbing,Runs from
+AM,North East,Foraging,Tail flags,Runs from
+AM,North West,Chasing,Climbing
+AM,South West,Foraging,Indifferent
+PM,North East
+PM,North East,Climbing,Indifferent
+AM,North East,Foraging,Runs from
+AM,South West,Foraging,Indifferent
+PM,South West,Approaches
+PM,North East,Running,Chasing,Eating,Indifferent
+AM,North West,Running,Indifferent
+PM,South East,Chasing,Foraging
+AM,North West,Climbing,Kuks
+AM,South East,Running,Chasing,Indifferent
+PM,North East
+PM,South East,Foraging,Indifferent
+AM,South West,Climbing
+AM,South East,Foraging,Runs from
+PM,North East,Climbing
+PM,North West,Foraging,Indifferent
+PM,North West,Tail twitches
+AM,North West,Foraging,Tail twitches,Runs from
+AM,North East,Foraging,Tail twitches
+PM,North East,Climbing,Eating,Foraging,Indifferent
+AM,South East,Runs from
+AM,North East,Running,Chasing,Climbing,Foraging,Quaas
+AM,North East,Climbing,Tail twitches,Indifferent
+AM,North East,Chasing,Climbing,Indifferent
+PM,South East,Chasing,Eating,Foraging,Tail twitches,Indifferent
+PM,North East,Climbing
+AM,South West,Eating,Foraging,Tail twitches,Indifferent
+PM,South East,Eating,Runs from
+AM,South East,Running,Indifferent
+AM,North West,Chasing,Kuks
+PM,South East,Climbing,Runs from
+PM,North East,Tail flags,Approaches
+PM,North East,Foraging,Tail flags,Indifferent
+PM,South East,Running,Runs from
+PM,South West,Eating,Indifferent
+AM,North West,Running,Foraging,Indifferent
+PM,South West,Running,Runs from
+PM,North West,Foraging,Indifferent
+PM,North West,Running,Chasing,Climbing,Indifferent
+PM,South West,Tail twitches,Runs from
+PM,North East,Foraging,Indifferent
+AM,South East,Climbing,Foraging,Indifferent,Runs from
+PM,North West,Running,Runs from
+PM,South West,Foraging,Indifferent
+AM,North East,Foraging,Indifferent
+PM,South East,Eating
+AM,South East,Running,Climbing,Foraging,Runs from
+AM,North East,Foraging,Indifferent
+AM,South East,Foraging,Tail twitches,Approaches,Indifferent
+PM,South East,Eating,Foraging,Runs from
+AM,North West,Climbing,Kuks
+PM,North West,Running,Eating,Foraging,Runs from
+AM,North East,Chasing,Climbing,Tail flags
+PM,North West,Running,Tail twitches
+AM,South East,Eating,Indifferent
+AM,North East,Running
+PM,North East,Climbing,Kuks,Runs from
+AM,South East,Climbing,Indifferent
+PM,South East,Eating,Indifferent
+AM,North East,Foraging,Indifferent
+PM,South West,Foraging
+AM,North West,Foraging,Tail twitches,Indifferent
+PM,North West,Eating,Foraging,Tail twitches,Approaches
+AM,North East,Eating,Foraging,Indifferent
+AM,North East,Eating,Indifferent
+PM,South West,Foraging,Tail flags,Indifferent
+PM,South East,Running,Runs from
+AM,North East,Chasing,Climbing
+PM,North East,Foraging,Indifferent
+AM,South East,Chasing
+PM,South East,Climbing,Indifferent
+AM,South West,Climbing,Indifferent
+AM,North East,Foraging,Indifferent
+AM,North East,Running,Indifferent
+PM,South West,Eating,Runs from
+PM,North West,Foraging
+AM,North East,Running,Tail flags,Tail twitches,Indifferent
+AM,North East,Running,Chasing,Runs from
+PM,North East,Foraging,Tail twitches
+PM,North East,Climbing
+AM,North West,Indifferent
+PM,North East,Climbing,Eating,Foraging
+AM,North East,Eating,Foraging,Tail twitches
+PM,North East,Running,Eating,Foraging,Indifferent
+AM,North West,Foraging,Indifferent
+PM,North East,Foraging,Indifferent
+PM,North East,Running,Runs from
+AM,South East,Foraging,Indifferent
+PM,South East,Eating,Foraging,Kuks,Runs from
+AM,North West,Foraging,Indifferent
+PM,North East,Climbing
+PM,North West
+PM,North East,Running,Eating,Tail twitches,Indifferent
+AM,North West,Foraging,Tail twitches,Runs from
+AM,North East,Eating,Approaches
+AM,North East,Eating,Foraging
+PM,North East,Running,Climbing
+PM,North East,Climbing,Kuks,Indifferent
+PM,North East,Climbing
+PM,North East,Running,Chasing
+PM,South West,Climbing
+PM,South East,Climbing,Runs from
+PM,South East,Foraging,Indifferent
+PM,South East,Foraging
+PM,South West,Running
+PM,South East,Climbing,Runs from
+AM,North West,Climbing,Indifferent
+PM,South East,Foraging
+AM,North West,Running,Indifferent
+PM,South West,Eating
+AM,South East,Climbing
+PM,South East,Foraging,Tail twitches,Runs from
+PM,South East,Running,Foraging,Indifferent
+AM,North West,Foraging,Approaches
+AM,South East,Foraging
+AM,North West,Chasing,Indifferent
+PM,North West,Indifferent
+PM,South East
+PM,North East,Running,Foraging,Runs from
+AM,North East,Eating,Foraging,Approaches
+AM,North East,Running,Tail twitches,Runs from
+AM,South East,Running,Eating,Foraging,Runs from
+AM,North East,Running,Climbing,Foraging,Indifferent
+PM,North West,Chasing,Climbing,Indifferent
+PM,South West,Climbing,Indifferent
+AM,North West,Chasing,Kuks
+PM,South East,Running,Eating,Tail twitches,Runs from
+AM,South West,Climbing
+PM,South West,Runs from
+PM,North West,Foraging,Tail twitches,Indifferent
+AM,South East,Running,Foraging,Indifferent
+AM,South West,Foraging,Indifferent
+AM,South East,Foraging,Tail twitches,Indifferent
+PM,North East,Foraging,Tail twitches,Approaches,Indifferent
+PM,South East,Climbing
+PM,North East,Running,Kuks,Runs from
+PM,South East,Climbing,Foraging,Tail twitches,Runs from
+PM,North West,Eating,Tail twitches,Indifferent
+PM,North West,Running,Climbing,Foraging
+PM,North East,Foraging,Indifferent
+AM,South East,Chasing
+AM,South East,Foraging,Indifferent
+AM,North East,Chasing,Foraging,Indifferent
+AM,North East,Foraging,Approaches
+AM,South East,Climbing,Runs from
+AM,North East,Running,Indifferent
+PM,North West,Foraging,Indifferent
+AM,North West,Foraging
+AM,North East,Running,Climbing,Runs from
+PM,South West,Climbing,Foraging,Indifferent
+AM,North East,Foraging,Runs from
+PM,North West,Tail flags,Tail twitches
+AM,North West,Eating,Foraging
+PM,North West,Eating,Foraging,Approaches
+AM,North East,Foraging,Indifferent
+PM,North East,Running,Climbing,Indifferent
+PM,North East,Eating
+PM,North East,Foraging,Approaches
+PM,South East,Eating,Foraging,Indifferent
+PM,South East,Kuks,Tail twitches
+PM,South East,Foraging,Indifferent
+PM,South East,Foraging
+PM,North East,Running,Eating,Foraging,Runs from
+AM,South East,Foraging,Runs from
+PM,South East,Running,Runs from
+AM,North East,Eating,Tail twitches,Indifferent
+PM,North West,Foraging,Indifferent
+PM,South East,Foraging,Tail twitches
+AM,South West,Running,Tail twitches,Runs from
+PM,South East,Climbing,Tail twitches,Runs from
+AM,North West,Foraging,Indifferent
+AM,North East,Foraging,Indifferent
+PM,North East,Eating,Foraging
+PM,South East,Foraging,Indifferent
+AM,North West,Indifferent
+AM,North East,Climbing
+PM,North East,Running,Foraging,Kuks,Tail twitches,Approaches
+PM,South West,Chasing,Quaas,Tail flags,Indifferent
+PM,South West,Chasing,Quaas,Tail flags,Indifferent
+PM,North East,Running,Indifferent
+PM,South West,Runs from
+PM,South East,Running
+PM,South East,Climbing
+AM,South West,Eating,Foraging,Runs from
+AM,North East,Running,Indifferent
+PM,North East,Foraging
+PM,South East,Climbing
+AM,North East,Eating,Foraging,Indifferent
+AM,South East,Running,Climbing,Eating,Kuks,Tail twitches,Runs from
+PM,North West,Eating
+AM,North West,Foraging,Indifferent
+AM,North West,Foraging,Tail twitches,Indifferent
+PM,South East,Foraging,Runs from
+AM,North East,Chasing,Indifferent
+AM,South East,Indifferent
+PM,North East,Chasing,Indifferent
+AM,North East,Chasing,Climbing,Eating,Runs from
+PM,North East,Chasing,Eating,Foraging,Tail twitches,Indifferent
+AM,North West,Climbing,Kuks,Indifferent
+AM,South East,Runs from
+AM,North East,Eating,Foraging,Indifferent
+AM,North East,Climbing,Indifferent
+PM,North West,Foraging,Indifferent
+AM,North East,Climbing,Indifferent
+PM,North East,Running,Tail flags,Indifferent
+PM,North West,Eating,Foraging
+PM,South East,Foraging,Indifferent
+AM,North West,Running,Eating
+PM,South East,Foraging,Indifferent
+AM,South East,Running,Climbing,Eating,Kuks,Tail twitches,Runs from
+PM,North East,Chasing
+AM,North East,Climbing,Tail twitches,Indifferent
+AM,South East,Chasing
+PM,North West,Chasing,Indifferent
+PM,North East,Eating,Foraging
+AM,North West,Running,Kuks
+PM,South West,Foraging,Tail flags,Tail twitches,Runs from
+PM,South West,Climbing,Eating,Indifferent
+AM,South West,Eating
+AM,North East,Foraging,Indifferent
+AM,South West,Climbing,Foraging,Indifferent
+PM,North West,Running,Climbing,Runs from
+PM,North West,Running,Indifferent
+PM,North West,Eating,Approaches
+AM,North West,Running,Climbing,Eating,Foraging,Runs from
+PM,North East,Eating,Tail twitches,Indifferent
+AM,South East
+AM,South East,Foraging
+AM,South East,Climbing,Indifferent
+PM,North East,Eating,Runs from
+PM,South West,Foraging,Indifferent
+AM,North East,Eating,Kuks,Indifferent
+PM,North West,Foraging,Indifferent
+AM,North East,Eating,Indifferent
+AM,North East,Running,Runs from
+PM,South West,Running
+PM,South East,Running,Climbing,Eating,Approaches,Indifferent,Runs from
+PM,North East,Foraging,Runs from
+AM,North East,Climbing,Eating,Indifferent
+AM,North East,Foraging,Indifferent
+AM,North East,Running
+PM,South East,Running,Foraging,Indifferent
+AM,South East,Climbing,Eating,Kuks,Runs from
+PM,South West,Foraging
+AM,North West,Running,Chasing
+AM,South East,Foraging
+AM,South East,Running,Quaas,Tail twitches,Indifferent
+PM,North East,Foraging,Indifferent
+AM,North West,Running,Foraging,Indifferent
+PM,North East,Running,Eating,Foraging,Indifferent
+PM,South West,Running,Indifferent
+PM,North East,Foraging,Indifferent
+PM,South East,Running,Runs from
+PM,South West,Running,Eating,Foraging,Tail twitches,Runs from
+PM,South East,Foraging,Indifferent
+PM,South West,Running,Climbing
+PM,North East,Running,Eating,Runs from
+PM,North West,Climbing,Runs from
+AM,South East,Climbing
+PM,South East,Eating,Foraging,Indifferent
+AM,North West,Running,Indifferent
+AM,North West,Running,Indifferent
+AM,South East,Foraging,Indifferent
+PM,North West,Eating,Foraging,Runs from
+PM,North East,Foraging,Approaches
+PM,North East,Climbing,Runs from
+AM,South East,Foraging,Indifferent
+PM,North West,Chasing,Indifferent
+PM,South East,Climbing,Eating,Foraging
+PM,South West,Running,Tail flags,Indifferent
+AM,South East,Eating,Foraging,Indifferent
+AM,North East,Running,Climbing,Tail twitches,Runs from
+PM,North East,Foraging,Approaches
+PM,North West,Running,Climbing,Foraging
+AM,North West,Chasing,Kuks
+AM,North West,Foraging,Tail twitches,Indifferent
+PM,South West,Running,Chasing,Runs from
+PM,North East,Foraging
+AM,North East,Eating,Indifferent
+AM,South East,Foraging
+AM,South West,Eating,Foraging
+AM,North West,Eating
+PM,South East,Running
+PM,North West,Foraging,Indifferent
+AM,North East,Foraging,Tail twitches,Indifferent
+AM,North West,Eating,Runs from
+AM,North East,Climbing,Tail twitches
+AM,North East,Eating,Foraging,Kuks,Runs from
+PM,North East,Climbing,Indifferent
+PM,North East,Eating,Indifferent
+PM,North East
+AM,North West,Climbing,Runs from
+PM,North West,Kuks
+AM,South East,Chasing,Tail flags,Indifferent
+PM,North West,Running,Approaches
+AM,North West,Running,Tail twitches,Indifferent
+AM,North West,Climbing
+PM,South West,Eating,Foraging,Kuks,Tail flags,Indifferent
+PM,South West,Running
+AM,North East,Running,Climbing,Indifferent
+AM,South West,Climbing
+PM,North East,Eating,Foraging,Tail twitches,Indifferent
+PM,North West,Foraging,Runs from
+AM,North East,Foraging,Approaches
+PM,South West,Climbing
+PM,South East,Foraging,Tail flags,Runs from
+PM,North East,Running,Tail twitches,Runs from
+PM,North East,Chasing,Foraging
+PM,South East,Foraging
+PM,North West,Chasing,Indifferent
+AM,North West,Running,Foraging,Tail flags,Indifferent
+PM,North East,Running,Climbing,Indifferent
+PM,North West,Chasing,Tail flags,Indifferent
+PM,North East,Running,Foraging
+PM,South West,Eating,Approaches
+AM,North East,Climbing,Runs from
+PM,North West,Chasing,Climbing,Indifferent
+PM,North East,Eating,Indifferent
+AM,North West,Foraging
+PM,North East,Running,Chasing
+AM,South East,Foraging,Runs from
+PM,North East,Foraging,Indifferent
+PM,South East,Foraging,Indifferent
+PM,North West,Foraging,Indifferent
+PM,North West,Eating,Tail twitches,Indifferent
+AM,North East,Eating,Indifferent
+PM,South East,Foraging
+AM,North East,Chasing,Runs from
+AM,North East,Running,Climbing,Foraging,Tail twitches
+PM,North East,Eating,Foraging,Indifferent
+PM,North West,Eating,Foraging,Indifferent
+AM,North East,Tail twitches,Runs from
+AM,North East,Running
+AM,North West,Foraging,Indifferent
+AM,North West,Foraging,Approaches
+PM,South East,Foraging,Indifferent
+AM,North East,Running
+AM,North West,Chasing,Kuks
+PM,North East,Climbing,Foraging,Indifferent
+AM,North East,Running,Foraging,Indifferent
+AM,North East,Climbing,Eating,Foraging,Indifferent
+PM,North East,Running,Foraging
+PM,North West,Running,Climbing,Foraging
+AM,North West,Climbing,Indifferent
+PM,South East,Running,Indifferent
+PM,North West,Eating,Foraging,Runs from
+PM,South West,Climbing
+PM,South East,Eating,Kuks,Indifferent
+AM,North West,Running,Indifferent
+AM,South East,Running,Chasing,Climbing,Indifferent
+AM,North East,Foraging,Tail twitches,Indifferent
+AM,North East,Running,Foraging,Indifferent
+PM,North East,Foraging,Indifferent
+PM,North East,Climbing,Quaas,Runs from
+PM,North East,Eating,Indifferent
+AM,North East,Foraging,Indifferent
+PM,South East,Chasing,Runs from
+PM,North East,Eating,Tail twitches,Indifferent
+PM,North East,Running,Climbing
+AM,North West,Running,Chasing,Kuks,Indifferent
+PM,South East,Climbing
+PM,South East,Running,Indifferent
+AM,South East,Climbing,Foraging,Approaches,Indifferent
+PM,South West,Climbing,Runs from
+AM,North West,Foraging,Tail twitches
+PM,North East,Running,Climbing,Runs from
+AM,North East,Climbing,Foraging,Indifferent
+PM,South East,Climbing,Kuks
+AM,North East,Eating,Foraging,Approaches
+AM,North West,Climbing,Indifferent
+PM,North East,Running,Climbing
+AM,North West,Running,Tail twitches,Indifferent
+AM,North West,Running,Indifferent
+AM,South East,Eating,Foraging,Indifferent
+PM,North East,Running,Indifferent
+PM,South East,Running,Foraging
+PM,South West,Climbing,Runs from
+PM,North West,Climbing,Eating,Foraging,Indifferent
+AM,South East,Climbing,Indifferent
+AM,North East,Chasing,Indifferent
+AM,North East,Running,Foraging,Indifferent
+AM,South East,Running,Chasing,Climbing,Indifferent
+AM,North East,Eating,Foraging,Tail twitches
+AM,South East,Foraging,Indifferent
+PM,North West,Foraging,Tail flags,Indifferent
+PM,North West,Foraging,Indifferent
+AM,South West,Eating,Runs from
+AM,North East,Eating,Runs from
+AM,North East,Eating
+PM,North West,Climbing,Kuks,Runs from
+PM,South East,Foraging,Runs from
+PM,South West,Climbing,Eating,Foraging,Tail twitches,Indifferent
+AM,North West,Running,Indifferent
+PM,North East,Chasing,Quaas
+AM,North East,Climbing,Indifferent
+AM,South East,Eating,Runs from
+AM,North East,Foraging
+AM,North West,Foraging,Indifferent
+PM,South East,Running,Runs from
+PM,North West,Eating,Foraging,Indifferent
+AM,North East,Foraging,Indifferent
+PM,North East,Chasing,Tail twitches,Indifferent
+PM,North East,Climbing
+PM,North East,Foraging
+AM,South West,Running,Runs from
+PM,North East,Chasing,Climbing
+PM,South East,Climbing,Runs from
+PM,South East,Running
+PM,North East,Eating,Foraging,Indifferent
+PM,North East,Running,Foraging
+PM,North East,Foraging,Tail twitches,Runs from
+AM,North East,Climbing
+PM,North East,Foraging
+PM,South East,Running,Chasing,Runs from
+PM,North East,Foraging,Tail twitches,Runs from
+AM,North East,Foraging,Runs from
+AM,North West,Climbing,Foraging,Indifferent
+PM,North East,Foraging,Tail flags,Tail twitches,Indifferent
+AM,North East,Running,Foraging,Approaches
+AM,South East,Runs from
+AM,North East,Tail twitches,Indifferent
+AM,North East,Eating,Indifferent
+PM,South East,Climbing,Indifferent,Runs from
+PM,South West,Chasing,Indifferent
+PM,North West,Climbing,Eating,Indifferent
+PM,North West,Tail twitches,Indifferent
+PM,North West,Eating,Foraging
+PM,North West,Foraging,Indifferent
+AM,South West,Foraging,Indifferent
+PM,South East,Eating,Foraging,Approaches
+PM,North East,Chasing
+PM,South East,Eating,Foraging,Runs from
+AM,North East,Climbing
+PM,South East,Foraging,Indifferent
+PM,South East,Eating,Foraging,Indifferent
+PM,South West,Foraging,Runs from
+PM,South West,Running,Runs from
+PM,South West,Eating,Foraging,Tail twitches,Indifferent
+PM,North West,Running,Indifferent
+AM,South East,Running,Eating
+PM,North East,Running,Foraging
+PM,South East,Foraging,Tail twitches,Indifferent
+PM,North East,Eating,Indifferent
+PM,South East,Running,Indifferent
+PM,South East,Running,Eating,Foraging,Indifferent
+PM,North East,Eating,Indifferent
+AM,North East,Climbing
+AM,South West,Foraging
+PM,North West,Foraging,Indifferent
+AM,South East,Running,Eating,Indifferent
+AM,North East,Climbing,Eating,Foraging,Indifferent
+PM,South East,Climbing,Foraging,Indifferent
+PM,South East,Chasing,Climbing,Runs from
+PM,North East,Foraging,Runs from
+PM,South East,Chasing,Foraging,Runs from
+AM,North East,Climbing,Eating,Indifferent
+PM,North East,Foraging,Indifferent
+PM,South East,Eating,Foraging,Tail twitches,Indifferent
+PM,North West,Foraging,Tail twitches,Approaches
+AM,North East,Chasing,Eating,Indifferent
+PM,North West,Running,Foraging
+AM,South East,Eating,Runs from
+AM,South East,Eating,Indifferent
+AM,North East,Eating,Foraging,Tail twitches,Indifferent
+AM,South West,Foraging,Indifferent
+PM,North East,Foraging,Indifferent
+AM,North East,Foraging,Tail twitches,Indifferent
+AM,North East,Climbing,Foraging,Tail twitches,Runs from
+AM,North West,Running,Climbing,Indifferent
+AM,North East,Running,Foraging,Indifferent
+PM,North West,Foraging,Indifferent
+AM,South East,Running,Foraging,Indifferent
+PM,North West,Eating,Foraging
+AM,South West,Approaches,Runs from
+AM,North East,Foraging,Tail flags,Indifferent
+AM,North East,Climbing,Indifferent
+AM,North East,Foraging,Indifferent
+AM,North West,Foraging
+PM,North West,Climbing,Indifferent
+PM,North East,Foraging
+AM,North East,Climbing,Foraging,Indifferent
+PM,North East,Foraging,Tail twitches,Indifferent
+PM,South East,Running
+PM,North East,Climbing,Eating,Runs from
+PM,North East,Running,Climbing,Runs from
+AM,South West,Eating,Runs from
+PM,South East,Indifferent
+AM,North East,Running,Indifferent
+AM,North West,Indifferent
+AM,South East,Running,Indifferent
+PM,North East,Eating,Indifferent
+PM,South West,Eating,Foraging,Tail twitches,Indifferent
+AM,North West,Climbing,Indifferent
+PM,South East,Foraging,Runs from
+AM,North West,Climbing,Indifferent
+AM,South East,Running,Foraging,Indifferent
+PM,South East,Running,Indifferent
+AM,South West,Foraging
+AM,South East,Running,Indifferent
+PM,North East,Foraging
+PM,North West,Running,Chasing,Climbing,Tail twitches,Runs from
+AM,North West,Running,Foraging,Approaches
+PM,South East,Foraging,Indifferent
+AM,South East,Running,Runs from
+AM,South East,Foraging,Runs from
+AM,South East,Chasing
+PM,South East,Foraging,Indifferent
+AM,North East,Climbing,Indifferent
+AM,North East,Running,Runs from
+AM,North West,Running,Eating,Indifferent
+PM,North East,Kuks,Quaas
+AM,North West,Foraging,Tail twitches,Indifferent
+AM,North West,Indifferent
+PM,North West,Eating,Indifferent
+PM,South East,Eating,Kuks
+PM,South West,Climbing,Eating,Foraging,Runs from
+AM,North East,Eating,Foraging,Indifferent
+AM,North West,Foraging,Indifferent
+PM,South East,Running,Eating,Runs from
+PM,South East,Running,Foraging,Indifferent
+PM,South West,Foraging
+AM,North West,Climbing,Indifferent
+AM,North East,Foraging,Indifferent
+AM,North East,Foraging,Indifferent
+PM,North East,Climbing,Eating,Tail twitches,Indifferent
+AM,North West,Climbing,Runs from
+PM,South East,Eating,Foraging,Quaas
+AM,North East,Chasing,Climbing
+AM,North East,Foraging,Indifferent
+AM,North East,Running
+AM,North East,Foraging,Tail twitches,Indifferent
+AM,North East,Running,Runs from
+PM,North West,Running,Eating,Foraging,Tail flags,Tail twitches
+AM,North East,Climbing,Indifferent
+PM,North West,Chasing,Tail twitches
+PM,South West,Foraging,Runs from
+AM,North East,Foraging,Indifferent
+AM,South East,Foraging,Tail twitches,Indifferent
+PM,North East,Eating,Foraging,Indifferent
+AM,South East,Climbing,Runs from
+AM,North East,Climbing,Tail twitches,Indifferent
+PM,North West,Foraging,Indifferent
+PM,South East
+PM,South East,Foraging,Indifferent
+PM,South East,Climbing,Kuks,Quaas,Runs from
+AM,North East,Foraging,Runs from
+AM,South East,Foraging,Indifferent
+AM,North East,Foraging,Indifferent
+PM,South East,Eating,Foraging,Runs from
+AM,North West,Foraging,Indifferent
+AM,North West,Eating,Runs from
+PM,South East,Chasing,Tail flags,Indifferent
+PM,North West,Chasing,Indifferent
+AM,South East,Foraging,Tail flags,Indifferent
+AM,North West,Foraging,Tail twitches,Indifferent
+PM,South West,Climbing,Tail twitches,Indifferent
+AM,North East,Chasing,Indifferent
+PM,South East,Running,Climbing
+PM,South East,Tail twitches,Runs from
+PM,South East,Climbing,Tail twitches,Runs from
+PM,North West,Eating
+PM,North East,Eating,Foraging,Indifferent
+AM,North East,Climbing,Foraging
+AM,North West,Eating,Indifferent
+AM,South West,Foraging,Runs from
+AM,North East,Foraging,Indifferent
+AM,South East,Chasing
+PM,North East,Eating,Tail flags,Indifferent
+PM,North West,Climbing
+PM,North West,Foraging,Indifferent
+PM,North West,Running,Tail twitches,Runs from
+AM,South East,Eating,Indifferent
+AM,North East,Climbing,Eating,Indifferent
+AM,South East,Running
+PM,North East,Chasing,Indifferent
+PM,South East,Foraging,Tail twitches,Indifferent
+AM,North East,Foraging,Indifferent
+PM,North East,Running,Climbing,Runs from
+PM,South West,Climbing,Foraging,Indifferent
+PM,North East
+AM,North West,Eating,Foraging,Indifferent
+PM,South East,Climbing
+PM,North East,Eating,Indifferent
+AM,North West,Foraging
+PM,North West,Foraging
+PM,North East,Indifferent
+AM,North East
+AM,North East,Climbing,Approaches,Runs from
+PM,North East,Eating,Indifferent
+PM,South East,Foraging,Runs from
+PM,South East,Running,Eating,Foraging,Tail twitches,Runs from
+AM,North East,Running,Tail twitches
+PM,North East,Eating,Foraging,Approaches
+PM,North East,Foraging,Indifferent
+AM,South West,Foraging,Indifferent
+PM,South East,Chasing,Tail twitches
+PM,South East,Foraging,Indifferent
+PM,North West,Climbing,Indifferent
+PM,South West,Foraging
+PM,North East,Chasing,Indifferent
+AM,South West,Running,Indifferent
+PM,North East,Eating,Foraging,Indifferent
+AM,North East,Running,Runs from
+AM,South East,Foraging,Indifferent
+PM,North West,Eating,Indifferent
+PM,South West,Running,Climbing
+AM,South East
+PM,North West,Running,Tail twitches,Runs from
+AM,South East,Eating,Foraging,Tail twitches,Indifferent
+AM,South East,Climbing,Kuks,Indifferent
+PM,North West,Running
+PM,North East,Climbing
+PM,North East,Running,Runs from
+PM,North West,Running,Tail twitches,Indifferent
+AM,South West,Running,Indifferent
+PM,North East,Foraging,Tail twitches,Runs from
+PM,North West,Climbing,Indifferent
+PM,North West,Eating,Indifferent
+AM,North East,Climbing,Indifferent
+PM,South West,Running,Runs from
+AM,North West,Foraging,Indifferent
+PM,North East,Eating,Foraging,Indifferent
+PM,North East,Foraging,Indifferent
+PM,North West,Climbing,Foraging,Indifferent
+AM,North East,Running,Indifferent
+PM,North West,Eating,Foraging,Indifferent
+AM,North East,Foraging,Indifferent
+PM,South East,Running,Runs from
+PM,North West,Running,Chasing,Foraging,Tail flags,Indifferent
+AM,South West,Running,Eating,Foraging,Tail twitches,Runs from
+AM,North East,Chasing,Indifferent
+PM,North East,Running,Foraging
+PM,South West,Foraging,Tail twitches,Runs from
+PM,North East,Running
+AM,South East,Foraging,Indifferent
+PM,South East,Climbing,Foraging
+AM,South East,Foraging,Approaches
+PM,South West,Foraging,Runs from
+AM,North West,Climbing,Indifferent
+PM,South East,Foraging
+AM,North East,Foraging,Indifferent
+AM,South West,Climbing,Indifferent
+PM,South East,Running,Climbing,Runs from
+PM,South West
+AM,North West,Foraging
+PM,North West,Eating,Indifferent
+PM,North East,Indifferent
+PM,South East,Climbing,Indifferent
+PM,North East,Eating,Foraging,Indifferent
+AM,North West,Climbing,Indifferent
+AM,North West,Eating,Foraging,Quaas,Indifferent
+AM,South East,Foraging,Indifferent
+AM,North East,Climbing,Indifferent
+AM,North East,Foraging,Indifferent
+PM,South East,Foraging,Indifferent
+AM,North East,Climbing,Eating,Indifferent
+AM,North East,Eating,Foraging,Tail flags,Approaches
+PM,South West,Running
+PM,North East,Eating,Foraging,Indifferent
+PM,North West,Tail twitches,Indifferent
+AM,South East,Climbing,Runs from
+PM,South East,Eating,Foraging,Tail twitches,Runs from
+PM,South West,Climbing
+PM,North West,Running,Runs from
+PM,North West,Foraging,Runs from
+PM,North East,Running,Indifferent
+AM,South East,Chasing,Kuks,Indifferent
+PM,North East,Running,Tail flags
+AM,North East,Foraging
+PM,North West,Foraging
+PM,North West,Running,Chasing
+PM,North West,Running,Climbing,Foraging
+PM,North West,Eating,Indifferent
+AM,South East,Foraging,Indifferent
+PM,North West,Eating
+PM,North West,Eating,Foraging,Tail flags,Runs from
+AM,North West,Running,Runs from
+AM,North West,Running,Indifferent
+PM,South East
+PM,South East,Chasing,Eating,Foraging,Kuks,Quaas,Tail twitches,Indifferent
+AM,South West,Climbing,Indifferent
+PM,South East,Foraging,Tail twitches,Indifferent
+PM,North East,Climbing
+PM,North East,Running,Eating,Foraging,Tail twitches,Indifferent
+PM,North East,Climbing,Quaas,Indifferent
+AM,South East,Eating,Foraging,Tail twitches,Runs from
+AM,South East,Foraging,Indifferent
+PM,South East,Foraging
+AM,North West,Eating,Foraging,Tail flags,Indifferent
+AM,North East,Climbing,Eating,Foraging
+PM,North East,Running,Climbing,Indifferent
+PM,South West,Running,Indifferent
+AM,South East,Foraging,Indifferent,Runs from
+PM,South East,Climbing
+AM,South East,Running,Chasing,Climbing,Tail twitches,Indifferent
+AM,South East,Running,Chasing,Indifferent
+AM,North East,Running,Eating,Indifferent
+PM,North West,Running,Foraging
+PM,South West,Climbing
+PM,South East,Chasing,Tail flags,Indifferent
+PM,North East,Running,Foraging
+PM,North East,Chasing
+AM,South East,Climbing,Indifferent
+PM,South West,Climbing,Runs from
+PM,South West,Running,Foraging,Runs from
+AM,South West,Running,Climbing
+AM,South East,Climbing
+AM,South East,Foraging,Runs from
+AM,North East,Foraging,Indifferent
+PM,North West,Eating
+PM,South East,Foraging,Indifferent
+PM,North West,Foraging,Indifferent
+PM,North East,Foraging
+PM,South West,Climbing,Foraging
+PM,South East,Climbing,Tail twitches,Indifferent
+AM,North East,Climbing,Indifferent
+PM,North East,Running,Chasing,Runs from
+PM,South West,Foraging,Approaches
+PM,North East,Foraging,Indifferent
+PM,South East,Foraging,Indifferent
+AM,North East,Foraging,Indifferent
+PM,North West,Eating,Foraging,Indifferent
+PM,North West,Foraging
+PM,South West,Foraging,Indifferent
+PM,South East,Running,Chasing
+PM,South East,Running,Indifferent
+PM,South West,Foraging,Indifferent
+AM,North East,Climbing,Foraging,Tail twitches
+AM,North East,Running,Tail flags,Runs from
+AM,North East,Foraging,Indifferent
+PM,North West,Eating,Foraging,Tail twitches,Runs from
+AM,North West,Running,Indifferent
+PM,North East
+PM,South East,Foraging,Indifferent
+PM,North West,Indifferent
+PM,North West,Eating
+PM,South West,Eating,Foraging,Indifferent
+PM,North West,Foraging
+AM,South East,Eating,Foraging,Indifferent
+AM,South West,Runs from
+PM,North East,Indifferent
+PM,North East,Running
+PM,North East,Climbing,Indifferent
+PM,North East,Foraging,Runs from
+AM,South East,Climbing,Kuks,Indifferent
+AM,South West,Foraging
+AM,North West,Running,Foraging,Indifferent
+AM,North East,Chasing,Indifferent
+AM,South East,Foraging,Runs from
+PM,South East,Eating,Indifferent
+PM,South West,Eating,Indifferent
+AM,North East,Climbing,Indifferent
+AM,North East,Foraging,Indifferent
+AM,North East,Eating,Foraging,Tail twitches
+PM,North West,Approaches
+PM,South East,Climbing,Foraging,Kuks,Indifferent
+PM,North West,Running,Runs from
+PM,North West,Running,Chasing,Climbing,Indifferent
+PM,South East,Foraging,Runs from
+AM,South East,Eating,Foraging
+PM,South East,Climbing
+AM,North East,Climbing
+PM,South East,Foraging,Indifferent
+PM,North East,Foraging,Indifferent
+PM,South East,Climbing,Foraging,Runs from
+PM,South West,Running,Foraging
+PM,North East,Foraging
+PM,North West,Eating,Indifferent
+AM,South West
+PM,North East,Chasing,Indifferent
+PM,South West,Tail twitches,Runs from
+PM,South West,Running,Approaches
+PM,South East,Foraging,Tail twitches
+PM,South East,Foraging
+PM,South West,Climbing,Eating,Foraging,Runs from
+AM,North West,Running,Tail twitches,Indifferent
+PM,North West,Foraging,Indifferent
+PM,South East,Eating,Indifferent
+AM,North East,Running,Runs from
+AM,North East,Climbing,Indifferent
+AM,North East,Foraging,Indifferent
+PM,North East,Foraging,Runs from
+AM,North West,Climbing,Tail twitches
+PM,North West,Runs from
+PM,South West,Foraging
+AM,South East,Eating,Foraging,Runs from
+PM,South East,Running,Runs from
+AM,North East,Climbing
+AM,South East,Chasing,Indifferent
+AM,North East,Foraging,Indifferent,Runs from
+AM,North East,Chasing,Eating,Foraging,Indifferent
+PM,North East,Running
+AM,North East,Foraging,Indifferent
+PM,North East,Eating,Foraging,Tail twitches,Indifferent
+PM,South East,Eating,Runs from
+PM,South East,Running,Indifferent
+PM,North West,Running,Indifferent
+PM,North West,Foraging,Indifferent
+AM,North East,Eating,Foraging,Indifferent
+AM,South East,Foraging,Approaches,Indifferent,Runs from
+PM,South West,Running,Chasing,Climbing,Eating,Foraging,Indifferent
+AM,North West,Foraging,Indifferent
+PM,North East,Eating,Foraging,Indifferent
+AM,North East,Climbing,Eating,Foraging,Indifferent
+AM,South East,Climbing,Approaches
+PM,North East,Eating,Foraging,Tail twitches
+PM,North East,Eating,Foraging,Indifferent
+AM,South East,Foraging,Indifferent
+AM,South East,Eating,Foraging
+PM,North West,Eating,Indifferent
+PM,North East,Foraging,Indifferent
+AM,North East,Climbing
+PM,North East,Foraging,Approaches
+PM,North West,Climbing,Foraging,Runs from
+PM,North East,Foraging,Tail twitches
+PM,South East,Eating,Tail flags,Indifferent
+AM,North West,Running,Indifferent
+PM,North West,Tail twitches,Runs from
+PM,North East,Eating,Foraging,Indifferent
+AM,South East,Indifferent
+PM,South East,Running,Runs from
+AM,North East,Climbing,Indifferent
+PM,North West,Climbing,Foraging
+AM,South West,Foraging,Indifferent
+PM,North West,Running,Eating,Foraging,Tail twitches
+PM,North East,Running,Chasing,Foraging
+AM,North West,Foraging,Approaches
+AM,North East,Eating,Tail twitches,Indifferent
+PM,North East,Climbing,Eating
+PM,South East,Running,Foraging,Indifferent
+PM,North West,Running,Climbing,Foraging,Tail twitches,Indifferent
+AM,South East,Foraging,Runs from
+PM,North West,Running,Indifferent
+AM,North East,Foraging,Approaches
+PM,South West,Running,Runs from
+AM,South West,Running,Runs from
+AM,North East,Eating,Indifferent
+AM,South East,Foraging,Runs from
+AM,North East,Eating,Foraging
+PM,North East,Running,Approaches
+AM,South East,Running,Indifferent
+PM,South West,Running
+PM,North West,Climbing,Eating,Foraging,Runs from
+PM,South West,Running,Foraging,Kuks,Tail flags,Tail twitches,Runs from
+AM,North East,Running,Foraging,Indifferent
+PM,South East,Foraging,Indifferent
+AM,South East,Climbing,Foraging,Runs from
+PM,South East,Climbing,Indifferent
+AM,North West,Running,Indifferent
+AM,South East,Chasing,Runs from
+PM,North West,Eating,Foraging,Runs from
+PM,North East,Foraging,Tail flags,Indifferent
+AM,South East,Foraging,Indifferent
+PM,North West,Climbing,Eating,Foraging,Approaches,Indifferent
+PM,North East,Eating
+PM,North East,Eating,Indifferent
+PM,South East,Running,Runs from
+AM,South East,Climbing,Eating,Kuks,Indifferent
+AM,South East,Foraging,Approaches
+PM,South East,Running
+PM,North East,Climbing
+AM,North West,Eating,Tail twitches,Runs from
+AM,North East,Chasing,Indifferent
+PM,North East,Foraging,Tail twitches,Indifferent
+AM,South East,Eating,Foraging,Tail twitches,Indifferent
+PM,North East,Eating,Tail flags,Indifferent
+PM,South West,Running,Indifferent
+AM,North East,Foraging
+PM,South East,Eating,Indifferent
+AM,North East,Running,Runs from
+PM,North West,Running,Chasing,Climbing,Foraging,Tail flags,Indifferent
+AM,North East,Foraging,Indifferent
+PM,North East,Foraging
+PM,North East,Running,Chasing,Tail twitches,Indifferent
+PM,South East,Running,Chasing
+PM,North West,Eating,Runs from
+AM,North East,Climbing,Foraging,Tail twitches
+PM,North West,Running,Tail flags,Runs from
+AM,North West,Eating,Tail twitches,Indifferent
+AM,South East,Foraging,Indifferent
+AM,North East,Eating,Foraging,Tail twitches,Indifferent
+PM,North West,Climbing,Eating,Foraging,Indifferent
+AM,North East,Climbing
+AM,North West,Running,Climbing,Indifferent
+PM,South East,Climbing,Indifferent
+AM,North East,Indifferent
+AM,North West,Climbing
+PM,South East,Eating,Tail twitches,Runs from
+AM,North East,Foraging,Indifferent
+PM,South West,Eating
+PM,South East,Climbing,Indifferent
+AM,North East,Eating,Approaches
+PM,North East,Running
+AM,South East,Chasing
+PM,North East
+AM,South East,Foraging,Indifferent
+AM,North East,Foraging,Runs from
+PM,North East,Running,Foraging,Runs from
+AM,South East,Running,Climbing,Foraging,Kuks,Tail twitches,Runs from
+PM,South East,Climbing
+AM,North East,Running,Indifferent
+AM,South East,Running,Chasing,Tail twitches,Indifferent
+AM,North East,Chasing,Climbing,Indifferent
+PM,North East,Chasing
+PM,South East,Foraging
+PM,South East,Climbing,Kuks
+PM,North East,Eating,Foraging,Approaches
+PM,North West,Eating,Approaches
+AM,North West,Running,Indifferent
+PM,South West,Foraging
+AM,South West,Climbing,Tail twitches,Indifferent
+AM,North East,Running,Climbing,Foraging,Indifferent
+PM,North East,Foraging,Indifferent
+AM,South West,Climbing
+AM,South East,Running,Eating,Runs from
+AM,North East,Indifferent
+PM,North East,Eating,Foraging,Indifferent
+AM,North West,Indifferent
+AM,North East,Eating,Foraging,Indifferent
+AM,North East,Running,Tail twitches,Runs from
+PM,South East,Running,Runs from
+AM,North East,Foraging,Tail twitches
+AM,South East,Running,Foraging,Tail twitches,Approaches
+AM,South East,Running,Foraging,Runs from
+PM,South East,Eating,Foraging,Indifferent
+PM,South East,Running,Runs from
+PM,North East,Indifferent
+PM,South East,Foraging,Indifferent
+AM,South East,Foraging
+AM,South East,Foraging,Indifferent
+PM,North West,Foraging,Runs from
+PM,South East,Climbing,Eating,Foraging,Runs from
+AM,North West,Running,Foraging,Indifferent
+PM,South East,Eating,Foraging,Indifferent
+PM,South East,Climbing
+PM,South West,Running,Eating,Tail flags,Indifferent
+AM,South East,Kuks,Quaas,Tail flags,Indifferent
+PM,North West,Foraging,Indifferent
+AM,North East,Climbing,Tail flags,Indifferent
+PM,North East,Chasing,Indifferent
+PM,South East,Eating,Indifferent
+PM,North East,Running,Climbing
+PM,North East,Foraging,Tail twitches,Indifferent
+AM,South East,Chasing,Indifferent
+PM,North East,Eating,Indifferent
+PM,South West,Foraging,Indifferent
+PM,North East,Running,Runs from
+AM,North East,Climbing
+AM,North East,Foraging,Indifferent
+PM,North West,Foraging
+PM,North East,Foraging,Tail twitches,Approaches
+AM,North West,Running,Chasing
+PM,North West,Eating,Foraging,Tail twitches,Indifferent
+PM,North East,Foraging
+PM,South East,Running,Foraging
+AM,North West,Running,Runs from
+AM,North East,Running,Eating
+AM,South East,Running,Tail twitches,Indifferent
+PM,North West,Foraging,Tail twitches,Indifferent
+AM,North East,Eating,Indifferent
+PM,North East,Climbing,Eating,Indifferent
+PM,North East,Running,Eating,Tail twitches,Indifferent
+PM,North West,Foraging,Tail twitches
+PM,South East,Chasing,Foraging,Tail twitches,Runs from
+AM,North West,Foraging,Indifferent
+AM,North East,Foraging,Approaches
+PM,North East,Foraging,Approaches
+AM,North East
+PM,North East,Climbing,Tail flags,Runs from
+PM,South West,Foraging,Indifferent
+PM,North West,Eating,Runs from
+AM,North East,Climbing,Eating,Runs from
+AM,North West,Chasing,Indifferent
+PM,South East
+AM,South West,Tail twitches,Runs from
+AM,North East,Eating,Foraging,Tail twitches
+PM,South East,Eating,Foraging,Runs from
+PM,South East,Running
+PM,North West,Runs from
+PM,South West,Eating,Tail flags,Approaches,Indifferent
+PM,North East
+AM,South East,Runs from
+PM,North East,Climbing,Eating,Foraging,Runs from
+PM,South East,Foraging,Tail twitches,Indifferent
+AM,South East,Climbing,Foraging,Runs from
+AM,North East,Running,Indifferent
+AM,South East,Climbing,Indifferent
+PM,South East,Running,Runs from
+PM,North East,Foraging,Tail twitches,Approaches
+AM,North East,Foraging,Indifferent
+AM,South West,Foraging,Indifferent
+AM,North East,Climbing,Indifferent
+PM,North West,Chasing,Climbing,Indifferent
+AM,North West,Foraging,Tail flags,Tail twitches,Indifferent
+PM,South East,Foraging,Indifferent
+AM,North West,Running,Chasing,Runs from
+PM,North West,Climbing,Eating,Foraging,Runs from
+PM,North East,Climbing,Indifferent
+AM,North East,Chasing,Eating,Indifferent
+AM,South West,Eating,Tail twitches
+AM,North East,Running,Runs from
+PM,North West,Climbing
+PM,South East,Running,Foraging,Runs from
+AM,South West,Runs from
+PM,South West,Foraging,Indifferent
+PM,South East,Eating,Foraging
+AM,North West,Climbing
+PM,North East,Foraging,Tail twitches,Indifferent
+AM,North East,Eating,Indifferent
+PM,North West,Climbing,Eating,Approaches
+AM,South East,Foraging,Runs from
+PM,North West,Eating,Tail twitches,Indifferent
+PM,North West,Eating,Approaches,Indifferent
+PM,North West,Running,Foraging,Runs from
+AM,North East,Running,Indifferent
+AM,South West,Indifferent
+AM,North East,Eating,Tail twitches,Runs from
+PM,South East,Tail twitches,Runs from
+PM,North West,Running
+PM,North West,Foraging
+PM,North East,Running,Chasing,Climbing
+PM,North West,Climbing,Tail twitches,Indifferent
+AM,North West,Climbing,Tail flags,Runs from
+PM,South East,Eating,Foraging
+PM,South West,Approaches
+PM,North East,Foraging
+PM,North East,Indifferent
+AM,North East,Foraging
+PM,South East,Foraging,Runs from
+AM,North West,Climbing,Tail twitches,Runs from
+AM,South East,Running,Indifferent
+PM,South East,Climbing,Indifferent
+AM,North East,Foraging,Indifferent
+PM,North West,Running,Indifferent
+PM,North East,Running,Indifferent
+AM,North East,Foraging
+PM,North East,Foraging,Indifferent
+PM,South East,Running,Runs from
+PM,North East,Foraging
+AM,North West,Foraging,Indifferent
+PM,South West,Foraging,Tail twitches,Runs from
+AM,South East,Climbing
+PM,North West,Indifferent
+PM,North East,Running,Runs from
+PM,North East,Running,Climbing,Eating,Foraging,Runs from
+AM,North West,Running,Eating,Foraging,Indifferent,Runs from
+AM,North East,Foraging,Tail flags,Indifferent
+AM,North East,Running,Runs from
+PM,North East,Eating,Foraging,Approaches
+AM,North West,Foraging,Tail flags,Indifferent
+PM,South West,Eating,Foraging,Tail twitches,Indifferent
+PM,South East,Eating,Foraging
+PM,North West,Foraging,Runs from
+PM,South West,Foraging
+AM,North East,Climbing,Runs from
+PM,South West,Running,Climbing,Indifferent
+PM,South East,Foraging
+PM,North East,Foraging
+PM,South East,Foraging,Runs from
+AM,North West,Climbing,Eating,Tail flags,Indifferent
+PM,South East,Climbing
+PM,North West,Running,Eating,Indifferent
+PM,South East,Climbing
+PM,North East,Running,Climbing,Tail flags
+PM,South East,Foraging
+AM,South West,Eating,Foraging,Runs from
+AM,South East,Foraging,Indifferent
+PM,South East,Climbing,Foraging,Indifferent
+AM,North East,Climbing
+AM,North West,Climbing,Indifferent
+AM,South East,Eating
+PM,South West,Running
+PM,North East,Foraging
+PM,North West,Foraging,Indifferent
+PM,South West,Running,Indifferent
+PM,North West,Climbing,Eating,Tail flags,Runs from
+PM,South East,Running,Chasing
+AM,South East,Running,Chasing,Climbing,Indifferent
+PM,North West,Foraging,Indifferent
+AM,South East,Eating,Foraging,Indifferent
+AM,North West,Climbing,Eating,Foraging,Indifferent
+PM,South East,Eating,Tail twitches,Runs from
+AM,South East,Foraging,Indifferent
+AM,North East,Climbing,Indifferent
+AM,North East,Eating
+AM,North West,Indifferent
+PM,South East,Foraging,Indifferent
+AM,North West,Climbing
+AM,South West,Indifferent
+AM,North East,Indifferent
+PM,North East,Eating,Indifferent
+PM,South East,Foraging
+PM,South West,Running,Chasing,Climbing,Eating,Foraging,Indifferent
+AM,North East,Foraging,Tail twitches,Indifferent
+AM,North East,Eating,Foraging,Tail flags,Tail twitches,Indifferent
+AM,North West,Running,Chasing,Tail twitches,Indifferent
+AM,North East,Indifferent
+PM,North East,Foraging,Runs from
+AM,South East,Running,Climbing,Eating,Tail twitches,Runs from
+PM,South East,Climbing,Eating,Indifferent
+AM,South East,Eating
+PM,North West,Foraging,Indifferent
+AM,North East,Eating
+AM,North West,Foraging,Indifferent
+PM,South West,Eating,Indifferent
+PM,North East,Running,Climbing,Eating,Foraging,Tail twitches,Indifferent
+PM,North East,Chasing
+AM,North East,Eating,Indifferent
+PM,South West,Climbing,Eating,Foraging,Tail twitches
+AM,North East,Chasing
+PM,North East,Running,Chasing,Foraging
+PM,North West,Running,Eating,Foraging,Kuks,Tail twitches
+PM,North West,Climbing,Indifferent
+PM,North West,Foraging
+PM,South East,Climbing,Runs from
+PM,South West,Foraging
+PM,North West,Running,Foraging,Tail twitches,Runs from
+AM,North East,Chasing
+AM,South East,Foraging,Indifferent
+PM,North West,Eating,Indifferent
+PM,North West,Foraging
+PM,North East,Climbing
+PM,North East,Foraging,Tail twitches
+AM,South East,Running,Indifferent
+AM,South East,Foraging,Indifferent
+PM,North East,Foraging,Tail twitches
+AM,North West,Eating,Indifferent
+PM,North West,Climbing,Runs from
+AM,North East,Approaches
+PM,North West,Foraging,Indifferent
+AM,North East,Foraging,Indifferent
+AM,South East,Foraging,Runs from
+PM,North East,Chasing,Indifferent
+AM,North East,Running,Indifferent
+PM,North East,Foraging,Runs from
+AM,South East,Running,Eating,Indifferent
+AM,North West,Running
+AM,North West,Foraging,Indifferent
+PM,North West,Eating
+AM,North West,Climbing,Indifferent
+AM,North East,Foraging,Tail twitches,Indifferent
+AM,South East,Foraging,Indifferent
+PM,South East,Foraging,Runs from
+PM,North West,Running,Indifferent
+PM,South West,Climbing,Tail twitches,Indifferent
+PM,South West,Climbing
+PM,South East,Running,Climbing,Kuks,Runs from
+AM,North East,Foraging,Indifferent
+PM,North West,Running,Foraging
+AM,North East,Foraging,Runs from
+AM,North East,Eating,Foraging
+AM,North East,Foraging,Indifferent
+PM,North East,Foraging,Indifferent
+AM,South West,Climbing,Tail flags,Indifferent
+AM,North West,Running,Indifferent
+PM,North East,Foraging
+AM,North East,Eating,Indifferent
+PM,North West,Eating,Approaches
+AM,North West,Foraging,Tail twitches,Indifferent
+AM,South East,Climbing,Quaas,Runs from
+AM,North West,Eating,Indifferent
+PM,North West,Eating,Foraging,Indifferent
+PM,North West,Eating,Indifferent
+AM,South East,Running,Indifferent
+AM,North West,Climbing,Indifferent
+AM,North East,Running,Foraging,Runs from
+AM,North East,Climbing,Tail twitches,Approaches
+AM,South East,Climbing,Kuks,Tail flags,Indifferent
+PM,North West,Eating,Foraging,Indifferent
+PM,South East,Foraging,Approaches
+PM,North East,Chasing,Foraging,Tail flags,Indifferent
+PM,North East,Climbing
+PM,South East,Eating,Foraging,Runs from
+AM,North East,Foraging,Runs from
+PM,North East,Foraging
+AM,North East,Chasing,Climbing,Tail twitches,Indifferent
+AM,South East,Climbing,Indifferent
+AM,South West,Eating
+PM,North East,Eating
+AM,North West,Climbing
+PM,South East,Running,Climbing,Eating,Tail twitches,Runs from
+AM,North West,Foraging,Indifferent
+AM,North West,Climbing,Eating,Foraging,Indifferent,Runs from
+AM,South West,Running,Climbing
+PM,North West,Eating,Foraging,Tail twitches,Approaches
+AM,South West,Running,Indifferent
+AM,North West,Eating,Indifferent
+AM,North West,Eating,Indifferent
+PM,North West,Eating,Foraging,Runs from
+AM,North East,Climbing,Foraging,Indifferent
+PM,South West
+PM,South East,Running,Eating,Tail flags,Runs from
+AM,North East,Running,Indifferent
+AM,South East,Running,Runs from
+PM,North West,Foraging,Indifferent
+PM,South East,Foraging,Indifferent
+PM,North West,Foraging
+PM,North East,Eating,Foraging,Indifferent
+PM,North East,Eating,Indifferent
+AM,North East,Running,Foraging,Indifferent
+PM,North East,Running
+PM,South West,Running
+AM,North West,Running,Indifferent
+PM,North West,Foraging,Indifferent,Runs from
+PM,South West,Running,Indifferent
+PM,North East,Chasing,Foraging
+AM,North East,Climbing,Tail flags,Runs from
+AM,North East,Eating,Indifferent
+AM,North West,Running,Runs from
+AM,South West,Running,Climbing,Foraging
+AM,North East,Running
+AM,South East,Running,Eating,Foraging,Tail twitches,Indifferent
+PM,North East,Foraging,Indifferent
+PM,North East,Foraging
+PM,North East,Running,Foraging
+PM,South East,Eating,Foraging,Indifferent
+AM,North West,Running,Eating,Foraging,Indifferent
+AM,North East,Foraging,Indifferent
+PM,South West,Foraging,Indifferent
+AM,South East,Running,Chasing,Climbing,Indifferent
+AM,South East,Chasing,Indifferent
+AM,South West,Chasing,Indifferent
+AM,North East,Running,Eating,Foraging,Tail twitches
+PM,North East,Foraging
+AM,South East,Running,Foraging,Kuks,Indifferent
+PM,North East,Running
+PM,South East,Eating
+PM,North West,Foraging,Indifferent
+PM,North West,Running,Foraging,Runs from
+AM,South East,Chasing,Climbing
+PM,South East,Climbing,Indifferent
+AM,North East,Eating,Foraging,Indifferent
+AM,North East,Foraging,Indifferent
+AM,North East,Foraging,Indifferent
+PM,South West,Foraging
+PM,South East,Foraging
+PM,South West,Running,Chasing,Foraging,Tail twitches,Approaches,Indifferent
+PM,North East,Running,Foraging,Runs from
+PM,North East,Foraging,Indifferent
+PM,North West,Running,Chasing
+PM,North West,Eating,Indifferent
+AM,South West,Running,Runs from
+AM,North East,Foraging,Indifferent
+AM,North West,Indifferent
+PM,North East,Foraging
+PM,North East,Running,Eating,Foraging,Runs from
+PM,North East,Eating,Tail twitches,Indifferent
+PM,North East,Foraging,Indifferent
+AM,South East,Foraging,Approaches,Indifferent
+PM,North East,Foraging,Indifferent
+AM,South West,Running,Runs from
+PM,North East,Running,Indifferent
+PM,North East,Foraging,Indifferent
+PM,South West,Climbing,Foraging
+PM,South East,Running,Foraging,Indifferent
+AM,North East,Climbing,Tail twitches
+AM,North West,Running,Foraging,Indifferent
+PM,South East,Foraging,Indifferent
+PM,North East
+AM,North East,Running,Indifferent
+AM,North West,Running,Chasing,Foraging
+AM,North East,Eating,Foraging
+PM,South West,Climbing,Foraging,Tail twitches,Indifferent
+PM,North East,Running,Approaches
+PM,North West,Foraging,Indifferent
+PM,North West,Running,Tail flags,Indifferent
+AM,North East,Eating,Indifferent
+PM,South West,Running,Chasing,Tail twitches
+AM,North East,Foraging,Indifferent
+PM,South East,Running,Foraging,Kuks,Runs from
+PM,South East,Eating,Foraging
+PM,North East,Foraging,Kuks,Indifferent
+AM,North East,Running,Indifferent
+PM,North East,Running
+PM,South East,Running,Eating,Foraging,Runs from
+PM,South East,Foraging,Indifferent
+PM,South West,Foraging
+AM,North East
+PM,South East,Climbing,Eating,Indifferent,Runs from
+PM,South East,Foraging,Indifferent
+PM,North East,Climbing,Indifferent
+PM,South East,Eating,Tail twitches
+PM,South East,Climbing,Quaas
+PM,North West,Eating,Indifferent
+PM,South West,Foraging,Indifferent
+PM,North West,Climbing,Eating
+AM,North West,Chasing,Kuks,Runs from
+PM,North East,Running,Climbing,Runs from
+AM,South East,Eating,Foraging,Tail twitches,Indifferent
+PM,North West,Foraging,Indifferent
+AM,North West,Foraging
+AM,South East,Eating
+PM,South West,Foraging
+PM,South East,Running
+AM,North East,Climbing,Foraging,Indifferent
+AM,South East,Climbing,Indifferent
+AM,North West,Foraging,Runs from
+PM,South East,Eating,Foraging,Approaches
+AM,South East,Foraging,Tail flags,Indifferent
+PM,North East,Eating
+AM,South West,Running,Foraging
+PM,South West,Chasing,Foraging,Quaas,Tail flags,Indifferent
+PM,North West,Foraging,Indifferent
+PM,South East,Climbing,Approaches
+AM,South East,Foraging,Indifferent
+PM,North West,Foraging
+PM,North West,Running,Runs from
+PM,North East,Eating,Foraging
+PM,South West,Foraging,Tail twitches,Indifferent
+AM,North East,Foraging,Indifferent
+PM,North East,Running,Approaches
+PM,North East,Eating
+PM,North East,Eating,Foraging,Indifferent
+PM,North East,Running,Climbing,Eating,Tail twitches,Indifferent,Runs from
+AM,North East,Foraging,Indifferent
+PM,North East,Chasing,Indifferent
+AM,North West,Eating,Indifferent
+PM,South West,Running,Foraging,Tail twitches,Approaches,Runs from
+AM,North East,Climbing,Eating,Indifferent
+PM,North West,Running,Eating,Foraging,Indifferent
+PM,North West,Foraging,Indifferent
+AM,North West,Foraging,Indifferent
+AM,South East,Climbing,Foraging,Indifferent
+AM,North West,Foraging,Indifferent
+AM,North East,Foraging,Indifferent
+PM,South West
+PM,South East,Chasing
+AM,South East,Eating,Indifferent
+PM,North West,Foraging,Indifferent
+PM,North East,Eating,Indifferent
+PM,South West,Running,Climbing,Tail twitches,Runs from
+PM,South East,Climbing,Eating,Indifferent
+AM,North East,Chasing,Eating,Foraging,Indifferent
+PM,North East,Foraging,Indifferent
+AM,South East,Running,Runs from
+AM,North East,Running,Foraging,Indifferent
+AM,North East,Chasing,Runs from
+PM,South East,Running,Runs from
+AM,North West,Running,Climbing,Runs from
+PM,South East,Chasing,Indifferent
+AM,North West,Climbing,Indifferent
+PM,South West,Running
+PM,North West,Climbing,Quaas,Runs from
+AM,North East,Eating,Foraging,Tail twitches,Approaches,Indifferent
+PM,North West,Running,Climbing,Foraging,Runs from
+PM,South East,Foraging
+PM,South East,Running,Climbing,Kuks,Runs from
+PM,North East,Running,Tail flags,Runs from
+PM,North West,Eating,Foraging,Indifferent
+AM,North East,Foraging,Tail twitches,Indifferent
+PM,South East,Eating,Foraging,Runs from
+AM,South East,Climbing
+PM,North East,Foraging
+AM,South West,Foraging,Indifferent,Runs from
+PM,South East,Running,Climbing
+AM,South East,Foraging,Indifferent
+AM,North East,Foraging,Indifferent
+PM,South East,Foraging,Indifferent
+PM,South West,Climbing,Eating,Foraging,Tail twitches,Indifferent
+PM,South East,Foraging,Indifferent
+PM,South West,Running,Eating,Approaches
+PM,South East,Chasing,Tail twitches
+AM,North East,Foraging,Indifferent
+PM,South East,Foraging,Indifferent
+PM,North East,Eating,Foraging,Indifferent
+PM,South East,Climbing,Foraging
+AM,North East,Chasing,Eating,Indifferent
+AM,North East,Eating,Foraging,Indifferent
+PM,South West,Climbing,Runs from
+AM,North East,Foraging,Indifferent
+AM,North East,Running,Foraging,Tail twitches,Runs from
+AM,North East,Foraging,Indifferent
+PM,North West,Eating,Tail flags,Runs from
+PM,North East,Foraging
+AM,North East,Climbing,Eating,Foraging,Indifferent
+PM,North East,Chasing,Tail twitches,Indifferent
+AM,North West,Foraging,Approaches
+PM,South West,Foraging,Tail flags,Indifferent
+PM,North West,Eating,Foraging
+PM,North East,Climbing,Eating,Indifferent
+PM,North West,Running,Chasing,Indifferent
+PM,North East,Eating,Runs from
+AM,North West,Eating,Indifferent
+PM,North East,Climbing,Foraging,Indifferent
+PM,North East,Chasing
+AM,North East,Running,Indifferent
+PM,South East,Eating
+PM,North West,Climbing
+PM,South East,Eating
+PM,South West,Foraging,Indifferent
+AM,North East,Running,Eating,Foraging,Indifferent
+AM,South East,Chasing,Climbing,Indifferent
+PM,South West,Running,Foraging
+PM,South West,Climbing,Tail twitches,Runs from
+PM,South West,Foraging,Tail twitches
+AM,South East,Foraging,Tail flags,Indifferent
+PM,North East,Climbing
+PM,North West,Foraging,Runs from
+AM,South West,Running
+AM,North West,Tail twitches
+AM,South East,Foraging,Tail twitches
+AM,South West,Eating,Foraging,Indifferent
+PM,North West,Foraging,Indifferent
+AM,South East,Runs from
+PM,North East,Running
+PM,North East,Running,Foraging,Indifferent
+AM,North East,Climbing,Foraging,Runs from
+PM,North East
+AM,North East,Foraging,Indifferent
+AM,North East,Climbing,Tail twitches,Indifferent
+AM,North East,Climbing,Tail twitches,Runs from
+AM,North East,Running,Chasing
+PM,North East,Foraging,Runs from
+PM,North West,Foraging
+PM,North West,Running,Eating,Foraging,Indifferent
+PM,North East,Running,Tail twitches,Indifferent
+AM,North East,Running,Indifferent
+AM,South East,Foraging,Indifferent
+AM,North East,Running,Foraging,Indifferent
+AM,North East,Chasing,Indifferent
+AM,North East,Climbing,Indifferent
+AM,North West,Running,Indifferent
+PM,South West,Climbing,Eating,Indifferent
+AM,North East,Chasing,Indifferent
+AM,North West,Chasing,Foraging,Tail twitches,Indifferent
+PM,North West,Running,Indifferent
+AM,North East,Eating,Foraging,Indifferent
+AM,North East,Foraging,Approaches
+AM,North East,Running,Tail flags,Indifferent
+PM,North East,Foraging,Tail twitches,Runs from
+AM,North East,Eating,Runs from
+AM,North West,Eating
+AM,North East,Foraging,Tail flags,Approaches,Runs from
+PM,South West,Foraging,Runs from
+PM,North West,Running,Chasing
+AM,North East,Foraging,Approaches
+AM,North East,Chasing,Climbing,Quaas
+PM,South East,Climbing,Foraging,Runs from
+PM,South East,Running,Tail twitches,Indifferent
+PM,North East,Eating,Runs from
+AM,North East,Foraging
+PM,North West,Running,Indifferent
+AM,North West,Chasing,Climbing
+AM,North West,Running,Foraging
+PM,South West,Climbing,Indifferent
+PM,South East,Running,Eating,Tail twitches,Runs from
+AM,South West,Running,Runs from
+AM,North West,Running,Indifferent
+PM,North East,Eating
+PM,South East,Eating,Foraging,Indifferent
+PM,South East,Climbing
+PM,North West,Eating,Foraging,Approaches
+PM,South West,Foraging,Indifferent
+PM,North East,Eating,Foraging
+PM,North West,Climbing,Kuks,Indifferent
+PM,North West,Foraging,Tail twitches,Indifferent
+AM,North West,Foraging,Indifferent
+AM,North West,Foraging,Tail twitches,Runs from
+AM,North East,Foraging
+AM,South East,Foraging,Tail flags,Indifferent
+AM,North East,Eating,Foraging,Indifferent
+AM,South East,Running,Climbing,Tail flags,Runs from
+AM,South East,Foraging,Tail twitches,Runs from
+PM,South East,Indifferent
+AM,South East,Foraging,Indifferent
+PM,North East,Climbing,Indifferent
+AM,South East,Foraging
+PM,North East,Foraging,Indifferent
+AM,South East,Indifferent
+PM,North West,Running,Eating,Tail flags,Indifferent
+PM,South West,Chasing,Climbing
+PM,North East,Eating,Foraging,Runs from
+AM,North East,Eating,Foraging,Indifferent
+PM,South West,Running,Indifferent
+AM,North East,Chasing,Climbing,Tail twitches,Indifferent
+AM,North East,Chasing,Climbing,Indifferent
+AM,South East,Running,Runs from
+AM,South East,Chasing,Eating,Foraging,Indifferent
+AM,South East,Foraging,Indifferent
+PM,North East,Eating,Indifferent
+PM,South East,Foraging,Runs from
+AM,North West,Foraging,Tail twitches,Indifferent
+PM,North East,Foraging,Indifferent
+PM,North West,Foraging,Indifferent
+PM,South East,Foraging,Runs from
+AM,North West,Eating,Indifferent
+AM,South East,Eating,Indifferent
+PM,South West,Running,Chasing,Tail twitches,Runs from
+PM,South East,Foraging,Runs from
+PM,South East,Kuks
+PM,South East,Running,Climbing,Foraging,Runs from
+AM,North West,Climbing,Indifferent
+AM,North East,Eating,Foraging,Tail twitches
+PM,North East,Chasing,Tail twitches,Runs from
+AM,South East,Climbing,Eating,Kuks,Indifferent
+AM,South East,Eating,Foraging,Runs from
+PM,North East,Foraging,Indifferent
+PM,South East,Eating,Foraging,Indifferent

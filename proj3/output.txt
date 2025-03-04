@@ -1,0 +1,846 @@
+ ========== Frequent itemsets (min_sup=1.0%) ============================================================ 
+[PM], 52.90556900726392%
+[AM], 47.09443099273607%
+[Foraging], 41.64648910411623%
+[Indifferent], 38.86198547215496%
+[Running], 34.14043583535109%
+[Runs from], 33.171912832929785%
+[Eating], 32.92978208232446%
+[Climbing], 31.35593220338983%
+[North East], 30.508474576271187%
+[Tail twitches], 29.297820823244553%
+[South East], 26.27118644067797%
+[North West], 25.786924939467315%
+[Foraging,PM], 22.639225181598064%
+[Indifferent,PM], 20.09685230024213%
+[AM,Foraging], 19.00726392251816%
+[AM,Indifferent], 18.765133171912833%
+[Eating,PM], 18.765133171912833%
+[PM,Running], 18.64406779661017%
+[Foraging,Indifferent], 18.28087167070218%
+[PM,Runs from], 17.5544794188862%
+[South West], 17.433414043583532%
+[Chasing], 16.707021791767556%
+[PM,Tail twitches], 15.859564164648909%
+[AM,Climbing], 15.738498789346247%
+[AM,North East], 15.738498789346247%
+[AM,Runs from], 15.617433414043584%
+[Climbing,PM], 15.617433414043584%
+[AM,Running], 15.49636803874092%
+[Eating,Foraging], 15.49636803874092%
+[North East,PM], 14.769975786924938%
+[Eating,Indifferent], 14.527845036319611%
+[AM,Eating], 14.164648910411623%
+[Foraging,Runs from], 14.043583535108958%
+[Foraging,Tail twitches], 13.922518159806296%
+[PM,South East], 13.922518159806296%
+[North West,PM], 13.801452784503631%
+[Tail flags], 13.68038740920097%
+[AM,Tail twitches], 13.438256658595641%
+[Running,Runs from], 12.832929782082324%
+[Foraging,Running], 12.590799031477%
+[Foraging,North East], 12.469733656174334%
+[AM,South East], 12.34866828087167%
+[Indifferent,Running], 12.227602905569007%
+[Approaches], 11.98547215496368%
+[AM,North West], 11.98547215496368%
+[Climbing,Runs from], 11.864406779661017%
+[Climbing,Indifferent], 11.743341404358354%
+[Foraging,South East], 11.501210653753027%
+[Indifferent,Tail twitches], 11.259079903147699%
+[Indifferent,North East], 11.138014527845035%
+[North East,Running], 10.895883777239709%
+[Runs from,South East], 10.895883777239709%
+[Running,Tail twitches], 10.774818401937045%
+[Eating,Runs from], 10.411622276029057%
+[PM,South West], 10.411622276029057%
+[Indifferent,North West], 10.16949152542373%
+[Indifferent,South East], 10.048426150121065%
+[Climbing,North East], 9.927360774818402%
+[Eating,North East], 9.927360774818402%
+[Eating,Tail twitches], 9.927360774818402%
+[Foraging,North West], 9.927360774818402%
+[Climbing,Foraging], 9.443099273607748%
+[Runs from,Tail twitches], 9.443099273607748%
+[Eating,Foraging,PM], 9.443099273607748%
+[Climbing,Running], 9.322033898305085%
+[Eating,North West], 9.322033898305085%
+[Eating,Running], 9.322033898305085%
+[Foraging,Indifferent,PM], 9.200968523002421%
+[Kuks], 9.079903147699758%
+[Chasing,PM], 9.079903147699758%
+[North East,Tail twitches], 9.079903147699758%
+[AM,Foraging,Indifferent], 9.079903147699758%
+[North East,Runs from], 8.837772397094431%
+[North West,Running], 8.716707021791766%
+[Running,South East], 8.716707021791766%
+[Climbing,Eating], 8.47457627118644%
+[Climbing,North West], 8.232445520581114%
+[Climbing,South East], 8.232445520581114%
+[Eating,Indifferent,PM], 8.232445520581114%
+[Eating,South East], 8.111380145278451%
+[South East,Tail twitches], 7.8692493946731235%
+[Foraging,PM,Runs from], 7.8692493946731235%
+[Foraging,South West], 7.74818401937046%
+[Foraging,PM,Tail twitches], 7.74818401937046%
+[AM,Chasing], 7.627118644067797%
+[Chasing,Indifferent], 7.627118644067797%
+[Eating,Foraging,Indifferent], 7.627118644067797%
+[Indifferent,South West], 7.506053268765134%
+[North West,Runs from], 7.506053268765134%
+[North West,Tail twitches], 7.263922518159806%
+[Foraging,PM,Running], 7.263922518159806%
+[PM,Running,Runs from], 7.263922518159806%
+[Climbing,Tail twitches], 7.142857142857142%
+[PM,Tail flags], 7.142857142857142%
+[AM,South West], 7.021791767554479%
+[Indifferent,PM,Running], 6.900726392251816%
+[Indifferent,Tail flags], 6.658595641646489%
+[AM,Tail flags], 6.5375302663438255%
+[AM,Foraging,North East], 6.5375302663438255%
+[AM,Eating,Indifferent], 6.2953995157385%
+[Climbing,Indifferent,PM], 6.2953995157385%
+[AM,Foraging,Runs from], 6.174334140435835%
+[AM,Foraging,Tail twitches], 6.174334140435835%
+[Eating,PM,Tail twitches], 6.174334140435835%
+[Foraging,Indifferent,Tail twitches], 6.174334140435835%
+[Foraging,PM,South East], 6.174334140435835%
+[Indifferent,PM,Tail twitches], 6.174334140435835%
+[Approaches,PM], 6.053268765133172%
+[Chasing,North East], 6.053268765133172%
+[AM,Eating,Foraging], 6.053268765133172%
+[Climbing,PM,Runs from], 6.053268765133172%
+[PM,Runs from,South East], 6.053268765133172%
+[AM,Approaches], 5.932203389830509%
+[Chasing,Running], 5.932203389830509%
+[Runs from,South West], 5.932203389830509%
+[Eating,PM,Runs from], 5.932203389830509%
+[Foraging,North East,PM], 5.932203389830509%
+[Running,South West], 5.811138014527845%
+[AM,Climbing,North East], 5.811138014527845%
+[AM,Climbing,Runs from], 5.811138014527845%
+[Indifferent,North East,PM], 5.811138014527845%
+[PM,Running,Tail twitches], 5.811138014527845%
+[Approaches,Foraging], 5.690072639225181%
+[North East,PM,Running], 5.690072639225181%
+[Eating,South West], 5.569007263922518%
+[AM,Running,Runs from], 5.569007263922518%
+[Eating,North West,PM], 5.569007263922518%
+[Eating,PM,Running], 5.569007263922518%
+[AM,Climbing,Indifferent], 5.447941888619854%
+[AM,Indifferent,South East], 5.447941888619854%
+[Eating,Foraging,Tail twitches], 5.447941888619854%
+[AM,Foraging,Running], 5.326876513317192%
+[AM,Foraging,South East], 5.326876513317192%
+[AM,Indifferent,North East], 5.326876513317192%
+[AM,Indifferent,Running], 5.326876513317192%
+[Foraging,North West,PM], 5.326876513317192%
+[PM,Runs from,Tail twitches], 5.326876513317192%
+[AM,North East,Running], 5.205811138014528%
+[Foraging,Indifferent,South East], 5.205811138014528%
+[Foraging,PM,South West], 5.205811138014528%
+[South West,Tail twitches], 5.084745762711865%
+[AM,Eating,North East], 5.084745762711865%
+[AM,Indifferent,North West], 5.084745762711865%
+[AM,Indifferent,Tail twitches], 5.084745762711865%
+[Climbing,Foraging,PM], 5.084745762711865%
+[Eating,Foraging,Runs from], 5.084745762711865%
+[Indifferent,North West,PM], 5.084745762711865%
+[Quaas], 4.963680387409201%
+[Climbing,South West], 4.963680387409201%
+[Foraging,Tail flags], 4.963680387409201%
+[AM,Running,Tail twitches], 4.963680387409201%
+[Climbing,PM,Running], 4.963680387409201%
+[Eating,PM,South East], 4.963680387409201%
+[North West,PM,Running], 4.963680387409201%
+[AM,North East,Runs from], 4.842615012106537%
+[AM,North East,Tail twitches], 4.842615012106537%
+[AM,Runs from,South East], 4.842615012106537%
+[Eating,North East,PM], 4.842615012106537%
+[Foraging,North East,Tail twitches], 4.842615012106537%
+[Foraging,Running,Tail twitches], 4.842615012106537%
+[AM,Kuks], 4.721549636803874%
+[Eating,Foraging,North East], 4.721549636803874%
+[Foraging,Indifferent,North East], 4.721549636803874%
+[Foraging,Indifferent,Running], 4.721549636803874%
+[Foraging,Runs from,South East], 4.721549636803874%
+[Running,Runs from,South East], 4.721549636803874%
+[North East,Tail flags], 4.600484261501211%
+[AM,Foraging,North West], 4.600484261501211%
+[Climbing,Eating,PM], 4.600484261501211%
+[Climbing,North West,PM], 4.600484261501211%
+[Eating,Foraging,Running], 4.600484261501211%
+[Eating,Indifferent,Tail twitches], 4.600484261501211%
+[Foraging,Running,Runs from], 4.600484261501211%
+[Indifferent,PM,South East], 4.600484261501211%
+[Indifferent,PM,South West], 4.600484261501211%
+[Chasing,Tail twitches], 4.479418886198547%
+[Runs from,Tail flags], 4.479418886198547%
+[AM,Eating,Runs from], 4.479418886198547%
+[Eating,Indifferent,North East], 4.479418886198547%
+[Eating,Indifferent,North West], 4.479418886198547%
+[Foraging,Indifferent,North West], 4.479418886198547%
+[North West,PM,Tail twitches], 4.479418886198547%
+[Chasing,South East], 4.358353510895883%
+[Kuks,PM], 4.358353510895883%
+[AM,Climbing,Foraging], 4.358353510895883%
+[AM,Climbing,Running], 4.358353510895883%
+[AM,Running,South East], 4.358353510895883%
+[Climbing,Running,Runs from], 4.358353510895883%
+[Climbing,Runs from,South East], 4.358353510895883%
+[PM,Running,South East], 4.358353510895883%
+[Approaches,Eating], 4.23728813559322%
+[Chasing,Foraging], 4.23728813559322%
+[Eating,Tail flags], 4.23728813559322%
+[Running,Tail flags], 4.23728813559322%
+[Climbing,PM,South East], 4.23728813559322%
+[North East,PM,Tail twitches], 4.23728813559322%
+[Running,Runs from,Tail twitches], 4.23728813559322%
+[Eating,Foraging,Indifferent,PM], 4.23728813559322%
+[AM,Runs from,Tail twitches], 4.116222760290557%
+[Chasing,Indifferent,PM], 4.116222760290557%
+[Climbing,Foraging,Indifferent], 4.116222760290557%
+[Climbing,North East,PM], 4.116222760290557%
+[Eating,Foraging,North West], 4.116222760290557%
+[Eating,Indifferent,Running], 4.116222760290557%
+[Foraging,Runs from,Tail twitches], 4.116222760290557%
+[PM,South East,Tail twitches], 4.116222760290557%
+[Chasing,North West], 3.9951573849878934%
+[AM,Climbing,South East], 3.9951573849878934%
+[Eating,Foraging,South East], 3.9951573849878934%
+[Foraging,North East,Running], 3.9951573849878934%
+[Foraging,South East,Tail twitches], 3.9951573849878934%
+[North East,PM,Runs from], 3.9951573849878934%
+[North West,PM,Runs from], 3.9951573849878934%
+[North West,Tail flags], 3.87409200968523%
+[AM,Climbing,Eating], 3.87409200968523%
+[Foraging,Indifferent,South West], 3.87409200968523%
+[Indifferent,North East,Tail twitches], 3.87409200968523%
+[Indifferent,Running,Tail twitches], 3.87409200968523%
+[Approaches,Tail twitches], 3.753026634382567%
+[AM,Eating,North West], 3.753026634382567%
+[AM,Eating,Running], 3.753026634382567%
+[AM,Eating,Tail twitches], 3.753026634382567%
+[AM,North West,Running], 3.753026634382567%
+[AM,South East,Tail twitches], 3.753026634382567%
+[Eating,Runs from,South East], 3.753026634382567%
+[Indifferent,North East,Running], 3.753026634382567%
+[Indifferent,North West,Running], 3.753026634382567%
+[Eating,Foraging,PM,Tail twitches], 3.753026634382567%
+[Approaches,North East], 3.631961259079903%
+[Indifferent,Runs from], 3.631961259079903%
+[AM,Climbing,North West], 3.631961259079903%
+[Climbing,Eating,Indifferent], 3.631961259079903%
+[Climbing,PM,Tail twitches], 3.631961259079903%
+[Eating,Running,Runs from], 3.631961259079903%
+[PM,Running,South West], 3.631961259079903%
+[Running,South East,Tail twitches], 3.631961259079903%
+[Approaches,Running], 3.5108958837772395%
+[Climbing,Kuks], 3.5108958837772395%
+[Indifferent,Kuks], 3.5108958837772395%
+[AM,Chasing,Indifferent], 3.5108958837772395%
+[AM,Climbing,Tail twitches], 3.5108958837772395%
+[AM,North West,Runs from], 3.5108958837772395%
+[Chasing,PM,Running], 3.5108958837772395%
+[Climbing,Foraging,Runs from], 3.5108958837772395%
+[PM,Runs from,South West], 3.5108958837772395%
+[Chasing,Runs from], 3.389830508474576%
+[AM,Indifferent,Tail flags], 3.389830508474576%
+[Climbing,Eating,Runs from], 3.389830508474576%
+[Climbing,Indifferent,North West], 3.389830508474576%
+[Climbing,North East,Runs from], 3.389830508474576%
+[Eating,PM,South West], 3.389830508474576%
+[Foraging,North East,Runs from], 3.389830508474576%
+[North East,Running,Runs from], 3.389830508474576%
+[Runs from,South East,Tail twitches], 3.389830508474576%
+[AM,Eating,Foraging,Indifferent], 3.389830508474576%
+[Chasing,Climbing], 3.2687651331719128%
+[Kuks,Runs from], 3.2687651331719128%
+[Kuks,South East], 3.2687651331719128%
+[Chasing,North East,PM], 3.2687651331719128%
+[Climbing,Eating,Foraging], 3.2687651331719128%
+[Foraging,North West,Running], 3.2687651331719128%
+[Foraging,North West,Runs from], 3.2687651331719128%
+[Indifferent,PM,Tail flags], 3.2687651331719128%
+[Eating,Foraging,PM,Runs from], 3.2687651331719128%
+[Foraging,Indifferent,PM,Tail twitches], 3.2687651331719128%
+[Approaches,North West], 3.14769975786925%
+[Approaches,South East], 3.14769975786925%
+[Climbing,Tail flags], 3.14769975786925%
+[Foraging,Kuks], 3.14769975786925%
+[AM,Eating,South East], 3.14769975786925%
+[Climbing,Eating,North East], 3.14769975786925%
+[Climbing,Foraging,North East], 3.14769975786925%
+[Climbing,Indifferent,Running], 3.14769975786925%
+[Eating,Indifferent,South East], 3.14769975786925%
+[Eating,Running,Tail twitches], 3.14769975786925%
+[Climbing,Indifferent,North East], 3.026634382566586%
+[Climbing,North East,Running], 3.026634382566586%
+[Eating,North East,Running], 3.026634382566586%
+[Eating,North East,Tail twitches], 3.026634382566586%
+[Foraging,Indifferent,Tail flags], 3.026634382566586%
+[Foraging,Running,South East], 3.026634382566586%
+[North East,Running,Tail twitches], 3.026634382566586%
+[PM,South West,Tail twitches], 3.026634382566586%
+[Eating,Foraging,Indifferent,Tail twitches], 3.026634382566586%
+[Eating,Foraging,PM,Running], 3.026634382566586%
+[Eating,Indifferent,PM,Tail twitches], 3.026634382566586%
+[AM,Approaches,Foraging], 2.9055690072639226%
+[AM,Indifferent,South West], 2.9055690072639226%
+[Chasing,Foraging,PM], 2.9055690072639226%
+[Climbing,Indifferent,South East], 2.9055690072639226%
+[Climbing,Runs from,Tail twitches], 2.9055690072639226%
+[Indifferent,South East,Tail twitches], 2.9055690072639226%
+[AM,Foraging,Indifferent,South East], 2.9055690072639226%
+[AM,Foraging,Indifferent,Tail twitches], 2.9055690072639226%
+[Foraging,PM,Running,Tail twitches], 2.9055690072639226%
+[PM,Quaas], 2.784503631961259%
+[South East,Tail flags], 2.784503631961259%
+[AM,Chasing,North East], 2.784503631961259%
+[AM,North West,Tail twitches], 2.784503631961259%
+[Approaches,Foraging,PM], 2.784503631961259%
+[Climbing,Foraging,Running], 2.784503631961259%
+[Climbing,Indifferent,Tail twitches], 2.784503631961259%
+[Eating,North East,Runs from], 2.784503631961259%
+[Eating,Runs from,Tail twitches], 2.784503631961259%
+[Eating,South East,Tail twitches], 2.784503631961259%
+[Foraging,North West,Tail twitches], 2.784503631961259%
+[Foraging,Indifferent,PM,Running], 2.784503631961259%
+[Foraging,PM,Running,Runs from], 2.784503631961259%
+[PM,Running,Runs from,South East], 2.784503631961259%
+[Approaches,Climbing], 2.663438256658596%
+[Kuks,North East], 2.663438256658596%
+[AM,North East,Tail flags], 2.663438256658596%
+[Chasing,Indifferent,North East], 2.663438256658596%
+[Chasing,Indifferent,Running], 2.663438256658596%
+[Climbing,North West,Runs from], 2.663438256658596%
+[Climbing,PM,South West], 2.663438256658596%
+[Climbing,Running,Tail twitches], 2.663438256658596%
+[Eating,Foraging,South West], 2.663438256658596%
+[Eating,North West,Running], 2.663438256658596%
+[Foraging,Runs from,South West], 2.663438256658596%
+[Eating,Foraging,PM,South East], 2.663438256658596%
+[Foraging,PM,Runs from,South East], 2.663438256658596%
+[Foraging,PM,Runs from,Tail twitches], 2.663438256658596%
+[Chasing,Eating], 2.5423728813559325%
+[AM,Foraging,South West], 2.5423728813559325%
+[Approaches,Eating,PM], 2.5423728813559325%
+[Chasing,Foraging,Indifferent], 2.5423728813559325%
+[Chasing,PM,Tail twitches], 2.5423728813559325%
+[Climbing,Running,South East], 2.5423728813559325%
+[Foraging,PM,Tail flags], 2.5423728813559325%
+[Indifferent,North West,Tail twitches], 2.5423728813559325%
+[North West,PM,Tail flags], 2.5423728813559325%
+[PM,Running,Tail flags], 2.5423728813559325%
+[PM,Runs from,Tail flags], 2.5423728813559325%
+[AM,Foraging,North East,Tail twitches], 2.5423728813559325%
+[Eating,Foraging,North West,PM], 2.5423728813559325%
+[Eating,Indifferent,PM,Running], 2.5423728813559325%
+[Approaches,Runs from], 2.4213075060532687%
+[Kuks,Running], 2.4213075060532687%
+[South West,Tail flags], 2.4213075060532687%
+[AM,Chasing,Running], 2.4213075060532687%
+[AM,Foraging,Tail flags], 2.4213075060532687%
+[AM,Runs from,South West], 2.4213075060532687%
+[Climbing,Eating,North West], 2.4213075060532687%
+[Climbing,Indifferent,South West], 2.4213075060532687%
+[Eating,Indifferent,South West], 2.4213075060532687%
+[Eating,North West,Tail twitches], 2.4213075060532687%
+[Eating,PM,Tail flags], 2.4213075060532687%
+[Indifferent,Running,South East], 2.4213075060532687%
+[North West,Running,Runs from], 2.4213075060532687%
+[AM,Eating,Indifferent,North West], 2.4213075060532687%
+[AM,Foraging,Indifferent,North West], 2.4213075060532687%
+[Eating,Foraging,North East,PM], 2.4213075060532687%
+[Eating,Indifferent,North East,PM], 2.4213075060532687%
+[Foraging,Indifferent,North East,PM], 2.4213075060532687%
+[Foraging,Indifferent,PM,South West], 2.4213075060532687%
+[Indifferent,North East,PM,Tail twitches], 2.4213075060532687%
+[PM,Running,Runs from,Tail twitches], 2.4213075060532687%
+[Chasing,South West], 2.3002421307506054%
+[AM,Climbing,South West], 2.3002421307506054%
+[Chasing,PM,South East], 2.3002421307506054%
+[Climbing,Foraging,South East], 2.3002421307506054%
+[Eating,Running,South East], 2.3002421307506054%
+[Foraging,Running,South West], 2.3002421307506054%
+[Foraging,South West,Tail twitches], 2.3002421307506054%
+[Indifferent,Running,South West], 2.3002421307506054%
+[Running,Runs from,South West], 2.3002421307506054%
+[AM,Eating,Foraging,North East], 2.3002421307506054%
+[AM,Foraging,Indifferent,North East], 2.3002421307506054%
+[Climbing,Eating,Indifferent,PM], 2.3002421307506054%
+[Climbing,PM,Running,Runs from], 2.3002421307506054%
+[Climbing,PM,Runs from,South East], 2.3002421307506054%
+[Eating,PM,Running,Runs from], 2.3002421307506054%
+[Eating,PM,Runs from,South East], 2.3002421307506054%
+[Foraging,Indifferent,PM,South East], 2.3002421307506054%
+[Foraging,North East,PM,Tail twitches], 2.3002421307506054%
+[Indifferent,PM,Running,Tail twitches], 2.3002421307506054%
+[AM,Quaas], 2.1791767554479415%
+[Chasing,Tail flags], 2.1791767554479415%
+[AM,Eating,South West], 2.1791767554479415%
+[AM,Running,South West], 2.1791767554479415%
+[Approaches,Foraging,Tail twitches], 2.1791767554479415%
+[Climbing,Foraging,North West], 2.1791767554479415%
+[Climbing,North East,Tail twitches], 2.1791767554479415%
+[Climbing,North West,Running], 2.1791767554479415%
+[Eating,North West,Runs from], 2.1791767554479415%
+[Foraging,Indifferent,Runs from], 2.1791767554479415%
+[North East,Runs from,Tail twitches], 2.1791767554479415%
+[North West,Running,Tail twitches], 2.1791767554479415%
+[AM,Running,South East,Tail twitches], 2.1791767554479415%
+[Climbing,Eating,Foraging,PM], 2.1791767554479415%
+[Climbing,Foraging,Indifferent,PM], 2.1791767554479415%
+[Eating,Foraging,Indifferent,North East], 2.1791767554479415%
+[Eating,Foraging,Indifferent,North West], 2.1791767554479415%
+[Eating,Foraging,Indifferent,Running], 2.1791767554479415%
+[Foraging,North West,PM,Running], 2.1791767554479415%
+[Indifferent,North East,PM,Running], 2.1791767554479415%
+[Indifferent,North West,PM,Running], 2.1791767554479415%
+[Approaches,South West], 2.0581113801452786%
+[Eating,Kuks], 2.0581113801452786%
+[Quaas,South East], 2.0581113801452786%
+[Tail flags,Tail twitches], 2.0581113801452786%
+[AM,Approaches,North East], 2.0581113801452786%
+[AM,Chasing,North West], 2.0581113801452786%
+[AM,Chasing,South East], 2.0581113801452786%
+[AM,Climbing,Tail flags], 2.0581113801452786%
+[AM,South West,Tail twitches], 2.0581113801452786%
+[Approaches,PM,Tail twitches], 2.0581113801452786%
+[Chasing,North East,Running], 2.0581113801452786%
+[Chasing,Running,Tail twitches], 2.0581113801452786%
+[Climbing,Eating,Running], 2.0581113801452786%
+[Climbing,Foraging,Tail twitches], 2.0581113801452786%
+[Eating,Indifferent,Tail flags], 2.0581113801452786%
+[Indifferent,North West,Tail flags], 2.0581113801452786%
+[North West,Runs from,Tail twitches], 2.0581113801452786%
+[AM,Climbing,Running,Runs from], 2.0581113801452786%
+[AM,Climbing,Runs from,South East], 2.0581113801452786%
+[AM,Eating,Indifferent,North East], 2.0581113801452786%
+[AM,Foraging,North East,Runs from], 2.0581113801452786%
+[AM,Foraging,Runs from,South East], 2.0581113801452786%
+[AM,Foraging,South East,Tail twitches], 2.0581113801452786%
+[Climbing,Indifferent,North West,PM], 2.0581113801452786%
+[Climbing,Indifferent,PM,Running], 2.0581113801452786%
+[Climbing,Running,Runs from,South East], 2.0581113801452786%
+[Eating,Foraging,Running,Tail twitches], 2.0581113801452786%
+[Eating,Indifferent,North West,PM], 2.0581113801452786%
+[Eating,PM,Running,Tail twitches], 2.0581113801452786%
+[Foraging,Indifferent,North East,Tail twitches], 2.0581113801452786%
+[Foraging,Indifferent,North West,PM], 2.0581113801452786%
+[Foraging,North East,PM,Running], 2.0581113801452786%
+[Approaches,Indifferent], 1.937046004842615%
+[Foraging,Quaas], 1.937046004842615%
+[AM,Chasing,Tail twitches], 1.937046004842615%
+[AM,Climbing,Kuks], 1.937046004842615%
+[AM,Indifferent,Kuks], 1.937046004842615%
+[AM,Runs from,Tail flags], 1.937046004842615%
+[Chasing,Indifferent,South East], 1.937046004842615%
+[Chasing,Indifferent,Tail twitches], 1.937046004842615%
+[Chasing,North West,PM], 1.937046004842615%
+[Chasing,PM,Runs from], 1.937046004842615%
+[Foraging,Runs from,Tail flags], 1.937046004842615%
+[Indifferent,Running,Tail flags], 1.937046004842615%
+[Indifferent,South West,Tail twitches], 1.937046004842615%
+[North East,PM,Tail flags], 1.937046004842615%
+[Running,South West,Tail twitches], 1.937046004842615%
+[AM,Climbing,Foraging,Indifferent], 1.937046004842615%
+[AM,Climbing,Foraging,North East], 1.937046004842615%
+[AM,Foraging,Indifferent,Running], 1.937046004842615%
+[AM,Foraging,North East,Running], 1.937046004842615%
+[AM,Foraging,Running,Tail twitches], 1.937046004842615%
+[AM,Running,Runs from,South East], 1.937046004842615%
+[Eating,Foraging,Running,Runs from], 1.937046004842615%
+[Eating,Indifferent,North East,Tail twitches], 1.937046004842615%
+[Eating,Indifferent,PM,South East], 1.937046004842615%
+[Foraging,North West,PM,Runs from], 1.937046004842615%
+[Foraging,PM,Runs from,South West], 1.937046004842615%
+[Foraging,PM,South East,Tail twitches], 1.937046004842615%
+[PM,Runs from,South East,Tail twitches], 1.937046004842615%
+[Eating,Foraging,Indifferent,PM,Tail twitches], 1.937046004842615%
+[Indifferent,Quaas], 1.8159806295399514%
+[AM,Approaches,Climbing], 1.8159806295399514%
+[AM,Approaches,Running], 1.8159806295399514%
+[AM,Approaches,South East], 1.8159806295399514%
+[AM,Eating,Tail flags], 1.8159806295399514%
+[AM,Indifferent,Runs from], 1.8159806295399514%
+[AM,South East,Tail flags], 1.8159806295399514%
+[Approaches,Foraging,North East], 1.8159806295399514%
+[Approaches,North West,PM], 1.8159806295399514%
+[Chasing,Indifferent,North West], 1.8159806295399514%
+[Climbing,Foraging,South West], 1.8159806295399514%
+[Climbing,Kuks,Runs from], 1.8159806295399514%
+[Climbing,North West,Tail twitches], 1.8159806295399514%
+[Eating,North West,Tail flags], 1.8159806295399514%
+[Foraging,Kuks,PM], 1.8159806295399514%
+[Indifferent,PM,Runs from], 1.8159806295399514%
+[Indifferent,South West,Tail flags], 1.8159806295399514%
+[Runs from,South West,Tail twitches], 1.8159806295399514%
+[AM,Climbing,Eating,North East], 1.8159806295399514%
+[AM,Climbing,North East,Runs from], 1.8159806295399514%
+[AM,Eating,Foraging,Runs from], 1.8159806295399514%
+[AM,Foraging,Running,Runs from], 1.8159806295399514%
+[AM,Running,Runs from,Tail twitches], 1.8159806295399514%
+[Chasing,Foraging,Indifferent,PM], 1.8159806295399514%
+[Climbing,Foraging,PM,Runs from], 1.8159806295399514%
+[Eating,Foraging,Indifferent,South East], 1.8159806295399514%
+[Eating,Foraging,North East,Tail twitches], 1.8159806295399514%
+[Eating,Foraging,PM,South West], 1.8159806295399514%
+[Eating,Indifferent,PM,South West], 1.8159806295399514%
+[Eating,North East,PM,Tail twitches], 1.8159806295399514%
+[Eating,PM,Runs from,Tail twitches], 1.8159806295399514%
+[Foraging,Indifferent,South East,Tail twitches], 1.8159806295399514%
+[Foraging,North West,PM,Tail twitches], 1.8159806295399514%
+[Running,Runs from,South East,Tail twitches], 1.8159806295399514%
+[Chasing,Kuks], 1.694915254237288%
+[Kuks,North West], 1.694915254237288%
+[AM,Approaches,Eating], 1.694915254237288%
+[AM,Approaches,Tail twitches], 1.694915254237288%
+[AM,Kuks,Runs from], 1.694915254237288%
+[AM,Kuks,South East], 1.694915254237288%
+[AM,Running,Tail flags], 1.694915254237288%
+[Approaches,Eating,Foraging], 1.694915254237288%
+[Approaches,PM,Running], 1.694915254237288%
+[Chasing,Climbing,PM], 1.694915254237288%
+[Chasing,Eating,Indifferent], 1.694915254237288%
+[Climbing,Eating,South East], 1.694915254237288%
+[Climbing,Kuks,South East], 1.694915254237288%
+[Climbing,South East,Tail twitches], 1.694915254237288%
+[Eating,Foraging,Tail flags], 1.694915254237288%
+[Eating,Runs from,South West], 1.694915254237288%
+[Eating,South West,Tail twitches], 1.694915254237288%
+[Indifferent,Runs from,South East], 1.694915254237288%
+[PM,South West,Tail flags], 1.694915254237288%
+[AM,Climbing,Eating,Runs from], 1.694915254237288%
+[AM,Climbing,Foraging,Runs from], 1.694915254237288%
+[AM,Climbing,North East,Running], 1.694915254237288%
+[AM,Eating,Foraging,Tail twitches], 1.694915254237288%
+[AM,North East,Running,Runs from], 1.694915254237288%
+[Chasing,Indifferent,PM,Running], 1.694915254237288%
+[Climbing,Eating,PM,Runs from], 1.694915254237288%
+[Climbing,Indifferent,PM,Tail twitches], 1.694915254237288%
+[Eating,Foraging,Runs from,South East], 1.694915254237288%
+[Eating,North East,PM,Running], 1.694915254237288%
+[Eating,North West,PM,Running], 1.694915254237288%
+[Eating,North West,PM,Tail twitches], 1.694915254237288%
+[Eating,PM,South East,Tail twitches], 1.694915254237288%
+[Eating,Running,Runs from,South East], 1.694915254237288%
+[Foraging,Indifferent,Running,Tail twitches], 1.694915254237288%
+[Foraging,North East,Running,Tail twitches], 1.694915254237288%
+[Foraging,PM,South West,Tail twitches], 1.694915254237288%
+[Foraging,Running,Runs from,Tail twitches], 1.694915254237288%
+[North East,PM,Running,Runs from], 1.694915254237288%
+[Climbing,Quaas], 1.573849878934625%
+[Kuks,Quaas], 1.573849878934625%
+[AM,Chasing,Climbing], 1.573849878934625%
+[Approaches,Foraging,Indifferent], 1.573849878934625%
+[Approaches,Foraging,South East], 1.573849878934625%
+[Approaches,North East,PM], 1.573849878934625%
+[Chasing,North West,Running], 1.573849878934625%
+[Chasing,PM,South West], 1.573849878934625%
+[Climbing,Kuks,PM], 1.573849878934625%
+[Climbing,Running,South West], 1.573849878934625%
+[Indifferent,Kuks,PM], 1.573849878934625%
+[Indifferent,North East,Tail flags], 1.573849878934625%
+[Kuks,PM,Runs from], 1.573849878934625%
+[Kuks,PM,South East], 1.573849878934625%
+[North East,Runs from,Tail flags], 1.573849878934625%
+[Running,Runs from,Tail flags], 1.573849878934625%
+[AM,Climbing,Indifferent,North East], 1.573849878934625%
+[AM,Climbing,Runs from,Tail twitches], 1.573849878934625%
+[AM,Eating,Foraging,North West], 1.573849878934625%
+[AM,Eating,Foraging,Running], 1.573849878934625%
+[AM,Eating,Indifferent,Running], 1.573849878934625%
+[AM,Eating,Indifferent,Tail twitches], 1.573849878934625%
+[AM,Foraging,Indifferent,Tail flags], 1.573849878934625%
+[AM,Indifferent,North East,Running], 1.573849878934625%
+[AM,Indifferent,North West,Running], 1.573849878934625%
+[AM,Indifferent,Running,Tail twitches], 1.573849878934625%
+[AM,Indifferent,South East,Tail twitches], 1.573849878934625%
+[Chasing,Indifferent,North East,PM], 1.573849878934625%
+[Climbing,Eating,Foraging,Indifferent], 1.573849878934625%
+[Climbing,Foraging,PM,Running], 1.573849878934625%
+[Climbing,North East,PM,Runs from], 1.573849878934625%
+[Climbing,Running,Runs from,Tail twitches], 1.573849878934625%
+[Eating,Foraging,South East,Tail twitches], 1.573849878934625%
+[Eating,Indifferent,North East,Running], 1.573849878934625%
+[Foraging,PM,Running,South East], 1.573849878934625%
+[Foraging,Running,Runs from,South East], 1.573849878934625%
+[Foraging,Runs from,South East,Tail twitches], 1.573849878934625%
+[Indifferent,PM,Running,South West], 1.573849878934625%
+[North East,PM,Running,Tail twitches], 1.573849878934625%
+[North West,PM,Running,Tail twitches], 1.573849878934625%
+[PM,Running,Runs from,South West], 1.573849878934625%
+[Chasing,Quaas], 1.4527845036319613%
+[Kuks,South West], 1.4527845036319613%
+[Kuks,Tail twitches], 1.4527845036319613%
+[AM,Approaches,Runs from], 1.4527845036319613%
+[AM,Chasing,Runs from], 1.4527845036319613%
+[Approaches,Foraging,North West], 1.4527845036319613%
+[Approaches,Running,Tail twitches], 1.4527845036319613%
+[Chasing,Eating,PM], 1.4527845036319613%
+[Chasing,Foraging,North East], 1.4527845036319613%
+[Chasing,Foraging,Running], 1.4527845036319613%
+[Chasing,Indifferent,Tail flags], 1.4527845036319613%
+[Climbing,Eating,Tail twitches], 1.4527845036319613%
+[Climbing,North East,Tail flags], 1.4527845036319613%
+[Climbing,Runs from,South West], 1.4527845036319613%
+[Climbing,South West,Tail twitches], 1.4527845036319613%
+[Eating,Runs from,Tail flags], 1.4527845036319613%
+[Foraging,North East,Tail flags], 1.4527845036319613%
+[Indifferent,Kuks,South East], 1.4527845036319613%
+[Kuks,North East,PM], 1.4527845036319613%
+[North East,Running,Tail flags], 1.4527845036319613%
+[North West,Running,Tail flags], 1.4527845036319613%
+[AM,Climbing,Indifferent,South East], 1.4527845036319613%
+[AM,Climbing,North East,Tail twitches], 1.4527845036319613%
+[AM,Eating,Runs from,South East], 1.4527845036319613%
+[AM,Foraging,Indifferent,South West], 1.4527845036319613%
+[AM,Foraging,Running,South East], 1.4527845036319613%
+[AM,Foraging,Runs from,Tail twitches], 1.4527845036319613%
+[AM,Indifferent,North East,Tail twitches], 1.4527845036319613%
+[AM,Indifferent,Running,South East], 1.4527845036319613%
+[AM,North East,Running,Tail twitches], 1.4527845036319613%
+[AM,Runs from,South East,Tail twitches], 1.4527845036319613%
+[Climbing,Eating,North West,PM], 1.4527845036319613%
+[Climbing,Indifferent,North East,PM], 1.4527845036319613%
+[Climbing,Indifferent,PM,South East], 1.4527845036319613%
+[Climbing,North West,PM,Running], 1.4527845036319613%
+[Climbing,North West,PM,Runs from], 1.4527845036319613%
+[Climbing,PM,Running,Tail twitches], 1.4527845036319613%
+[Eating,Foraging,Indifferent,South West], 1.4527845036319613%
+[Eating,Foraging,North West,Running], 1.4527845036319613%
+[Eating,North East,PM,Runs from], 1.4527845036319613%
+[Foraging,Indifferent,North West,Running], 1.4527845036319613%
+[Foraging,Indifferent,PM,Tail flags], 1.4527845036319613%
+[Foraging,PM,Running,South West], 1.4527845036319613%
+[Foraging,Running,South East,Tail twitches], 1.4527845036319613%
+[PM,Running,South East,Tail twitches], 1.4527845036319613%
+[Eating,Foraging,Indifferent,PM,Running], 1.4527845036319613%
+[Eating,Foraging,PM,Running,Tail twitches], 1.4527845036319613%
+[Kuks,Tail flags], 1.331719128329298%
+[North East,Quaas], 1.331719128329298%
+[AM,Approaches,North West], 1.331719128329298%
+[AM,Chasing,Foraging], 1.331719128329298%
+[AM,Foraging,Kuks], 1.331719128329298%
+[AM,North West,Tail flags], 1.331719128329298%
+[Approaches,Eating,North West], 1.331719128329298%
+[Approaches,PM,South East], 1.331719128329298%
+[Approaches,PM,South West], 1.331719128329298%
+[Approaches,South East,Tail twitches], 1.331719128329298%
+[Chasing,Climbing,Indifferent], 1.331719128329298%
+[Chasing,Eating,Foraging], 1.331719128329298%
+[Chasing,Foraging,Tail twitches], 1.331719128329298%
+[Chasing,North East,Tail twitches], 1.331719128329298%
+[Chasing,PM,Tail flags], 1.331719128329298%
+[Chasing,Running,Runs from], 1.331719128329298%
+[Chasing,Running,South East], 1.331719128329298%
+[Chasing,South East,Tail twitches], 1.331719128329298%
+[Climbing,Indifferent,Kuks], 1.331719128329298%
+[Eating,Indifferent,Runs from], 1.331719128329298%
+[Eating,Running,South West], 1.331719128329298%
+[Foraging,Kuks,Runs from], 1.331719128329298%
+[Foraging,North West,Tail flags], 1.331719128329298%
+[Foraging,PM,Quaas], 1.331719128329298%
+[Kuks,PM,Running], 1.331719128329298%
+[Kuks,Running,Runs from], 1.331719128329298%
+[Kuks,Runs from,South East], 1.331719128329298%
+[Runs from,South East,Tail flags], 1.331719128329298%
+[AM,Climbing,Eating,Indifferent], 1.331719128329298%
+[AM,Climbing,Indifferent,North West], 1.331719128329298%
+[AM,Eating,Foraging,South East], 1.331719128329298%
+[AM,Eating,North East,Running], 1.331719128329298%
+[AM,Eating,North East,Runs from], 1.331719128329298%
+[AM,Eating,Running,Runs from], 1.331719128329298%
+[AM,Foraging,Indifferent,Runs from], 1.331719128329298%
+[AM,Foraging,North West,Runs from], 1.331719128329298%
+[AM,Indifferent,North West,Tail twitches], 1.331719128329298%
+[Chasing,North East,PM,Running], 1.331719128329298%
+[Climbing,Eating,Foraging,North East], 1.331719128329298%
+[Climbing,Eating,Foraging,Runs from], 1.331719128329298%
+[Climbing,Eating,Indifferent,North West], 1.331719128329298%
+[Climbing,Eating,North East,PM], 1.331719128329298%
+[Climbing,Eating,North East,Runs from], 1.331719128329298%
+[Climbing,Foraging,North West,PM], 1.331719128329298%
+[Climbing,Foraging,PM,South West], 1.331719128329298%
+[Climbing,Foraging,Running,Runs from], 1.331719128329298%
+[Climbing,Indifferent,PM,South West], 1.331719128329298%
+[Climbing,North East,PM,Running], 1.331719128329298%
+[Climbing,PM,Running,South East], 1.331719128329298%
+[Climbing,PM,Runs from,Tail twitches], 1.331719128329298%
+[Eating,Foraging,North East,Running], 1.331719128329298%
+[Eating,Foraging,North West,Runs from], 1.331719128329298%
+[Eating,Foraging,Runs from,Tail twitches], 1.331719128329298%
+[Eating,Indifferent,North West,Running], 1.331719128329298%
+[Eating,North West,PM,Runs from], 1.331719128329298%
+[Eating,North West,PM,Tail flags], 1.331719128329298%
+[Eating,PM,Running,South East], 1.331719128329298%
+[Eating,Runs from,South East,Tail twitches], 1.331719128329298%
+[Foraging,North East,PM,Runs from], 1.331719128329298%
+[Indifferent,North East,Running,Tail twitches], 1.331719128329298%
+[Indifferent,PM,South East,Tail twitches], 1.331719128329298%
+[North West,PM,Runs from,Tail twitches], 1.331719128329298%
+[Eating,Indifferent,North East,PM,Tail twitches], 1.331719128329298%
+[AM,Kuks,North East], 1.2106537530266344%
+[AM,Kuks,North West], 1.2106537530266344%
+[AM,Tail flags,Tail twitches], 1.2106537530266344%
+[Approaches,Foraging,Running], 1.2106537530266344%
+[Approaches,Foraging,Runs from], 1.2106537530266344%
+[Approaches,North East,Running], 1.2106537530266344%
+[Chasing,Climbing,North East], 1.2106537530266344%
+[Chasing,Climbing,Running], 1.2106537530266344%
+[Chasing,Indifferent,South West], 1.2106537530266344%
+[Chasing,Runs from,South East], 1.2106537530266344%
+[Climbing,Eating,South West], 1.2106537530266344%
+[Climbing,Indifferent,Runs from], 1.2106537530266344%
+[Climbing,Runs from,Tail flags], 1.2106537530266344%
+[Foraging,Indifferent,Kuks], 1.2106537530266344%
+[Foraging,Indifferent,Quaas], 1.2106537530266344%
+[Foraging,Kuks,Running], 1.2106537530266344%
+[Foraging,South West,Tail flags], 1.2106537530266344%
+[Indifferent,South East,Tail flags], 1.2106537530266344%
+[AM,Climbing,Foraging,Running], 1.2106537530266344%
+[AM,Climbing,North West,Runs from], 1.2106537530266344%
+[AM,Climbing,Running,South East], 1.2106537530266344%
+[AM,Climbing,Running,Tail twitches], 1.2106537530266344%
+[AM,Eating,Indifferent,South East], 1.2106537530266344%
+[AM,Eating,North East,Tail twitches], 1.2106537530266344%
+[AM,North East,Runs from,Tail twitches], 1.2106537530266344%
+[AM,North West,Running,Runs from], 1.2106537530266344%
+[Approaches,Foraging,PM,Tail twitches], 1.2106537530266344%
+[Climbing,Eating,Running,Runs from], 1.2106537530266344%
+[Climbing,Foraging,Indifferent,North West], 1.2106537530266344%
+[Climbing,Foraging,North East,PM], 1.2106537530266344%
+[Climbing,Foraging,North East,Runs from], 1.2106537530266344%
+[Climbing,Foraging,PM,South East], 1.2106537530266344%
+[Climbing,Foraging,Runs from,South East], 1.2106537530266344%
+[Climbing,North West,PM,Tail twitches], 1.2106537530266344%
+[Eating,Foraging,North East,Runs from], 1.2106537530266344%
+[Eating,Indifferent,PM,Tail flags], 1.2106537530266344%
+[Eating,Indifferent,Running,Tail twitches], 1.2106537530266344%
+[Eating,Indifferent,South East,Tail twitches], 1.2106537530266344%
+[Eating,Running,Runs from,Tail twitches], 1.2106537530266344%
+[Foraging,Indifferent,North East,Running], 1.2106537530266344%
+[Foraging,Indifferent,South West,Tail twitches], 1.2106537530266344%
+[Indifferent,North West,PM,Tail twitches], 1.2106537530266344%
+[Indifferent,PM,Running,Tail flags], 1.2106537530266344%
+[Indifferent,PM,South West,Tail flags], 1.2106537530266344%
+[Indifferent,PM,South West,Tail twitches], 1.2106537530266344%
+[North West,PM,Running,Runs from], 1.2106537530266344%
+[PM,Running,South West,Tail twitches], 1.2106537530266344%
+[AM,Eating,Foraging,Indifferent,North West], 1.2106537530266344%
+[Eating,Foraging,Indifferent,North East,Tail twitches], 1.2106537530266344%
+[Eating,Foraging,PM,Running,Runs from], 1.2106537530266344%
+[Eating,Foraging,PM,Runs from,South East], 1.2106537530266344%
+[Eating,PM,Running,Runs from,South East], 1.2106537530266344%
+[Foraging,Indifferent,North East,PM,Tail twitches], 1.2106537530266344%
+[Approaches,Tail flags], 1.0895883777239708%
+[Quaas,Running], 1.0895883777239708%
+[Quaas,Runs from], 1.0895883777239708%
+[AM,Chasing,Eating], 1.0895883777239708%
+[AM,Chasing,Kuks], 1.0895883777239708%
+[AM,Eating,Kuks], 1.0895883777239708%
+[AM,Kuks,Running], 1.0895883777239708%
+[AM,Quaas,South East], 1.0895883777239708%
+[Approaches,Eating,North East], 1.0895883777239708%
+[Approaches,Eating,South West], 1.0895883777239708%
+[Approaches,Eating,Tail twitches], 1.0895883777239708%
+[Approaches,Indifferent,PM], 1.0895883777239708%
+[Chasing,Climbing,North West], 1.0895883777239708%
+[Chasing,Foraging,South East], 1.0895883777239708%
+[Chasing,North East,Runs from], 1.0895883777239708%
+[Chasing,Runs from,Tail twitches], 1.0895883777239708%
+[Climbing,PM,Tail flags], 1.0895883777239708%
+[Eating,Running,Tail flags], 1.0895883777239708%
+[Foraging,Kuks,South East], 1.0895883777239708%
+[Foraging,Kuks,Tail twitches], 1.0895883777239708%
+[Foraging,Tail flags,Tail twitches], 1.0895883777239708%
+[Indifferent,PM,Quaas], 1.0895883777239708%
+[Kuks,North East,Runs from], 1.0895883777239708%
+[AM,Approaches,Foraging,South East], 1.0895883777239708%
+[AM,Chasing,Indifferent,North East], 1.0895883777239708%
+[AM,Chasing,Indifferent,South East], 1.0895883777239708%
+[AM,Climbing,Eating,Foraging], 1.0895883777239708%
+[AM,Climbing,Foraging,South East], 1.0895883777239708%
+[AM,Climbing,Foraging,Tail twitches], 1.0895883777239708%
+[AM,Climbing,Indifferent,Running], 1.0895883777239708%
+[AM,Climbing,Indifferent,South West], 1.0895883777239708%
+[AM,Climbing,Indifferent,Tail twitches], 1.0895883777239708%
+[AM,Climbing,Kuks,South East], 1.0895883777239708%
+[AM,Climbing,North East,Tail flags], 1.0895883777239708%
+[AM,Eating,Running,Tail twitches], 1.0895883777239708%
+[AM,Eating,South East,Tail twitches], 1.0895883777239708%
+[AM,Foraging,North West,Running], 1.0895883777239708%
+[Approaches,Eating,North West,PM], 1.0895883777239708%
+[Chasing,Eating,Foraging,Indifferent], 1.0895883777239708%
+[Chasing,Eating,Indifferent,PM], 1.0895883777239708%
+[Chasing,Foraging,PM,Running], 1.0895883777239708%
+[Chasing,PM,Running,Tail twitches], 1.0895883777239708%
+[Climbing,Eating,Indifferent,North East], 1.0895883777239708%
+[Climbing,Eating,PM,Running], 1.0895883777239708%
+[Climbing,Eating,PM,South East], 1.0895883777239708%
+[Climbing,Eating,PM,Tail twitches], 1.0895883777239708%
+[Climbing,Eating,Runs from,South East], 1.0895883777239708%
+[Climbing,Foraging,Indifferent,South West], 1.0895883777239708%
+[Climbing,Foraging,Indifferent,Tail twitches], 1.0895883777239708%
+[Climbing,Indifferent,North West,Running], 1.0895883777239708%
+[Climbing,Kuks,Runs from,South East], 1.0895883777239708%
+[Climbing,North East,Running,Runs from], 1.0895883777239708%
+[Climbing,Runs from,South East,Tail twitches], 1.0895883777239708%
+[Eating,Foraging,North West,Tail twitches], 1.0895883777239708%
+[Foraging,Indifferent,North West,Tail twitches], 1.0895883777239708%
+[Foraging,Indifferent,Running,South West], 1.0895883777239708%
+[Foraging,North East,Running,Runs from], 1.0895883777239708%
+[Foraging,North East,Runs from,Tail twitches], 1.0895883777239708%
+[Foraging,PM,Runs from,Tail flags], 1.0895883777239708%
+[Indifferent,North West,PM,Tail flags], 1.0895883777239708%
+[Indifferent,Running,South East,Tail twitches], 1.0895883777239708%
+[PM,Runs from,South West,Tail twitches], 1.0895883777239708%
+[AM,Eating,Foraging,Indifferent,North East], 1.0895883777239708%
+[AM,Eating,Foraging,Indifferent,Tail twitches], 1.0895883777239708%
+[Climbing,Eating,Foraging,Indifferent,PM], 1.0895883777239708%
+[Climbing,PM,Running,Runs from,South East], 1.0895883777239708%
+[Eating,Foraging,Indifferent,North East,PM], 1.0895883777239708%
+[Eating,Foraging,Indifferent,PM,South East], 1.0895883777239708%
+[Eating,Foraging,Indifferent,PM,South West], 1.0895883777239708%
+[Eating,Foraging,North East,PM,Tail twitches], 1.0895883777239708%
+[Eating,Foraging,North West,PM,Running], 1.0895883777239708%
+[Eating,Foraging,PM,Runs from,Tail twitches], 1.0895883777239708%
+[Foraging,Indifferent,PM,Running,Tail twitches], 1.0895883777239708%
+[Foraging,PM,Running,Runs from,Tail twitches], 1.0895883777239708%
+ ========== High-confidence association rules (min_conf=70.0%) ================================================== 
+[Eating,PM,Running,South East] => [Runs from] (Conf: 90.9090909090909%  Supp: 1.2106537530266344%)
+[Approaches,Eating,North West] => [PM] (Conf: 81.81818181818181%  Supp: 1.0895883777239708%)
+[Chasing,Eating,Foraging] => [Indifferent] (Conf: 81.81818181818181%  Supp: 1.0895883777239708%)
+[Kuks,Runs from,South East] => [Climbing] (Conf: 81.81818181818181%  Supp: 1.0895883777239708%)
+[Climbing,PM,Running,South East] => [Runs from] (Conf: 81.81818181818181%  Supp: 1.0895883777239708%)
+[Eating,Foraging,Runs from,Tail twitches] => [PM] (Conf: 81.81818181818181%  Supp: 1.0895883777239708%)
+[Approaches,Indifferent] => [Foraging] (Conf: 81.25%  Supp: 1.573849878934625%)
+[Climbing,Running,South East] => [Runs from] (Conf: 80.95238095238095%  Supp: 2.0581113801452786%)
+[AM,Eating,Foraging,North West] => [Indifferent] (Conf: 76.92307692307692%  Supp: 1.2106537530266344%)
+[South West,Tail flags] => [Indifferent] (Conf: 75.0%  Supp: 1.8159806295399514%)
+[Eating,Indifferent,South West] => [PM] (Conf: 75.0%  Supp: 1.8159806295399514%)
+[Kuks,Tail twitches] => [Foraging] (Conf: 74.99999999999999%  Supp: 1.0895883777239708%)
+[Climbing,North East,Tail flags] => [AM] (Conf: 74.99999999999999%  Supp: 1.0895883777239708%)
+[Chasing,Eating,PM] => [Indifferent] (Conf: 74.99999999999999%  Supp: 1.0895883777239708%)
+[Chasing,Foraging,Running] => [PM] (Conf: 74.99999999999999%  Supp: 1.0895883777239708%)
+[Climbing,Eating,Tail twitches] => [PM] (Conf: 74.99999999999999%  Supp: 1.0895883777239708%)
+[Eating,Foraging,Indifferent,South West] => [PM] (Conf: 74.99999999999999%  Supp: 1.0895883777239708%)
+[Eating,Foraging,North West,Running] => [PM] (Conf: 74.99999999999999%  Supp: 1.0895883777239708%)
+[Eating,Running,South East] => [Runs from] (Conf: 73.68421052631578%  Supp: 1.694915254237288%)
+[Foraging,South West,Tail twitches] => [PM] (Conf: 73.68421052631578%  Supp: 1.694915254237288%)
+[AM,Indifferent,Runs from] => [Foraging] (Conf: 73.33333333333334%  Supp: 1.331719128329298%)
+[Climbing,Foraging,South West] => [PM] (Conf: 73.33333333333334%  Supp: 1.331719128329298%)
+[Eating,North West,Tail flags] => [PM] (Conf: 73.33333333333334%  Supp: 1.331719128329298%)
+[Eating,North East,PM,Tail twitches] => [Indifferent] (Conf: 73.33333333333334%  Supp: 1.331719128329298%)
+[Foraging,Runs from,South West] => [PM] (Conf: 72.72727272727273%  Supp: 1.937046004842615%)
+[North West,Running,Tail twitches] => [PM] (Conf: 72.22222222222223%  Supp: 1.573849878934625%)
+[Kuks,North West] => [AM] (Conf: 71.42857142857143%  Supp: 1.2106537530266344%)
+[PM,South West,Tail flags] => [Indifferent] (Conf: 71.42857142857143%  Supp: 1.2106537530266344%)
+[Eating,Foraging,Runs from,South East] => [PM] (Conf: 71.42857142857143%  Supp: 1.2106537530266344%)
+[Eating,Running,Runs from,South East] => [PM] (Conf: 71.42857142857143%  Supp: 1.2106537530266344%)
+[Chasing,Foraging,Indifferent] => [PM] (Conf: 71.42857142857142%  Supp: 1.8159806295399514%)
+[Eating,PM,Running,Tail twitches] => [Foraging] (Conf: 70.58823529411765%  Supp: 1.4527845036319613%)
+[Eating,Foraging,Running,Tail twitches] => [PM] (Conf: 70.58823529411765%  Supp: 1.4527845036319613%)
+[South West,Tail flags] => [PM] (Conf: 70.0%  Supp: 1.694915254237288%)
+[Eating,North West,Tail twitches] => [PM] (Conf: 70.0%  Supp: 1.694915254237288%)
