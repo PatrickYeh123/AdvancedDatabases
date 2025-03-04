@@ -1,0 +1,189 @@
+Loading pre-trained spanBERT from ./pretrained_spanbert
+____
+Parameters:
+Client key	= AIzaSyBOskhE799tyaHkMxJc08i3YLZiJj6vubw
+Engine key	= 10e635b85174848d2
+Gemini key	= AIzaSyBbOpPrCbS0_kM0Z1PIp2t3SLQKee4Wqv0
+Method	= spanbert
+Relation	= Work_For
+Threshold	= 0.7
+Query		= bill gates microsoft
+# of Tuples	= 10
+Loading necessary libraries; This should take a minute or so ...)
+=========== Iteration: 0 - Query: bill gates microsoft ===========
+Google Search Results:
+======================
+URL ( 1 / 10): https://en.wikipedia.org/wiki/Bill_Gates
+Fetching text from url ...
+Trimming webpage content from 145104 to 10000 characters
+Webpage length (num characters): 10000
+Annotating the webpage using spacy...
+Extracted 69 sentences. Processing each sentence one by one to check for presence of right pair of named entity types; if so, will run the second pipeline ...
+Processed 5 / 69 sentences
+Processed 10 / 69 sentences
+Processed 15 / 69 sentences
+Processed 20 / 69 sentences
+Processed 25 / 69 sentences
+=== Extracted Relation ===
+Input tokens: ['Foundation', 'Title', 'See', 'list', 'Co', '-', 'chair', 'of', 'the', 'Bill', '&', 'Melinda', 'Gates', 'Foundation', 'Chairman', 'and', 'founder', 'of', 'Cascade', 'Investment', 'Chairman', 'and', 'founder', 'of', 'Branded', 'Entertainment', 'Network', 'Chairman', 'and', 'co', '-', 'founder', 'of', 'TerraPower', 'Founder', 'of', 'Breakthrough', 'Energy', 'Founder', 'of', 'Gates', 'Ventures', 'Technology', 'advisor', 'of', 'Microsoft', '[', '1', ']', 'Spouse', 'Melinda', 'French', '\u200b', '\u200b']
+Confidence: 0.9640027 ; Subject: Melinda ; Object: TerraPower Founder
+Added or updated to the set!
+=== Extracted Relation ===
+Input tokens: ['Foundation', 'Title', 'See', 'list', 'Co', '-', 'chair', 'of', 'the', 'Bill', '&', 'Melinda', 'Gates', 'Foundation', 'Chairman', 'and', 'founder', 'of', 'Cascade', 'Investment', 'Chairman', 'and', 'founder', 'of', 'Branded', 'Entertainment', 'Network', 'Chairman', 'and', 'co', '-', 'founder', 'of', 'TerraPower', 'Founder', 'of', 'Breakthrough', 'Energy', 'Founder', 'of', 'Gates', 'Ventures', 'Technology', 'advisor', 'of', 'Microsoft', '[', '1', ']', 'Spouse', 'Melinda', 'French', '\u200b', '\u200b']
+Confidence: 0.99330676 ; Subject: Melinda ; Object: Gates Ventures Technology
+Added or updated to the set!
+Processed 30 / 69 sentences
+Processed 35 / 69 sentences
+=== Extracted Relation ===
+Input tokens: ['In', '1975', ',', 'he', 'and', 'Allen', 'founded', 'Microsoft', 'in', 'Albuquerque', ',', 'New', 'Mexico', '.']
+Confidence: 0.9881678 ; Subject: Allen ; Object: Microsoft
+Added or updated to the set!
+Processed 40 / 69 sentences
+=== Extracted Relation ===
+Input tokens: ['[', '6', ']', 'He', 'stepped', 'down', 'as', 'chairman', 'of', 'the', 'Microsoft', 'board', 'in', 'February', '2014', 'and', 'assumed', 'the', 'role', 'of', 'technology', 'adviser', 'to', 'support', 'newly', 'appointed', 'CEO', 'Satya', 'Nadella', '.']
+Confidence: 0.9972686 ; Subject: Satya Nadella ; Object: Microsoft
+Added or updated to the set!
+=== Extracted Relation ===
+Input tokens: ['[', '7', ']', 'In', 'March', '2020', ',', 'Gates', 'left', 'his', 'board', 'positions', 'at', 'Microsoft', 'and', 'Berkshire', 'Hathaway', 'to', 'focus', 'on', 'his', 'philanthropic', 'efforts', 'on', 'climate', 'change', ',', 'global', 'health', 'and', 'development', ',', 'and', 'education', '.']
+Confidence: 0.761939 ; Subject: Berkshire Hathaway ; Object: Gates
+Added or updated to the set!
+=== Extracted Relation ===
+Input tokens: ['[', '7', ']', 'In', 'March', '2020', ',', 'Gates', 'left', 'his', 'board', 'positions', 'at', 'Microsoft', 'and', 'Berkshire', 'Hathaway', 'to', 'focus', 'on', 'his', 'philanthropic', 'efforts', 'on', 'climate', 'change', ',', 'global', 'health', 'and', 'development', ',', 'and', 'education', '.']
+Confidence: 0.73826635 ; Subject: Berkshire Hathaway ; Object: Microsoft
+Added or updated to the set!
+Processed 45 / 69 sentences
+=== Extracted Relation ===
+Input tokens: ['In', 'October', '2017', ',', 'he', 'was', 'surpassed', 'by', 'Amazon', 'founder', 'Jeff', 'Bezos', ',', 'who', 'had', 'an', 'estimated', 'net', 'worth', 'of', 'US$', '90.6', '\xa0', 'billion', 'compared', 'to', 'Gates', "'s", 'net', 'worth', 'of', 'US$', '89.9', '\xa0', 'billion', 'at', 'the', 'time', '.']
+Confidence: 0.99580115 ; Subject: Jeff Bezos ; Object: Amazon
+Added or updated to the set!
+=== Extracted Relation ===
+Input tokens: ['In', 'October', '2017', ',', 'he', 'was', 'surpassed', 'by', 'Amazon', 'founder', 'Jeff', 'Bezos', ',', 'who', 'had', 'an', 'estimated', 'net', 'worth', 'of', 'US$', '90.6', '\xa0', 'billion', 'compared', 'to', 'Gates', "'s", 'net', 'worth', 'of', 'US$', '89.9', '\xa0', 'billion', 'at', 'the', 'time', '.']
+Confidence: 0.9505002 ; Subject: Jeff Bezos ; Object: Gates
+Added or updated to the set!
+Processed 50 / 69 sentences
+Processed 55 / 69 sentences
+Processed 60 / 69 sentences
+Processed 65 / 69 sentences
+Annotations extracted for 15 out of 69 sentences.
+Relations added/updated: 8 out of 8 total
+URL ( 2 / 10): https://twitter.com/BillGates
+Fetching text from url ...
+Webpage length (num characters): 255
+Annotating the webpage using spacy...
+Extracted 4 sentences. Processing each sentence one by one to check for presence of right pair of named entity types; if so, will run the second pipeline ...
+Annotations extracted for 0 out of 4 sentences.
+Relations added/updated: 0 out of 8 total
+URL ( 3 / 10): https://www.instagram.com/thisisbillgates/?hl=en
+Fetching text from url ...
+Webpage length (num characters): 17
+Annotating the webpage using spacy...
+Extracted 1 sentences. Processing each sentence one by one to check for presence of right pair of named entity types; if so, will run the second pipeline ...
+Annotations extracted for 0 out of 1 sentences.
+Relations added/updated: 0 out of 8 total
+URL ( 4 / 10): https://news.microsoft.com/tag/bill-gates/
+Fetching text from url ...
+Webpage length (num characters): 33
+Annotating the webpage using spacy...
+Extracted 1 sentences. Processing each sentence one by one to check for presence of right pair of named entity types; if so, will run the second pipeline ...
+Annotations extracted for 0 out of 1 sentences.
+Relations added/updated: 0 out of 8 total
+URL ( 5 / 10): https://www.britannica.com/biography/Bill-Gates
+Fetching text from url ...
+Trimming webpage content from 12577 to 10000 characters
+Webpage length (num characters): 10000
+Annotating the webpage using spacy...
+Extracted 64 sentences. Processing each sentence one by one to check for presence of right pair of named entity types; if so, will run the second pipeline ...
+Processed 5 / 64 sentences
+Processed 10 / 64 sentences
+Processed 15 / 64 sentences
+Processed 20 / 64 sentences
+Processed 25 / 64 sentences
+Processed 30 / 64 sentences
+Processed 35 / 64 sentences
+=== Extracted Relation ===
+Input tokens: ['Bill', 'Gates', 'cofounded', 'Microsoft', 'Corporation', ',', 'the', 'world', '’s', 'largest', 'personal', '-', 'computer', 'software', 'company', '.']
+Confidence: 0.9180271 ; Subject: Bill Gates ; Object: Microsoft Corporation
+Added or updated to the set!
+Processed 40 / 64 sentences
+=== Extracted Relation ===
+Input tokens: ['Bill', 'Gates', 'founded', 'the', 'software', 'company', 'Microsoft', 'Corporation', 'with', 'his', 'friend', 'Paul', 'Allen', '.']
+Confidence: 0.98681915 ; Subject: Bill Gates ; Object: Microsoft Corporation
+Added or updated to the set!
+Processed 45 / 64 sentences
+=== Extracted Relation ===
+Input tokens: ['Bill', 'Gates', '(', 'born', 'October', '28', ',', '1955', ',', 'Seattle', ',', 'Washington', ',', 'U.S.', ')', 'is', 'an', 'American', 'computer', 'programmer', 'and', 'entrepreneur', 'who', 'cofounded', 'Microsoft', 'Corporation', ',', 'the', 'world', '’s', 'largest', 'personal', '-', 'computer', 'software', 'company', '.']
+Confidence: 0.97917324 ; Subject: Bill Gates ; Object: Microsoft Corporation
+Confidence was too low or lower than a previous duplicate entry
+Processed 50 / 64 sentences
+Processed 55 / 64 sentences
+Processed 60 / 64 sentences
+Annotations extracted for 13 out of 64 sentences.
+Relations added/updated: 2 out of 10 total
+URL ( 6 / 10): https://www.linkedin.com/in/williamhgates
+Fetching text from url ...
+Webpage length (num characters): 0
+Annotating the webpage using spacy...
+Extracted 0 sentences. Processing each sentence one by one to check for presence of right pair of named entity types; if so, will run the second pipeline ...
+Annotations extracted for 0 out of 0 sentences.
+Relations added/updated: 0 out of 10 total
+URL ( 7 / 10): https://www.hindustantimes.com/business/who-is-bill-gates-girlfriend-paula-hurd-with-whom-he-attended-anant-ambani-radhika-merchant-pre-wedding-celebrations-101709711700593.html
+Fetching text from url ...
+Webpage length (num characters): 13
+Annotating the webpage using spacy...
+Extracted 1 sentences. Processing each sentence one by one to check for presence of right pair of named entity types; if so, will run the second pipeline ...
+Annotations extracted for 0 out of 1 sentences.
+Relations added/updated: 0 out of 10 total
+URL ( 8 / 10): https://www.forbes.com/profile/bill-gates/
+Fetching text from url ...
+Webpage length (num characters): 7057
+Annotating the webpage using spacy...
+Extracted 36 sentences. Processing each sentence one by one to check for presence of right pair of named entity types; if so, will run the second pipeline ...
+Processed 5 / 36 sentences
+Processed 10 / 36 sentences
+Processed 15 / 36 sentences
+Processed 20 / 36 sentences
+Processed 25 / 36 sentences
+=== Extracted Relation ===
+Input tokens: ['By', 'Amy', 'Feldman', 'Forbes', 'Staff', 'Mar', '4', ',', '2024', 'Bob', 'Moses', 'Preached', 'The', 'Power', 'Of', 'Math', 'Bill', 'Gates', ',', 'the', 'Microsoft', 'founder', ',', 'is', 'on', 'a', 'crusade', 'to', 'prioritize', 'math', '.']
+Confidence: 0.98788124 ; Subject: Amy Feldman ; Object: Microsoft
+Added or updated to the set!
+=== Extracted Relation ===
+Input tokens: ['By', 'Amy', 'Feldman', 'Forbes', 'Staff', 'Mar', '4', ',', '2024', 'Bob', 'Moses', 'Preached', 'The', 'Power', 'Of', 'Math', 'Bill', 'Gates', ',', 'the', 'Microsoft', 'founder', ',', 'is', 'on', 'a', 'crusade', 'to', 'prioritize', 'math', '.']
+Confidence: 0.9881988 ; Subject: Bob Moses ; Object: Microsoft
+Added or updated to the set!
+Processed 30 / 36 sentences
+=== Extracted Relation ===
+Input tokens: ['By', 'Alan', 'Ohnsman', 'Forbes', 'Staff', 'Jan', '25', ',', '2024', 'Bill', '&', 'Melinda', 'Gates', 'Foundation', 'Chief', 'Calls', 'On', 'More', 'Billionaires', 'To', 'Do', 'More', 'Philanthropy', 'Extreme', 'poverty', 'has', 'increased', '.']
+Confidence: 0.99160016 ; Subject: Alan Ohnsman Forbes ; Object: Bill & Melinda Gates Foundation
+Added or updated to the set!
+Processed 35 / 36 sentences
+Annotations extracted for 15 out of 36 sentences.
+Relations added/updated: 3 out of 13 total
+URL ( 9 / 10): https://answers.microsoft.com/en-us/outlook_com/forum/all/microsoft-and-bill-gates-are-so-damn-screwed-up/cd76d0e2-ece4-45db-8886-00d557d593e2
+Fetching text from url ...
+Webpage length (num characters): 11
+Annotating the webpage using spacy...
+Extracted 1 sentences. Processing each sentence one by one to check for presence of right pair of named entity types; if so, will run the second pipeline ...
+Annotations extracted for 0 out of 1 sentences.
+Relations added/updated: 0 out of 13 total
+URL ( 10 / 10): https://www.gatesnotes.com/The-Age-of-AI-Has-Begun
+Fetching text from url ...
+Webpage length (num characters): 174
+Annotating the webpage using spacy...
+Extracted 2 sentences. Processing each sentence one by one to check for presence of right pair of named entity types; if so, will run the second pipeline ...
+Annotations extracted for 0 out of 2 sentences.
+Relations added/updated: 0 out of 13 total
+================== TOP RELATIONS =================
+Relation: Work_For
+(Ignore if Gemini) For k = 10
+Confidence: 0.9972686 | Subject: Satya Nadella | Object: Microsoft
+Confidence: 0.99580115 | Subject: Jeff Bezos | Object: Amazon
+Confidence: 0.99330676 | Subject: Melinda | Object: Gates Ventures Technology
+Confidence: 0.99160016 | Subject: Alan Ohnsman Forbes | Object: Bill & Melinda Gates Foundation
+Confidence: 0.9881988 | Subject: Bob Moses | Object: Microsoft
+Confidence: 0.9881678 | Subject: Allen | Object: Microsoft
+Confidence: 0.98788124 | Subject: Amy Feldman | Object: Microsoft
+Confidence: 0.98681915 | Subject: Bill Gates | Object: Microsoft Corporation
+Confidence: 0.9640027 | Subject: Melinda | Object: TerraPower Founder
+Confidence: 0.9505002 | Subject: Jeff Bezos | Object: Gates
+Total # of iterations = 1
