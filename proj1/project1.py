@@ -18,8 +18,8 @@ def main(stop_words):
     # Build a service object for interacting with the API. Visit
     # the Google APIs Console <http://code.google.com/apis/console>
     # to get an API key for your own application.
-    clientKey = "AIzaSyBOskhE799tyaHkMxJc08i3YLZiJj6vubw"
-    engineKey = "10e635b85174848d2"
+    clientKey = "xyz"
+    engineKey = "xyz"
     service = build(
         "customsearch", "v1", developerKey=clientKey
     )
