@@ -22,7 +22,7 @@ import google.generativeai as genai
 import time
 
 # Apply Gemini API Key
-GEMINI_API_KEY = 'AIzaSyBbOpPrCbS0_kM0Z1PIp2t3SLQKee4Wqv0'  # Substitute your own key here
+GEMINI_API_KEY = 'xyz'  # Substitute your own key here
 genai.configure(api_key=GEMINI_API_KEY)
 
 # Generate response to prompt
@@ -62,14 +62,14 @@ def main():
     # Build a service object for interacting with the API. Visit
     # the Google APIs Console <http://code.google.com/apis/console>
     # to get an API key for your own application.
-    clientKey = "AIzaSyBOskhE799tyaHkMxJc08i3YLZiJj6vubw"
-    engineKey = "10e635b85174848d2"
+    clientKey = "xyz"
+    engineKey = "xyz"
     service = build(
         "customsearch", "v1", developerKey=clientKey
     )
 
     # Gemini API key
-    geminiKey = "AIzaSyBbOpPrCbS0_kM0Z1PIp2t3SLQKee4Wqv0"
+    geminiKey = "xyz"
 
     #print ('argument list', sys.argv)
     is_spanbert = False
